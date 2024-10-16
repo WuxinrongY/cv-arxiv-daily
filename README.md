@@ -1,4 +1,4 @@
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -21,7 +21,7 @@
 |**2024-10-14**|**GlobalMamba: Global Image Serialization for Vision Mamba**|Chengkun Wang et.al.|[2410.10316](http://arxiv.org/abs/2410.10316)|**[link](https://github.com/wangck20/globalmamba)**|
 |**2024-10-14**|**ROA-BEV: 2D Region-Oriented Attention for BEV-based 3D Object**|Jiwei Chen et.al.|[2410.10298](http://arxiv.org/abs/2410.10298)|null|
 |**2024-10-14**|**Out-of-Bounding-Box Triggers: A Stealthy Approach to Cheat Object Detectors**|Tao Lin et.al.|[2410.10091](http://arxiv.org/abs/2410.10091)|**[link](https://github.com/lintotao/out-of-bbox-attack)**|
-|**2024-10-13**|**Optimizing Waste Management with Advanced Object Detection for Garbage Classification**|Everest Z. Kuang et.al.|[2410.09975](http://arxiv.org/abs/2410.09975)|null|
+|**2024-10-15**|**Optimizing Waste Management with Advanced Object Detection for Garbage Classification**|Everest Z. Kuang et.al.|[2410.09975](http://arxiv.org/abs/2410.09975)|null|
 |**2024-10-13**|**EITNet: An IoT-Enhanced Framework for Real-Time Basketball Action Recognition**|Jingyu Liu et.al.|[2410.09954](http://arxiv.org/abs/2410.09954)|null|
 |**2024-10-13**|**LoLI-Street: Benchmarking Low-Light Image Enhancement and Beyond**|Md Tanvir Islam et.al.|[2410.09831](http://arxiv.org/abs/2410.09831)|**[link](https://github.com/tanvirnwu/trifuse)**|
 |**2024-10-11**|**DA-Ada: Learning Domain-Aware Adapter for Domain Adaptive Object Detection**|Haochen Li et.al.|[2410.09004](http://arxiv.org/abs/2410.09004)|null|
@@ -70,7 +70,7 @@
 |**2024-10-07**|**Perceptual Piercing: Human Visual Cue-based Object Detection in Low Visibility Conditions**|Ashutosh Kumar et.al.|[2410.01225](http://arxiv.org/abs/2410.01225)|**[link](https://github.com/ashu1069/perceptual-piercing)**|
 |**2024-10-02**|**A versatile machine learning workflow for high-throughput analysis of supported metal catalyst particles**|Arda Genc et.al.|[2410.01213](http://arxiv.org/abs/2410.01213)|**[link](https://github.com/ardagen/stem-automated-nanoparticle-analysis-yolov8-sam)**|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 ## Small Object Detection
 
@@ -89,7 +89,7 @@
 |**2024-07-23**|**ESOD: Efficient Small Object Detection on High-Resolution Images**|Kai Liu et.al.|[2407.16424](http://arxiv.org/abs/2407.16424)|null|
 |**2024-06-20**|**Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines**|Xinyi Ying et.al.|[2406.14482](http://arxiv.org/abs/2406.14482)|**[link](https://github.com/XinyiYing/RGBT-Tiny)**|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 ## Image Matching
 
@@ -107,7 +107,7 @@
 |**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman et.al.|[2408.14186](http://arxiv.org/abs/2408.14186)|**[link](https://github.com/georg-bn/affine-steerers)**|
 |**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770](http://arxiv.org/abs/2408.13770)|null|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -139,7 +139,7 @@
 |**2024-09-26**|**Revisit Anything: Visual Place Recognition via Image Segment Retrieval**|Kartik Garg et.al.|[2409.18049](http://arxiv.org/abs/2409.18049)|**[link](https://github.com/anyloc/revisit-anything)**|
 |**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502](http://arxiv.org/abs/2409.16502)|**[link](https://github.com/haksorus/gsplatloc)**|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 ## Homogeous Image Transformation
 
@@ -162,5 +162,5 @@
 |**2024-09-27**|**ADEPT: A Noninvasive Method for Determining Elastic Properties of Valve Tissue**|Wensi Wu et.al.|[2409.19081](http://arxiv.org/abs/2409.19081)|null|
 |**2024-09-26**|**Ophthalmic Biomarker Detection with Parallel Prediction of Transformer and Convolutional Architecture**|Md. Touhidul Islam et.al.|[2409.17788](http://arxiv.org/abs/2409.17788)|null|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
