@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.16
+## Updated on 2024.10.17
 ## Object Detection
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -14,7 +14,7 @@ layout: default
 |**2024-10-15**|**Open World Object Detection: A Survey**|Yiming Li et.al.|[2410.11301](http://arxiv.org/abs/2410.11301)|null|
 |**2024-10-15**|**Representation Similarity: A Better Guidance of DNN Layer Sharing for Edge Computing without Training**|Bryan Bo Cao et.al.|[2410.11233](http://arxiv.org/abs/2410.11233)|null|
 |**2024-10-15**|**TEOcc: Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement**|Zhiwei Lin et.al.|[2410.11228](http://arxiv.org/abs/2410.11228)|null|
-|**2024-10-15**|**CVCP-Fusion: On Implicit Depth Estimation for 3D Bounding Box Prediction**|Pranav Gupta et.al.|[2410.11211](http://arxiv.org/abs/2410.11211)|**[link](https://github.com/safetylab24/FusionCVCP)**|
+|**2024-10-16**|**CVCP-Fusion: On Implicit Depth Estimation for 3D Bounding Box Prediction**|Pranav Gupta et.al.|[2410.11211](http://arxiv.org/abs/2410.11211)|**[link](https://github.com/safetylab24/FusionCVCP)**|
 |**2024-10-15**|**Multiview Scene Graph**|Juexiao Zhang et.al.|[2410.11187](http://arxiv.org/abs/2410.11187)|null|
 |**2024-10-14**|**UAV3D: A Large-scale 3D Perception Benchmark for Unmanned Aerial Vehicles**|Hui Ye et.al.|[2410.11125](http://arxiv.org/abs/2410.11125)|null|
 |**2024-10-14**|**ROSAR: An Adversarial Re-Training Framework for Robust Side-Scan Sonar Object Detection**|Martin Aubard et.al.|[2410.10554](http://arxiv.org/abs/2410.10554)|**[link](https://github.com/remaro-network/rosar-framework)**|
@@ -115,7 +115,7 @@ layout: default
 |**2024-10-15**|**Multiview Scene Graph**|Juexiao Zhang et.al.|[2410.11187](http://arxiv.org/abs/2410.11187)|null|
 |**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533](http://arxiv.org/abs/2410.09533)|null|
 |**2024-10-11**|**Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**|Zheng Liu et.al.|[2410.08935](http://arxiv.org/abs/2410.08935)|null|
-|**2024-10-11**|**Semantic Token Reweighting for Interpretable and Controllable Text Embeddings in CLIP**|Eunji Kim et.al.|[2410.08469](http://arxiv.org/abs/2410.08469)|null|
+|**2024-10-16**|**Semantic Token Reweighting for Interpretable and Controllable Text Embeddings in CLIP**|Eunji Kim et.al.|[2410.08469](http://arxiv.org/abs/2410.08469)|null|
 |**2024-10-11**|**A Unified Deep Semantic Expansion Framework for Domain-Generalized Person Re-identification**|Eugene P. W. Ang et.al.|[2410.08456](http://arxiv.org/abs/2410.08456)|null|
 |**2024-10-10**|**A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks**|Hoin Jung et.al.|[2410.07593](http://arxiv.org/abs/2410.07593)|null|
 |**2024-10-09**|**Exploiting Distribution Constraints for Scalable and Efficient Image Retrieval**|Mohammad Omama et.al.|[2410.07022](http://arxiv.org/abs/2410.07022)|null|
