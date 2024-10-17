@@ -7,6 +7,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**MambaBEV: An efficient 3D detection model with Mamba2**|Zihan You et.al.|[2410.12673](http://arxiv.org/abs/2410.12673)|null|
+|**2024-10-16**|**Cocoon: Robust Multi-Modal Perception with Uncertainty-Aware Sensor Fusion**|Minkyoung Cho et.al.|[2410.12592](http://arxiv.org/abs/2410.12592)|null|
+|**2024-10-16**|**Feature Augmentation for Self-supervised Contrastive Learning: A Closer Look**|Yong Zhang et.al.|[2410.12396](http://arxiv.org/abs/2410.12396)|null|
+|**2024-10-16**|**Real-time Stereo-based 3D Object Detection for Streaming Perception**|Changcai Li et.al.|[2410.12394](http://arxiv.org/abs/2410.12394)|null|
+|**2024-10-16**|**Context-Infused Visual Grounding for Art**|Selina Khan et.al.|[2410.12369](http://arxiv.org/abs/2410.12369)|null|
+|**2024-10-16**|**Fusion from Decomposition: A Self-Supervised Approach for Image Fusion and Beyond**|Pengwei Liang et.al.|[2410.12274](http://arxiv.org/abs/2410.12274)|null|
+|**2024-10-16**|**Optimizing YOLOv5s Object Detection through Knowledge Distillation algorithm**|Guanming Huang et.al.|[2410.12259](http://arxiv.org/abs/2410.12259)|null|
+|**2024-10-16**|**SAM-Guided Masked Token Prediction for 3D Scene Understanding**|Zhimin Chen et.al.|[2410.12158](http://arxiv.org/abs/2410.12158)|null|
+|**2024-10-16**|**Unveiling the Limits of Alignment: Multi-modal Dynamic Local Fusion Network and A Benchmark for Unaligned RGBT Video Object Detection**|Qishun Wang et.al.|[2410.12143](http://arxiv.org/abs/2410.12143)|null|
+|**2024-10-15**|**Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation**|Zhijie Yan et.al.|[2410.11989](http://arxiv.org/abs/2410.11989)|null|
 |**2024-10-15**|**Fractal Calibration for long-tailed object detection**|Konstantinos Panagiotis Alexandridis et.al.|[2410.11774](http://arxiv.org/abs/2410.11774)|null|
 |**2024-10-15**|**POLO -- Point-based, multi-class animal detection**|Giacomo May et.al.|[2410.11741](http://arxiv.org/abs/2410.11741)|null|
 |**2024-10-15**|**YOLO-ELA: Efficient Local Attention Modeling for High-Performance Real-Time Insulator Defect Detection**|Olalekan Akindele et.al.|[2410.11727](http://arxiv.org/abs/2410.11727)|null|
@@ -94,6 +104,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-01**|**A Robust Multisource Remote Sensing Image Matching Method Utilizing Attention and Feature Enhancement Against Noise Interference**|Yuan Li et.al.|[2410.11848](http://arxiv.org/abs/2410.11848)|null|
 |**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505](http://arxiv.org/abs/2410.11505)|null|
 |**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533](http://arxiv.org/abs/2410.09533)|null|
 |**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673](http://arxiv.org/abs/2409.18673)|null|
@@ -111,6 +122,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**Development of Image Collection Method Using YOLO and Siamese Network**|Chan Young Shin et.al.|[2410.12561](http://arxiv.org/abs/2410.12561)|null|
+|**2024-10-16**|**LoD-Loc: Aerial Visual Localization using LoD 3D Map with Neural Wireframe Alignment**|Juelin Zhu et.al.|[2410.12269](http://arxiv.org/abs/2410.12269)|null|
+|**2024-10-16**|**Leveraging Spatial Attention and Edge Context for Optimized Feature Selection in Visual Localization**|Nanda Febri Istighfarin et.al.|[2410.12240](http://arxiv.org/abs/2410.12240)|null|
 |**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505](http://arxiv.org/abs/2410.11505)|null|
 |**2024-10-15**|**Multiview Scene Graph**|Juexiao Zhang et.al.|[2410.11187](http://arxiv.org/abs/2410.11187)|null|
 |**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533](http://arxiv.org/abs/2410.09533)|null|
@@ -144,7 +158,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-15**|**RS-MOCO: A deep learning-based topology-preserving image registration method for cardiac T1 mapping**|Chiyi Huang et.al.|[2410.11651](http://arxiv.org/abs/2410.11651)|null|
-|**2024-10-14**|**MoonMetaSync: Lunar Image Registration Analysis**|Ashutosh Kumar et.al.|[2410.11118](http://arxiv.org/abs/2410.11118)|null|
+|**2024-10-14**|**MoonMetaSync: Lunar Image Registration Analysis**|Ashutosh Kumar et.al.|[2410.11118](http://arxiv.org/abs/2410.11118)|**[link](https://github.com/ashu1069/MoonMetaSync)**|
 |**2024-10-14**|**Stationary Velocity Fields on Matrix Groups for Deformable Image Registration**|Johannes Bostelmann et.al.|[2410.10997](http://arxiv.org/abs/2410.10997)|null|
 |**2024-10-14**|**A Counterexample in Image Registration**|Serap A. Savari et.al.|[2410.10725](http://arxiv.org/abs/2410.10725)|null|
 |**2024-10-12**|**FiRework: Field Refinement Framework for Efficient Enhancement of Deformable Registration**|Haiqiao Wang et.al.|[2410.09595](http://arxiv.org/abs/2410.09595)|**[link](https://github.com/zax130/firework)**|
