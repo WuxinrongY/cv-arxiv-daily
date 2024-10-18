@@ -1,4 +1,4 @@
-## Updated on 2024.10.17
+## Updated on 2024.10.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -21,9 +21,9 @@
 |**2024-10-16**|**Context-Infused Visual Grounding for Art**|Selina Khan et.al.|[2410.12369](http://arxiv.org/abs/2410.12369)|null|
 |**2024-10-16**|**Fusion from Decomposition: A Self-Supervised Approach for Image Fusion and Beyond**|Pengwei Liang et.al.|[2410.12274](http://arxiv.org/abs/2410.12274)|null|
 |**2024-10-16**|**Optimizing YOLOv5s Object Detection through Knowledge Distillation algorithm**|Guanming Huang et.al.|[2410.12259](http://arxiv.org/abs/2410.12259)|null|
-|**2024-10-16**|**SAM-Guided Masked Token Prediction for 3D Scene Understanding**|Zhimin Chen et.al.|[2410.12158](http://arxiv.org/abs/2410.12158)|null|
+|**2024-10-17**|**SAM-Guided Masked Token Prediction for 3D Scene Understanding**|Zhimin Chen et.al.|[2410.12158](http://arxiv.org/abs/2410.12158)|null|
 |**2024-10-16**|**Unveiling the Limits of Alignment: Multi-modal Dynamic Local Fusion Network and A Benchmark for Unaligned RGBT Video Object Detection**|Qishun Wang et.al.|[2410.12143](http://arxiv.org/abs/2410.12143)|null|
-|**2024-10-15**|**Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation**|Zhijie Yan et.al.|[2410.11989](http://arxiv.org/abs/2410.11989)|null|
+|**2024-10-17**|**Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation**|Zhijie Yan et.al.|[2410.11989](http://arxiv.org/abs/2410.11989)|null|
 |**2024-10-15**|**Fractal Calibration for long-tailed object detection**|Konstantinos Panagiotis Alexandridis et.al.|[2410.11774](http://arxiv.org/abs/2410.11774)|null|
 |**2024-10-15**|**POLO -- Point-based, multi-class animal detection**|Giacomo May et.al.|[2410.11741](http://arxiv.org/abs/2410.11741)|null|
 |**2024-10-15**|**YOLO-ELA: Efficient Local Attention Modeling for High-Performance Real-Time Insulator Defect Detection**|Olalekan Akindele et.al.|[2410.11727](http://arxiv.org/abs/2410.11727)|null|
@@ -90,7 +90,7 @@
 |**2024-10-07**|**Perceptual Piercing: Human Visual Cue-based Object Detection in Low Visibility Conditions**|Ashutosh Kumar et.al.|[2410.01225](http://arxiv.org/abs/2410.01225)|**[link](https://github.com/ashu1069/perceptual-piercing)**|
 |**2024-10-02**|**A versatile machine learning workflow for high-throughput analysis of supported metal catalyst particles**|Arda Genc et.al.|[2410.01213](http://arxiv.org/abs/2410.01213)|**[link](https://github.com/ardagen/stem-automated-nanoparticle-analysis-yolov8-sam)**|
 
-<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
 
 ## Small Object Detection
 
@@ -109,7 +109,7 @@
 |**2024-07-23**|**ESOD: Efficient Small Object Detection on High-Resolution Images**|Kai Liu et.al.|[2407.16424](http://arxiv.org/abs/2407.16424)|null|
 |**2024-06-20**|**Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines**|Xinyi Ying et.al.|[2406.14482](http://arxiv.org/abs/2406.14482)|**[link](https://github.com/XinyiYing/RGBT-Tiny)**|
 
-<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
 
 ## Image Matching
 
@@ -129,7 +129,7 @@
 |**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman et.al.|[2408.14186](http://arxiv.org/abs/2408.14186)|**[link](https://github.com/georg-bn/affine-steerers)**|
 |**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770](http://arxiv.org/abs/2408.13770)|null|
 
-<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -166,7 +166,7 @@
 |**2024-09-26**|**Revisit Anything: Visual Place Recognition via Image Segment Retrieval**|Kartik Garg et.al.|[2409.18049](http://arxiv.org/abs/2409.18049)|**[link](https://github.com/anyloc/revisit-anything)**|
 |**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502](http://arxiv.org/abs/2409.16502)|**[link](https://github.com/haksorus/gsplatloc)**|
 
-<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
 
 ## Homogeous Image Transformation
 
@@ -192,5 +192,5 @@
 |**2024-09-27**|**ADEPT: A Noninvasive Method for Determining Elastic Properties of Valve Tissue**|Wensi Wu et.al.|[2409.19081](http://arxiv.org/abs/2409.19081)|null|
 |**2024-09-26**|**Ophthalmic Biomarker Detection with Parallel Prediction of Transformer and Convolutional Architecture**|Md. Touhidul Islam et.al.|[2409.17788](http://arxiv.org/abs/2409.17788)|null|
 
-<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
 
