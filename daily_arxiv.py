@@ -430,6 +430,7 @@ def demo(**config):
             update_json_file(json_file, data_collector_web)
         json_to_md(json_file, md_file, task ='Update Wechat', \
             to_web=False, use_title= False, show_badge = show_badge)
+        
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

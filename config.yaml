@@ -26,17 +26,13 @@ keywords:
         filters: ["Object Detection"]
     "Small Object Detection":
         filters: ["Small Object Detection"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
     "Image Matching":
         filters: ["Image Matching", "Keypoint Matching", 
                   "Line Segment Detection", "Local Feature Matching"]
     "Infrared Image Matching":
         filters: ["Infrared Image Matching", "Infrared Keypoint Matching", 
                   "Infrared Line Segment Detection", "Infrared Local Feature Matching"]
-    "Homogeous Image Transformation":
+    "Homogeous Image":
         filters: ["Homogeous Transformation", "Image Transformation", 
-                  "Image Registration", "Image Warping"]
+                  "Image Registration"]
 
