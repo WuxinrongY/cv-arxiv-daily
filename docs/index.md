@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.20
+## Updated on 2024.10.21
 ## Object Detection
 
 | Publish Date | Title | Authors | PDF | Code |
