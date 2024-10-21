@@ -7,6 +7,7 @@
     <li><a href=#image-matching>Image Matching</a></li>
     <li><a href=#visual-localization>Visual Localization</a></li>
     <li><a href=#homogeous-image-transformation>Homogeous Image Transformation</a></li>
+    <li><a href=#homogeous-image>Homogeous Image</a></li>
   </ol>
 </details>
 
@@ -14,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**MultiOrg: A Multi-rater Organoid-detection Dataset**|Christina Bukas et.al.|[2410.14612](http://arxiv.org/abs/2410.14612)|null|
+|**2024-10-18**|**Multi-Source Spatial Knowledge Understanding for Immersive Visual Text-to-Speech**|Shuwei He et.al.|[2410.14101](http://arxiv.org/abs/2410.14101)|**[link](https://github.com/ms2ku-vtts/ms2ku-vtts)**|
+|**2024-10-18**|**Enhancing In-vehicle Multiple Object Tracking Systems with Embeddable Ising Machines**|Kosuke Tatsumura et.al.|[2410.14093](http://arxiv.org/abs/2410.14093)|null|
 |**2024-10-17**|**Spatiotemporal Object Detection for Improved Aerial Vehicle Detection in Traffic Monitoring**|Kristina Telegraph et.al.|[2410.13616](http://arxiv.org/abs/2410.13616)|null|
 |**2024-10-17**|**RemoteDet-Mamba: A Hybrid Mamba-CNN Network for Multi-modal Object Detection in Remote Sensing Images**|Kejun Ren et.al.|[2410.13532](http://arxiv.org/abs/2410.13532)|null|
 |**2024-10-16**|**Syn2Real Domain Generalization for Underwater Mine-like Object Detection Using Side-Scan Sonar**|Aayush Agrawal et.al.|[2410.12953](http://arxiv.org/abs/2410.12953)|null|
@@ -194,6 +198,23 @@
 |**2024-09-28**|**Trigger-Based Fragile Model Watermarking for Image Transformation Networks**|Preston K. Robinette et.al.|[2409.19442](http://arxiv.org/abs/2409.19442)|null|
 |**2024-09-27**|**ADEPT: A Noninvasive Method for Determining Elastic Properties of Valve Tissue**|Wensi Wu et.al.|[2409.19081](http://arxiv.org/abs/2409.19081)|null|
 |**2024-09-26**|**Ophthalmic Biomarker Detection with Parallel Prediction of Transformer and Convolutional Architecture**|Md. Touhidul Islam et.al.|[2409.17788](http://arxiv.org/abs/2409.17788)|null|
+
+<p align=right>(<a href=#updated-on-20241021>back to top</a>)</p>
+
+## Homogeous Image
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-10-18**|**2D-3D Deformable Image Registration of Histology Slide and Micro-CT with ML-based Initialization**|Junan Chen et.al.|[2410.14343](http://arxiv.org/abs/2410.14343)|null|
+|**2024-10-17**|**SAMReg: SAM-enabled Image Registration with ROI-based Correspondence**|Shiqi Huang et.al.|[2410.14083](http://arxiv.org/abs/2410.14083)|**[link](https://github.com/sqhuang0103/samreg)**|
+|**2024-10-13**|**S $^4$ ST: A Strong, Self-transferable, faSt, and Simple Scale Transformation for Transferable Targeted Attack**|Yongxiang Liu et.al.|[2410.13891](http://arxiv.org/abs/2410.13891)|null|
+|**2024-10-15**|**RS-MOCO: A deep learning-based topology-preserving image registration method for cardiac T1 mapping**|Chiyi Huang et.al.|[2410.11651](http://arxiv.org/abs/2410.11651)|null|
+|**2024-10-14**|**MoonMetaSync: Lunar Image Registration Analysis**|Ashutosh Kumar et.al.|[2410.11118](http://arxiv.org/abs/2410.11118)|**[link](https://github.com/ashu1069/MoonMetaSync)**|
+|**2024-10-14**|**Stationary Velocity Fields on Matrix Groups for Deformable Image Registration**|Johannes Bostelmann et.al.|[2410.10997](http://arxiv.org/abs/2410.10997)|null|
+|**2024-10-14**|**A Counterexample in Image Registration**|Serap A. Savari et.al.|[2410.10725](http://arxiv.org/abs/2410.10725)|null|
+|**2024-10-12**|**FiRework: Field Refinement Framework for Efficient Enhancement of Deformable Registration**|Haiqiao Wang et.al.|[2410.09595](http://arxiv.org/abs/2410.09595)|**[link](https://github.com/zax130/firework)**|
+|**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533](http://arxiv.org/abs/2410.09533)|**[link](https://github.com/verlab/DescriptorReasoning_ACCV_2024)**|
+|**2024-10-11**|**Hierarchical uncertainty estimation for learning-based registration in neuroimaging**|Xiaoling Hu et.al.|[2410.09299](http://arxiv.org/abs/2410.09299)|**[link](https://github.com/huxiaoling/regre4regis)**|
 
 <p align=right>(<a href=#updated-on-20241021>back to top</a>)</p>
 
