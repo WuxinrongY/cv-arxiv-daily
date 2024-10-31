@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 ## Object Detection
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -16,7 +16,7 @@ layout: default
 |**2024-10-28**|**Synthetica: Large Scale Synthetic Data for Robot Perception**|Ritvik Singh et.al.|[2410.21153](http://arxiv.org/abs/2410.21153)|null|
 |**2024-10-28**|**IndraEye: Infrared Electro-Optical UAV-based Perception Dataset for Robust Downstream Tasks**|Manjunath D et.al.|[2410.20953](http://arxiv.org/abs/2410.20953)|null|
 |**2024-10-28**|**SparseTem: Boosting the Efficiency of CNN-Based Video Encoders by Exploiting Temporal Continuity**|Kunyun Wang et.al.|[2410.20790](http://arxiv.org/abs/2410.20790)|null|
-|**2024-10-27**|**Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**|Chongxiao Liu et.al.|[2410.20546](http://arxiv.org/abs/2410.20546)|null|
+|**2024-10-27**|**Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**|Chongxiao Liu et.al.|[2410.20546](http://arxiv.org/abs/2410.20546)|**[link](https://github.com/idiosyncracies/Sebica)**|
 |**2024-10-27**|**Guidance Disentanglement Network for Optics-Guided Thermal UAV Image Super-Resolution**|Zhicheng Zhao et.al.|[2410.20466](http://arxiv.org/abs/2410.20466)|**[link](https://github.com/jocelyney/gdnet)**|
 |**2024-10-27**|**Open-Vocabulary Object Detection via Language Hierarchy**|Jiaxing Huang et.al.|[2410.20371](http://arxiv.org/abs/2410.20371)|null|
 |**2024-10-27**|**Historical Test-time Prompt Tuning for Vision Foundation Models**|Jingyi Zhang et.al.|[2410.20346](http://arxiv.org/abs/2410.20346)|null|
@@ -235,9 +235,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-29**|**NCA-Morph: Medical Image Registration with Neural Cellular Automata**|Amin Ranem et.al.|[2410.22265](http://arxiv.org/abs/2410.22265)|null|
+|**2024-10-29**|**NCA-Morph: Medical Image Registration with Neural Cellular Automata**|Amin Ranem et.al.|[2410.22265](http://arxiv.org/abs/2410.22265)|**[link](https://github.com/MECLabTUDA/NCA-Morph)**|
 |**2024-10-27**|**Unsupervised Panoptic Interpretation of Latent Spaces in GANs Using Space-Filling Vector Quantization**|Mohammad Hassan Vali et.al.|[2410.20573](http://arxiv.org/abs/2410.20573)|**[link](https://github.com/mhvali/interpretable-gans-by-sfvq)**|
-|**2024-10-27**|**UTSRMorph: A Unified Transformer and Superresolution Network for Unsupervised Medical Image Registration**|Runshi Zhang et.al.|[2410.20348](http://arxiv.org/abs/2410.20348)|null|
+|**2024-10-27**|**UTSRMorph: A Unified Transformer and Superresolution Network for Unsupervised Medical Image Registration**|Runshi Zhang et.al.|[2410.20348](http://arxiv.org/abs/2410.20348)|**[link](https://github.com/runshi-zhang/utsrmorph)**|
 |**2024-10-26**|**Cross-Survey Image Transformation: Enhancing SDSS and DECaLS Images to Near-HSC Quality for Advanced Astronomical Analysis**|Zhijian Luo et.al.|[2410.20025](http://arxiv.org/abs/2410.20025)|null|
 |**2024-10-25**|**Utilizing Image Transforms and Diffusion Models for Generative Modeling of Short and Long Time Series**|Ilan Naiman et.al.|[2410.19538](http://arxiv.org/abs/2410.19538)|null|
 |**2024-10-24**|**A Counterexample in Cross-Correlation Template Matching**|Serap A. Savari et.al.|[2410.19085](http://arxiv.org/abs/2410.19085)|null|
