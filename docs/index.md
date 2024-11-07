@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.06
+## Updated on 2024.11.07
 ## Object Detection
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -271,7 +271,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-05**|**A Symmetric Dynamic Learning Framework for Diffeomorphic Medical Image Registration**|Jinqiu Deng et.al.|[2411.02888](http://arxiv.org/abs/2411.02888)|null|
-|**2024-11-05**|**Applications of Automatic Differentiation in Image Registration**|Warin Watson et.al.|[2411.02806](http://arxiv.org/abs/2411.02806)|null|
+|**2024-11-05**|**Applications of Automatic Differentiation in Image Registration**|Warin Watson et.al.|[2411.02806](http://arxiv.org/abs/2411.02806)|**[link](https://github.com/wdwatson2/ImgRegPytorchProject)**|
 |**2024-11-04**|**Multi-modal deformable image registration using untrained neural networks**|Quang Luong Nhat Nguyen et.al.|[2411.02672](http://arxiv.org/abs/2411.02672)|null|
 |**2024-11-04**|**Advanced computer vision for extracting georeferenced vehicle trajectories from drone imagery**|Robert Fonod et.al.|[2411.02136](http://arxiv.org/abs/2411.02136)|null|
 |**2024-11-03**|**FactorizePhys: Matrix Factorization for Multidimensional Attention in Remote Physiological Sensing**|Jitesh Joshi et.al.|[2411.01542](http://arxiv.org/abs/2411.01542)|**[link](https://github.com/physiologicailab/factorizephys)**|
