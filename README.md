@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Large-scale Remote Sensing Image Target Recognition and Automatic Annotation**|Wuzheng Dong et.al.|[2411.07802](http://arxiv.org/abs/2411.07802)|**[link](https://github.com/anaerovane/lrsaa)**|
+|**2024-11-12**|**Efficient 3D Perception on Multi-Sweep Point Cloud with Gumbel Spatial Pruning**|Jianhao Li et.al.|[2411.07742](http://arxiv.org/abs/2411.07742)|null|
+|**2024-11-12**|**Depthwise Separable Convolutions with Deep Residual Convolutions**|Md Arid Hasan et.al.|[2411.07544](http://arxiv.org/abs/2411.07544)|null|
 |**2024-11-11**|**Transformers for Charged Particle Track Reconstruction in High Energy Physics**|Samuel Van Stroud et.al.|[2411.07149](http://arxiv.org/abs/2411.07149)|null|
 |**2024-11-11**|**Multi-scale Frequency Enhancement Network for Blind Image Deblurring**|Yawen Xiang et.al.|[2411.06893](http://arxiv.org/abs/2411.06893)|null|
 |**2024-11-11**|**Fast and Efficient Transformer-based Method for Bird's Eye View Instance Prediction**|Miguel Antunes-García et.al.|[2411.06851](http://arxiv.org/abs/2411.06851)|**[link](https://github.com/miguelag99/efficient-instance-prediction)**|
@@ -221,6 +224,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur et.al.|[2411.07430](http://arxiv.org/abs/2411.07430)|**[link](https://github.com/canyagmur/xpoint)**|
 |**2024-11-07**|**The Impact of Semi-Supervised Learning on Line Segment Detection**|Johanna Engman et.al.|[2411.04596](http://arxiv.org/abs/2411.04596)|**[link](https://github.com/jo6815en/semi-lines)**|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
 |**2024-10-30**|**Variable Resolution Sampling and Deep Learning Image Recovery for Accelerated Multi-Spectral MRI Near Metal Implants**|Azadeh Sharafi et.al.|[2410.23329](http://arxiv.org/abs/2410.23329)|null|
@@ -311,6 +315,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Atmospheric turbulence restoration by diffeomorphic image registration and blind deconvolution**|Jerome Gilles et.al.|[2411.07578](http://arxiv.org/abs/2411.07578)|null|
+|**2024-11-12**|**Uncertainty-Aware Test-Time Adaptation for Inverse Consistent Diffeomorphic Lung Image Registration**|Muhammad F. A. Chaudhary et.al.|[2411.07567](http://arxiv.org/abs/2411.07567)|null|
+|**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur et.al.|[2411.07430](http://arxiv.org/abs/2411.07430)|**[link](https://github.com/canyagmur/xpoint)**|
 |**2024-11-10**|**Graph Neural Networks for modelling breast biomechanical compression**|Hadeel Awwad et.al.|[2411.06596](http://arxiv.org/abs/2411.06596)|**[link](https://github.com/hadiiiil/gnns-breastcompression)**|
 |**2024-11-09**|**NeuReg: Domain-invariant 3D Image Registration on Human and Mouse Brains**|Taha Razzaq et.al.|[2411.06315](http://arxiv.org/abs/2411.06315)|null|
 |**2024-11-11**|**Relationships between the degrees of freedom in the affine Gaussian derivative model for visual receptive fields and 2-D affine image transformations, with application to covariance properties of simple cells in the primary visual cortex**|Tony Lindeberg et.al.|[2411.05673](http://arxiv.org/abs/2411.05673)|null|
