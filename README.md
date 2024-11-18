@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Interactive Image-Based Aphid Counting in Yellow Water Traps under Stirring Actions**|Xumin Gao et.al.|[2411.10357](http://arxiv.org/abs/2411.10357)|null|
+|**2024-11-15**|**RETR: Multi-View Radar Detection Transformer for Indoor Perception**|Ryoma Yataka et.al.|[2411.10293](http://arxiv.org/abs/2411.10293)|null|
+|**2024-11-15**|**Visual-Linguistic Agent: Towards Collaborative Contextual Object Reasoning**|Jingru Yang et.al.|[2411.10252](http://arxiv.org/abs/2411.10252)|null|
+|**2024-11-15**|**Real-Time AI-Driven People Tracking and Counting Using Overhead Cameras**|Ishrath Ahamed et.al.|[2411.10072](http://arxiv.org/abs/2411.10072)|null|
+|**2024-11-15**|**Diachronic Document Dataset for Semantic Layout Analysis**|Thibault Clérice et.al.|[2411.10068](http://arxiv.org/abs/2411.10068)|null|
+|**2024-11-14**|**Adversarial Attacks Using Differentiable Rendering: A Survey**|Matthew Hull et.al.|[2411.09749](http://arxiv.org/abs/2411.09749)|null|
 |**2024-11-14**|**Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration**|Yifan Shao et.al.|[2411.09604](http://arxiv.org/abs/2411.09604)|**[link](https://github.com/ziyueqingwan/localglobalattention)**|
 |**2024-11-14**|**Long-Tailed Object Detection Pre-training: Dynamic Rebalancing Contrastive Learning with Dual Reconstruction**|Chen-Long Duan et.al.|[2411.09453](http://arxiv.org/abs/2411.09453)|null|
 |**2024-11-14**|**Instruction-Driven Fusion of Infrared-Visible Images: Tailoring for Diverse Downstream Tasks**|Zengyi Yang et.al.|[2411.09387](http://arxiv.org/abs/2411.09387)|null|
@@ -214,6 +220,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Interactive Image-Based Aphid Counting in Yellow Water Traps under Stirring Actions**|Xumin Gao et.al.|[2411.10357](http://arxiv.org/abs/2411.10357)|null|
 |**2024-11-14**|**Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration**|Yifan Shao et.al.|[2411.09604](http://arxiv.org/abs/2411.09604)|**[link](https://github.com/ziyueqingwan/localglobalattention)**|
 |**2024-11-01**|**LAM-YOLO: Drones-based Small Object Detection on Lighting-Occlusion Attention Mechanism YOLO**|Yuchen Zheng et.al.|[2411.00485](http://arxiv.org/abs/2411.00485)|null|
 |**2024-10-29**|**PK-YOLO: Pretrained Knowledge Guided YOLO for Brain Tumor Detection in Multiplanar MRI Slices**|Ming Kang et.al.|[2410.21822](http://arxiv.org/abs/2410.21822)|**[link](https://github.com/mkang315/pk-yolo)**|
@@ -236,7 +243,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-14**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
+|**2024-11-15**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
 |**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur et.al.|[2411.07430](http://arxiv.org/abs/2411.07430)|**[link](https://github.com/canyagmur/xpoint)**|
 |**2024-11-07**|**The Impact of Semi-Supervised Learning on Line Segment Detection**|Johanna Engman et.al.|[2411.04596](http://arxiv.org/abs/2411.04596)|**[link](https://github.com/jo6815en/semi-lines)**|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
