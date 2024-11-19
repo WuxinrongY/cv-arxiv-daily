@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**LightFFDNets: Lightweight Convolutional Neural Networks for Rapid Facial Forgery Detection**|Günel Jabbarlı et.al.|[2411.11826](http://arxiv.org/abs/2411.11826)|null|
+|**2024-11-18**|**WoodYOLO: A Novel Object Detector for Wood Species Detection in Microscopic Images**|Lars Nieradzik et.al.|[2411.11738](http://arxiv.org/abs/2411.11738)|null|
+|**2024-11-18**|**Exploring Emerging Trends and Research Opportunities in Visual Place Recognition**|Antonios Gasteratos et.al.|[2411.11481](http://arxiv.org/abs/2411.11481)|null|
+|**2024-11-18**|**SL-YOLO: A Stronger and Lighter Drone Target Detection Model**|Defan Chen et.al.|[2411.11477](http://arxiv.org/abs/2411.11477)|null|
+|**2024-11-16**|**EVT: Efficient View Transformation for Multi-Modal 3D Object Detection**|Yongjin Lee et.al.|[2411.10715](http://arxiv.org/abs/2411.10715)|null|
+|**2024-11-15**|**Vision Eagle Attention: A New Lens for Advancing Image Classification**|Mahmudul Hasan et.al.|[2411.10564](http://arxiv.org/abs/2411.10564)|**[link](https://github.com/MahmudulHasan11085/Vision-Eagle-Attention)**|
 |**2024-11-15**|**Interactive Image-Based Aphid Counting in Yellow Water Traps under Stirring Actions**|Xumin Gao et.al.|[2411.10357](http://arxiv.org/abs/2411.10357)|null|
 |**2024-11-15**|**RETR: Multi-View Radar Detection Transformer for Indoor Perception**|Ryoma Yataka et.al.|[2411.10293](http://arxiv.org/abs/2411.10293)|null|
 |**2024-11-15**|**Visual-Linguistic Agent: Towards Collaborative Contextual Object Reasoning**|Jingru Yang et.al.|[2411.10252](http://arxiv.org/abs/2411.10252)|null|
@@ -220,6 +226,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**SL-YOLO: A Stronger and Lighter Drone Target Detection Model**|Defan Chen et.al.|[2411.11477](http://arxiv.org/abs/2411.11477)|null|
 |**2024-11-15**|**Interactive Image-Based Aphid Counting in Yellow Water Traps under Stirring Actions**|Xumin Gao et.al.|[2411.10357](http://arxiv.org/abs/2411.10357)|null|
 |**2024-11-14**|**Local-Global Attention: An Adaptive Mechanism for Multi-Scale Feature Integration**|Yifan Shao et.al.|[2411.09604](http://arxiv.org/abs/2411.09604)|**[link](https://github.com/ziyueqingwan/localglobalattention)**|
 |**2024-11-01**|**LAM-YOLO: Drones-based Small Object Detection on Lighting-Occlusion Attention Mechanism YOLO**|Yuchen Zheng et.al.|[2411.00485](http://arxiv.org/abs/2411.00485)|null|
