@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**Efficient Dynamic LiDAR Odometry for Mobile Robots with Structured Point Clouds**|Jonathan Lichtenfeld et.al.|[2411.18443](http://arxiv.org/abs/2411.18443)|null|
+|**2024-11-27**|**Deep Fourier-embedded Network for Bi-modal Salient Object Detection**|Pengfei Lyu et.al.|[2411.18409](http://arxiv.org/abs/2411.18409)|**[link](https://github.com/joshualpf/dfenet)**|
+|**2024-11-27**|**Optimizing Multispectral Object Detection: A Bag of Tricks and Comprehensive Benchmarks**|Chen Zhou et.al.|[2411.18288](http://arxiv.org/abs/2411.18288)|null|
+|**2024-11-27**|**From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects**|Zizhao Li et.al.|[2411.18207](http://arxiv.org/abs/2411.18207)|**[link](https://github.com/343gltysprk/ovow)**|
+|**2024-11-27**|**RPEE-HEADS: A Novel Benchmark for Pedestrian Head Detection in Crowd Videos**|Mohamad Abubaker et.al.|[2411.18164](http://arxiv.org/abs/2411.18164)|null|
+|**2024-11-27**|**ROICtrl: Boosting Instance Control for Visual Generation**|Yuchao Gu et.al.|[2411.17949](http://arxiv.org/abs/2411.17949)|null|
 |**2024-11-26**|**Box for Mask and Mask for Box: weak losses for multi-task partially supervised learning**|Hoàng-Ân Lê et.al.|[2411.17536](http://arxiv.org/abs/2411.17536)|**[link](https://github.com/lhoangan/multas)**|
 |**2024-11-26**|**TinyViM: Frequency Decoupling for Tiny Hybrid Vision Mamba**|Xiaowen Ma et.al.|[2411.17473](http://arxiv.org/abs/2411.17473)|**[link](https://github.com/xwmaxwma/tinyvim)**|
 |**2024-11-26**|**Communication-Efficient Cooperative SLAMMOT via Determining the Number of Collaboration Vehicles**|Susu Fang et.al.|[2411.17432](http://arxiv.org/abs/2411.17432)|null|
@@ -382,6 +388,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**Neural Image Unfolding: Flattening Sparse Anatomical Structures using Neural Fields**|Leonhard Rist et.al.|[2411.18415](http://arxiv.org/abs/2411.18415)|null|
+|**2024-11-26**|**CAMLD: Contrast-Agnostic Medical Landmark Detection with Consistency-Based Regularization**|Soorena Salari et.al.|[2411.17845](http://arxiv.org/abs/2411.17845)|null|
 |**2024-11-25**|**Improving Deformable Image Registration Accuracy through a Hybrid Similarity Metric and CycleGAN Based Auto-Segmentation**|Keyur D. Shah et.al.|[2411.16992](http://arxiv.org/abs/2411.16992)|null|
 |**2024-11-25**|**Oriented histogram-based vector field embedding for characterizing 4D CT data sets in radiotherapy**|Frederic Madesta et.al.|[2411.16314](http://arxiv.org/abs/2411.16314)|null|
 |**2024-11-25**|**Can Encrypted Images Still Train Neural Networks? Investigating Image Information and Random Vortex Transformation**|XiaoKai Cao et.al.|[2411.16207](http://arxiv.org/abs/2411.16207)|null|
