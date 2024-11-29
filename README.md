@@ -17,7 +17,7 @@
 |---|---|---|---|---|
 |**2024-11-27**|**Efficient Dynamic LiDAR Odometry for Mobile Robots with Structured Point Clouds**|Jonathan Lichtenfeld et.al.|[2411.18443](http://arxiv.org/abs/2411.18443)|null|
 |**2024-11-27**|**Deep Fourier-embedded Network for Bi-modal Salient Object Detection**|Pengfei Lyu et.al.|[2411.18409](http://arxiv.org/abs/2411.18409)|**[link](https://github.com/joshualpf/dfenet)**|
-|**2024-11-27**|**Optimizing Multispectral Object Detection: A Bag of Tricks and Comprehensive Benchmarks**|Chen Zhou et.al.|[2411.18288](http://arxiv.org/abs/2411.18288)|null|
+|**2024-11-27**|**Optimizing Multispectral Object Detection: A Bag of Tricks and Comprehensive Benchmarks**|Chen Zhou et.al.|[2411.18288](http://arxiv.org/abs/2411.18288)|**[link](https://github.com/cpboost/double-co-detr)**|
 |**2024-11-27**|**From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects**|Zizhao Li et.al.|[2411.18207](http://arxiv.org/abs/2411.18207)|**[link](https://github.com/343gltysprk/ovow)**|
 |**2024-11-27**|**RPEE-HEADS: A Novel Benchmark for Pedestrian Head Detection in Crowd Videos**|Mohamad Abubaker et.al.|[2411.18164](http://arxiv.org/abs/2411.18164)|null|
 |**2024-11-27**|**ROICtrl: Boosting Instance Control for Visual Generation**|Yuchao Gu et.al.|[2411.17949](http://arxiv.org/abs/2411.17949)|null|
@@ -392,7 +392,7 @@
 |**2024-11-26**|**CAMLD: Contrast-Agnostic Medical Landmark Detection with Consistency-Based Regularization**|Soorena Salari et.al.|[2411.17845](http://arxiv.org/abs/2411.17845)|null|
 |**2024-11-25**|**Improving Deformable Image Registration Accuracy through a Hybrid Similarity Metric and CycleGAN Based Auto-Segmentation**|Keyur D. Shah et.al.|[2411.16992](http://arxiv.org/abs/2411.16992)|null|
 |**2024-11-25**|**Oriented histogram-based vector field embedding for characterizing 4D CT data sets in radiotherapy**|Frederic Madesta et.al.|[2411.16314](http://arxiv.org/abs/2411.16314)|null|
-|**2024-11-25**|**Can Encrypted Images Still Train Neural Networks? Investigating Image Information and Random Vortex Transformation**|XiaoKai Cao et.al.|[2411.16207](http://arxiv.org/abs/2411.16207)|null|
+|**2024-11-25**|**Can Encrypted Images Still Train Neural Networks? Investigating Image Information and Random Vortex Transformation**|XiaoKai Cao et.al.|[2411.16207](http://arxiv.org/abs/2411.16207)|**[link](https://github.com/caoxiaokai/random_vortex_transformation)**|
 |**2024-11-24**|**Making Images from Images: Interleaving Denoising and Transformation**|Shumeet Baluja et.al.|[2411.15925](http://arxiv.org/abs/2411.15925)|null|
 |**2024-11-24**|**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**|Yu Chen et.al.|[2411.15779](http://arxiv.org/abs/2411.15779)|null|
 |**2024-11-23**|**LDM-Morph: Latent diffusion model guided deformable image registration**|Jiong Wu et.al.|[2411.15426](http://arxiv.org/abs/2411.15426)|**[link](https://github.com/wujiong-hub/ldm-morph)**|
