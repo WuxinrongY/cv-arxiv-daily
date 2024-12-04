@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565](http://arxiv.org/abs/2412.02565)|null|
+|**2024-12-03**|**Underload: Defending against Latency Attacks for Object Detectors on Edge Devices**|Tianyi Wang et.al.|[2412.02171](http://arxiv.org/abs/2412.02171)|null|
+|**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054](http://arxiv.org/abs/2412.02054)|null|
+|**2024-12-02**|**Smart Parking with Pixel-Wise ROI Selection for Vehicle Detection Using YOLOv8, YOLOv9, YOLOv10, and YOLOv11**|Gustavo P. C. P. da Luz et.al.|[2412.01983](http://arxiv.org/abs/2412.01983)|null|
+|**2024-12-02**|**HPRM: High-Performance Robotic Middleware for Intelligent Autonomous Systems**|Jacky Kwok et.al.|[2412.01799](http://arxiv.org/abs/2412.01799)|null|
+|**2024-12-02**|**Identifying Reliable Predictions in Detection Transformers**|Young-Jin Park et.al.|[2412.01782](http://arxiv.org/abs/2412.01782)|null|
+|**2024-12-02**|**FEVER-OOD: Free Energy Vulnerability Elimination for Robust Out-of-Distribution Detection**|Brian K. S. Isaac-Medina et.al.|[2412.01596](http://arxiv.org/abs/2412.01596)|null|
+|**2024-12-02**|**Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection**|Hao Tang et.al.|[2412.01556](http://arxiv.org/abs/2412.01556)|null|
+|**2024-12-03**|**GFreeDet: Exploiting Gaussian Splatting and Foundation Models for Model-free Unseen Object Detection in the BOP Challenge 2024**|Xingyu Liu et.al.|[2412.01552](http://arxiv.org/abs/2412.01552)|null|
+|**2024-12-02**|**Improving Object Detection by Modifying Synthetic Data with Explainable AI**|Nitish Mital et.al.|[2412.01477](http://arxiv.org/abs/2412.01477)|null|
 |**2024-11-29**|**SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection**|Philipp Wolters et.al.|[2411.19860](http://arxiv.org/abs/2411.19860)|null|
 |**2024-11-29**|**Feedback-driven object detection and iterative model improvement**|Sönke Tenckhoff et.al.|[2411.19835](http://arxiv.org/abs/2411.19835)|**[link](https://github.com/ml-lab-htw/iterative-annotate)**|
 |**2024-11-29**|**Real-Time Anomaly Detection in Video Streams**|Fabien Poirier et.al.|[2411.19731](http://arxiv.org/abs/2411.19731)|null|
@@ -399,6 +409,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-02**|**CTRL-D: Controllable Dynamic 3D Scene Editing with Personalized 2D Diffusion**|Kai He et.al.|[2412.01792](http://arxiv.org/abs/2412.01792)|null|
+|**2024-12-03**|**Unleashing In-context Learning of Autoregressive Models for Few-shot Image Manipulation**|Bolin Lai et.al.|[2412.01027](http://arxiv.org/abs/2412.01027)|null|
 |**2024-11-28**|**FAN-Unet: Enhancing Unet with vision Fourier Analysis Block for Biomedical Image Segmentation**|Jiashu Xu et.al.|[2411.18975](http://arxiv.org/abs/2411.18975)|null|
 |**2024-11-27**|**Neural Image Unfolding: Flattening Sparse Anatomical Structures using Neural Fields**|Leonhard Rist et.al.|[2411.18415](http://arxiv.org/abs/2411.18415)|null|
 |**2024-11-26**|**CAMLD: Contrast-Agnostic Medical Landmark Detection with Consistency-Based Regularization**|Soorena Salari et.al.|[2411.17845](http://arxiv.org/abs/2411.17845)|null|
