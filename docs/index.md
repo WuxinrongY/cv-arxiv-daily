@@ -7,6 +7,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**A dual contrastive framework**|Yuan Sun et.al.|[2412.10348](http://arxiv.org/abs/2412.10348)|null|
+|**2024-12-13**|**MVQ:Towards Efficient DNN Compression and Acceleration with Masked Vector Quantization**|Shuaiting Li et.al.|[2412.10261](http://arxiv.org/abs/2412.10261)|null|
+|**2024-12-13**|**Copy-Move Detection in Optical Microscopy: A Segmentation Network and A Dataset**|Hao-Chiang Shao et.al.|[2412.10258](http://arxiv.org/abs/2412.10258)|null|
+|**2024-12-13**|**UN-DETR: Promoting Objectness Learning via Joint Supervision for Unknown Object Detection**|Haomiao Liu et.al.|[2412.10176](http://arxiv.org/abs/2412.10176)|null|
+|**2024-12-13**|**HS-FPN: High Frequency and Spatial Perception FPN for Tiny Object Detection**|Zican Shi et.al.|[2412.10116](http://arxiv.org/abs/2412.10116)|null|
+|**2024-12-13**|**RemDet: Rethinking Efficient Model Design for UAV Object Detection**|Chen Li et.al.|[2412.10040](http://arxiv.org/abs/2412.10040)|**[link](https://github.com/hzai-zjnu/remdet)**|
+|**2024-12-13**|**Timealign: A multi-modal object detection method for time misalignment fusing in autonomous driving**|Zhihang Song et.al.|[2412.10033](http://arxiv.org/abs/2412.10033)|null|
+|**2024-12-13**|**Object-Focused Data Selection for Dense Prediction Tasks**|Niclas Popp et.al.|[2412.10032](http://arxiv.org/abs/2412.10032)|null|
+|**2024-12-13**|**CP-DETR: Concept Prompt Guide DETR Toward Stronger Universal Object Detection**|Qibo Chen et.al.|[2412.09799](http://arxiv.org/abs/2412.09799)|null|
 |**2024-12-12**|**FD2-Net: Frequency-Driven Feature Decomposition Network for Infrared-Visible Object Detection**|Ke Li et.al.|[2412.09258](http://arxiv.org/abs/2412.09258)|null|
 |**2024-12-12**|**UADet: A Remarkably Simple Yet Effective Uncertainty-Aware Open-Set Object Detection Framework**|Silin Cheng et.al.|[2412.09229](http://arxiv.org/abs/2412.09229)|null|
 |**2024-12-12**|**ContextHOI: Spatial Context Learning for Human-Object Interaction Detection**|Mingda Jia et.al.|[2412.09050](http://arxiv.org/abs/2412.09050)|null|
@@ -332,6 +341,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**RemDet: Rethinking Efficient Model Design for UAV Object Detection**|Chen Li et.al.|[2412.10040](http://arxiv.org/abs/2412.10040)|**[link](https://github.com/hzai-zjnu/remdet)**|
 |**2024-12-06**|**YOLOv5-Based Object Detection for Emergency Response in Aerial Imagery**|Sindhu Boddu et.al.|[2412.05394](http://arxiv.org/abs/2412.05394)|null|
 |**2024-11-28**|**Dynamic Attention and Bi-directional Fusion for Safety Helmet Wearing Detection**|Junwei Feng et.al.|[2411.19071](http://arxiv.org/abs/2411.19071)|null|
 |**2024-12-11**|**DGNN-YOLO: Interpretable Dynamic Graph Neural Networks with YOLO11 for Small Object Detection and Tracking in Traffic Surveillance**|Shahriar Soudeep et.al.|[2411.17251](http://arxiv.org/abs/2411.17251)|null|
@@ -445,6 +455,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**RAID-Database: human Responses to Affine Image Distortions**|Paula Daudén-Oliver et.al.|[2412.10211](http://arxiv.org/abs/2412.10211)|null|
+|**2024-12-12**|**On Round-Off Errors and Gaussian Blur in Superresolution and in Image Registration**|Serap A. Savari et.al.|[2412.09741](http://arxiv.org/abs/2412.09741)|null|
 |**2024-12-10**|**AmCLR: Unified Augmented Learning for Cross-Modal Representations**|Ajay Jagannath et.al.|[2412.07979](http://arxiv.org/abs/2412.07979)|null|
 |**2024-12-09**|**Table2Image: Interpretable Tabular data Classification with Realistic Image Transformations**|Seungeun Lee et.al.|[2412.06265](http://arxiv.org/abs/2412.06265)|**[link](https://github.com/duneag2/table2image)**|
 |**2024-12-05**|**Blind Underwater Image Restoration using Co-Operational Regressor Networks**|Ozer Can Devecioglu et.al.|[2412.03995](http://arxiv.org/abs/2412.03995)|null|
