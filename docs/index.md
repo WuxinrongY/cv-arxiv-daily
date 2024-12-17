@@ -7,6 +7,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**Coconut Palm Tree Counting on Drone Images with Deep Object Detection and Synthetic Training Data**|Tobias Rohe et.al.|[2412.11949](http://arxiv.org/abs/2412.11949)|null|
+|**2024-12-16**|**Sonar-based Deep Learning in Underwater Robotics: Overview, Robustness and Challenges**|Martin Aubard et.al.|[2412.11840](http://arxiv.org/abs/2412.11840)|null|
+|**2024-12-16**|**CLDA-YOLO: Visual Contrastive Learning Based Domain Adaptive YOLO Detector**|Tianheng Qiu et.al.|[2412.11812](http://arxiv.org/abs/2412.11812)|null|
+|**2024-12-16**|**PhysAug: A Physical-guided and Frequency-based Data Augmentation for Single-Domain Generalized Object Detection**|Xiaoran Xu et.al.|[2412.11807](http://arxiv.org/abs/2412.11807)|**[link](https://github.com/startracker0/physaug)**|
+|**2024-12-16**|**Learning UAV-based path planning for efficient localization of objects using prior knowledge**|Rick van Essen et.al.|[2412.11717](http://arxiv.org/abs/2412.11717)|null|
+|**2024-12-16**|**Oriented Tiny Object Detection: A Dataset, Benchmark, and Dynamic Unbiased Learning**|Chang Xu et.al.|[2412.11582](http://arxiv.org/abs/2412.11582)|null|
+|**2024-12-16**|**HGSFusion: Radar-Camera Fusion with Hybrid Generation and Synchronization for 3D Object Detection**|Zijian Gu et.al.|[2412.11489](http://arxiv.org/abs/2412.11489)|**[link](https://github.com/garfield-cpp/hgsfusion)**|
+|**2024-12-16**|**Universal Domain Adaptive Object Detection via Dual Probabilistic Alignment**|Yuanfan Zheng et.al.|[2412.11443](http://arxiv.org/abs/2412.11443)|**[link](https://github.com/zyfone/dpa)**|
+|**2024-12-16**|**V-MIND: Building Versatile Monocular Indoor 3D Detector with Diverse 2D Annotations**|Jin-Cheng Jhang et.al.|[2412.11412](http://arxiv.org/abs/2412.11412)|null|
+|**2024-12-15**|**From Simple to Professional: A Combinatorial Controllable Image Captioning Agent**|Xinran Wang et.al.|[2412.11025](http://arxiv.org/abs/2412.11025)|**[link](https://github.com/xin-ran-w/capagent)**|
 |**2024-12-13**|**A dual contrastive framework**|Yuan Sun et.al.|[2412.10348](http://arxiv.org/abs/2412.10348)|null|
 |**2024-12-13**|**MVQ:Towards Efficient DNN Compression and Acceleration with Masked Vector Quantization**|Shuaiting Li et.al.|[2412.10261](http://arxiv.org/abs/2412.10261)|null|
 |**2024-12-13**|**Copy-Move Detection in Optical Microscopy: A Segmentation Network and A Dataset**|Hao-Chiang Shao et.al.|[2412.10258](http://arxiv.org/abs/2412.10258)|null|
@@ -341,7 +351,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-13**|**RemDet: Rethinking Efficient Model Design for UAV Object Detection**|Chen Li et.al.|[2412.10040](http://arxiv.org/abs/2412.10040)|**[link](https://github.com/hzai-zjnu/remdet)**|
+|**2024-12-13**|**PanSR: An Object-Centric Mask Transformer for Panoptic Segmentation**|Lojze Žust et.al.|[2412.10589](http://arxiv.org/abs/2412.10589)|null|
+|**2024-12-12**|**Analysis of Object Detection Models for Tiny Object in Satellite Imagery: A Dataset-Centric Approach**|Kailas PS et.al.|[2412.10453](http://arxiv.org/abs/2412.10453)|null|
+|**2024-12-16**|**RemDet: Rethinking Efficient Model Design for UAV Object Detection**|Chen Li et.al.|[2412.10040](http://arxiv.org/abs/2412.10040)|**[link](https://github.com/hzai-zjnu/remdet)**|
 |**2024-12-06**|**YOLOv5-Based Object Detection for Emergency Response in Aerial Imagery**|Sindhu Boddu et.al.|[2412.05394](http://arxiv.org/abs/2412.05394)|null|
 |**2024-11-28**|**Dynamic Attention and Bi-directional Fusion for Safety Helmet Wearing Detection**|Junwei Feng et.al.|[2411.19071](http://arxiv.org/abs/2411.19071)|null|
 |**2024-12-11**|**DGNN-YOLO: Interpretable Dynamic Graph Neural Networks with YOLO11 for Small Object Detection and Tracking in Traffic Surveillance**|Shahriar Soudeep et.al.|[2411.17251](http://arxiv.org/abs/2411.17251)|null|
@@ -455,6 +467,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**IDProtector: An Adversarial Noise Encoder to Protect Against ID-Preserving Image Generation**|Yiren Song et.al.|[2412.11638](http://arxiv.org/abs/2412.11638)|null|
 |**2024-12-13**|**RAID-Database: human Responses to Affine Image Distortions**|Paula Daudén-Oliver et.al.|[2412.10211](http://arxiv.org/abs/2412.10211)|null|
 |**2024-12-12**|**On Round-Off Errors and Gaussian Blur in Superresolution and in Image Registration**|Serap A. Savari et.al.|[2412.09741](http://arxiv.org/abs/2412.09741)|null|
 |**2024-12-10**|**AmCLR: Unified Augmented Learning for Cross-Modal Representations**|Ajay Jagannath et.al.|[2412.07979](http://arxiv.org/abs/2412.07979)|null|
