@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.19
+## Updated on 2024.12.20
 ## Object Detection
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -482,7 +482,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-18**|**E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling**|Zhihang Yuan et.al.|[2412.14170](http://arxiv.org/abs/2412.14170)|null|
+|**2024-12-19**|**E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling**|Zhihang Yuan et.al.|[2412.14170](http://arxiv.org/abs/2412.14170)|null|
 |**2024-12-17**|**Image registration is a geometric deep learning task**|Vasiliki Sideri-Lampretsa et.al.|[2412.13294](http://arxiv.org/abs/2412.13294)|null|
 |**2024-12-17**|**Prompt Augmentation for Self-supervised Text-guided Image Manipulation**|Rumeysa Bodur et.al.|[2412.13081](http://arxiv.org/abs/2412.13081)|null|
 |**2024-12-17**|**Identifying Bias in Deep Neural Networks Using Image Transforms**|Sai Teja Erukude et.al.|[2412.13079](http://arxiv.org/abs/2412.13079)|**[link](https://github.com/SaiTeja-Erukude/identifying-bias-in-dnn-classification)**|
