@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**NeRF-To-Real Tester: Neural Radiance Fields as Test Image Generators for Vision of Autonomous Systems**|Laura Weihl et.al.|[2412.16141](http://arxiv.org/abs/2412.16141)|null|
+|**2024-12-20**|**MR-GDINO: Efficient Open-World Continual Object Detection**|Bowen Dong et.al.|[2412.15979](http://arxiv.org/abs/2412.15979)|**[link](https://github.com/dongsky/mr-gdino)**|
+|**2024-12-20**|**Mask-RadarNet: Enhancing Transformer With Spatial-Temporal Semantic Context for Radar Object Detection in Autonomous Driving**|Yuzhi Wu et.al.|[2412.15595](http://arxiv.org/abs/2412.15595)|null|
+|**2024-12-19**|**Exploring Machine Learning Engineering for Object Detection and Tracking by Unmanned Aerial Vehicle (UAV)**|Aneesha Guna et.al.|[2412.15347](http://arxiv.org/abs/2412.15347)|null|
 |**2024-12-19**|**Leveraging Color Channel Independence for Improved Unsupervised Object Detection**|Bastian Jäckl et.al.|[2412.15150](http://arxiv.org/abs/2412.15150)|null|
 |**2024-12-19**|**A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space**|Yonghao He et.al.|[2412.14680](http://arxiv.org/abs/2412.14680)|**[link](https://github.com/d-robotics-ai-lab/dosod)**|
 |**2024-12-19**|**Progressive Fine-to-Coarse Reconstruction for Accurate Low-Bit Post-Training Quantization in Vision Transformers**|Rui Ding et.al.|[2412.14633](http://arxiv.org/abs/2412.14633)|null|
@@ -488,6 +492,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**LEDA: Log-Euclidean Diffeomorphic Autoencoder for Efficient Statistical Analysis of Diffeomorphism**|Krithika Iyer et.al.|[2412.16129](http://arxiv.org/abs/2412.16129)|null|
+|**2024-12-20**|**From Model Based to Learned Regularization in Medical Image Registration: A Comprehensive Review**|Anna Reithmeir et.al.|[2412.15740](http://arxiv.org/abs/2412.15740)|null|
 |**2024-12-19**|**MUSTER: Longitudinal Deformable Registration by Composition of Consecutive Deformations**|Edvard O. S. Grødem et.al.|[2412.14671](http://arxiv.org/abs/2412.14671)|**[link](https://github.com/crai-ous/muster)**|
 |**2024-12-19**|**E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling**|Zhihang Yuan et.al.|[2412.14170](http://arxiv.org/abs/2412.14170)|null|
 |**2024-12-17**|**Image registration is a geometric deep learning task**|Vasiliki Sideri-Lampretsa et.al.|[2412.13294](http://arxiv.org/abs/2412.13294)|null|
