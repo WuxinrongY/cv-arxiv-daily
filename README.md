@@ -15,11 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**Sampling Bag of Views for Open-Vocabulary Object Detection**|Hojun Choi et.al.|[2412.18273](http://arxiv.org/abs/2412.18273)|null|
+|**2024-12-24**|**Efficient Detection Framework Adaptation for Edge Computing: A Plug-and-play Neural Network Toolbox Enabling Edge Deployment**|Jiaqi Wu et.al.|[2412.18230](http://arxiv.org/abs/2412.18230)|null|
+|**2024-12-24**|**Spectrum-oriented Point-supervised Saliency Detector for Hyperspectral Images**|Peifu Liu et.al.|[2412.18112](http://arxiv.org/abs/2412.18112)|**[link](https://github.com/laprf/spsd)**|
+|**2024-12-24**|**Multi-Point Positional Insertion Tuning for Small Object Detection**|Kanoko Goto et.al.|[2412.18090](http://arxiv.org/abs/2412.18090)|null|
+|**2024-12-24**|**COMO: Cross-Mamba Interaction and Offset-Guided Fusion for Multimodal Object Detection**|Chang Liu et.al.|[2412.18076](http://arxiv.org/abs/2412.18076)|null|
 |**2024-12-23**|**Comprehensive Multi-Modal Prototypes are Simple and Effective Classifiers for Vast-Vocabulary Object Detection**|Yitong Chen et.al.|[2412.17800](http://arxiv.org/abs/2412.17800)|**[link](https://github.com/row11n/prova)**|
 |**2024-12-23**|**Enhanced Temporal Processing in Spiking Neural Networks for Static Object Detection Using 3D Convolutions**|Huaxu He et.al.|[2412.17654](http://arxiv.org/abs/2412.17654)|null|
 |**2024-12-23**|**Impact of Evidence Theory Uncertainty on Training Object Detection Models**|M. Tahasanul Ibrahim et.al.|[2412.17405](http://arxiv.org/abs/2412.17405)|null|
 |**2024-12-23**|**Feature Based Methods Domain Adaptation for Object Detection: A Review Paper**|Helia Mohamadi et.al.|[2412.17325](http://arxiv.org/abs/2412.17325)|null|
-|**2024-12-23**|**Towards Unsupervised Model Selection for Domain Adaptive Object Detection**|Hengfu Yu et.al.|[2412.17284](http://arxiv.org/abs/2412.17284)|null|
+|**2024-12-23**|**Towards Unsupervised Model Selection for Domain Adaptive Object Detection**|Hengfu Yu et.al.|[2412.17284](http://arxiv.org/abs/2412.17284)|**[link](https://github.com/henryyu23/das)**|
 |**2024-12-22**|**NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors**|Ziqi Zhou et.al.|[2412.16955](http://arxiv.org/abs/2412.16955)|**[link](https://github.com/cgcl-codes/numbod)**|
 |**2024-12-22**|**Separating Drone Point Clouds From Complex Backgrounds by Cluster Filter -- Technical Report for CVPR 2024 UG2 Challenge**|Hanfang Liang et.al.|[2412.16947](http://arxiv.org/abs/2412.16947)|null|
 |**2024-12-22**|**Seamless Detection: Unifying Salient Object Detection and Camouflaged Object Detection**|Yi Liu et.al.|[2412.16840](http://arxiv.org/abs/2412.16840)|**[link](https://github.com/liuyi1989/seamless-detection)**|
@@ -395,6 +400,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**Multi-Point Positional Insertion Tuning for Small Object Detection**|Kanoko Goto et.al.|[2412.18090](http://arxiv.org/abs/2412.18090)|null|
 |**2024-12-13**|**PanSR: An Object-Centric Mask Transformer for Panoptic Segmentation**|Lojze Žust et.al.|[2412.10589](http://arxiv.org/abs/2412.10589)|**[link](https://github.com/lojzezust/pansr)**|
 |**2024-12-12**|**Analysis of Object Detection Models for Tiny Object in Satellite Imagery: A Dataset-Centric Approach**|Kailas PS et.al.|[2412.10453](http://arxiv.org/abs/2412.10453)|null|
 |**2024-12-16**|**RemDet: Rethinking Efficient Model Design for UAV Object Detection**|Chen Li et.al.|[2412.10040](http://arxiv.org/abs/2412.10040)|**[link](https://github.com/hzai-zjnu/remdet)**|
@@ -425,6 +431,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|**[link](https://github.com/songxf1024/gims)**|
 |**2024-12-17**|**Bringing Multimodality to Amazon Visual Search System**|Xinliang Zhu et.al.|[2412.13364](http://arxiv.org/abs/2412.13364)|null|
 |**2024-12-04**|**Appearance Matching Adapter for Exemplar-based Semantic Image Synthesis**|Siyoon Jin et.al.|[2412.03150](http://arxiv.org/abs/2412.03150)|null|
 |**2024-11-20**|**DT-LSD: Deformable Transformer-based Line Segment Detection**|Sebastian Janampa et.al.|[2411.13005](http://arxiv.org/abs/2411.13005)|**[link](https://github.com/SebastianJanampa/DT-LSD)**|
@@ -520,6 +527,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**Advancing Deformable Medical Image Registration with Multi-axis Cross-covariance Attention**|Mingyuan Meng et.al.|[2412.18545](http://arxiv.org/abs/2412.18545)|null|
+|**2024-12-23**|**Unsupervised learning of spatially varying regularization for diffeomorphic image registration**|Junyu Chen et.al.|[2412.17982](http://arxiv.org/abs/2412.17982)|null|
 |**2024-12-22**|**Classifier-guided registration of coronary CT angiography and intravascular ultrasound**|R. L. M. van Herten et.al.|[2412.17100](http://arxiv.org/abs/2412.17100)|null|
 |**2024-12-20**|**LEDA: Log-Euclidean Diffeomorphic Autoencoder for Efficient Statistical Analysis of Diffeomorphism**|Krithika Iyer et.al.|[2412.16129](http://arxiv.org/abs/2412.16129)|null|
 |**2024-12-20**|**From Model Based to Learned Regularization in Medical Image Registration: A Comprehensive Review**|Anna Reithmeir et.al.|[2412.15740](http://arxiv.org/abs/2412.15740)|null|
