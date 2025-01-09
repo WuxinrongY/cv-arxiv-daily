@@ -15,6 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Boosting Salient Object Detection with Knowledge Distillated from Large Foundation Models**|Miaoyang He et.al.|[2501.04582](http://arxiv.org/abs/2501.04582)|null|
+|**2025-01-08**|**RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark**|Xin Zhang et.al.|[2501.04440](http://arxiv.org/abs/2501.04440)|**[link](https://github.com/zhasion/rsar)**|
+|**2025-01-08**|**FGU3R: Fine-Grained Fusion via Unified 3D Representation for Multimodal 3D Object Detection**|Guoxin Zhang et.al.|[2501.04373](http://arxiv.org/abs/2501.04373)|null|
+|**2025-01-08**|**H-MBA: Hierarchical MamBa Adaptation for Multi-Modal Video Understanding in Autonomous Driving**|Siran Chen et.al.|[2501.04302](http://arxiv.org/abs/2501.04302)|null|
+|**2025-01-08**|**UPAQ: A Framework for Real-Time and Energy-Efficient 3D Object Detection in Autonomous Vehicles**|Abhishek Balasubramaniam et.al.|[2501.04213](http://arxiv.org/abs/2501.04213)|null|
 |**2025-01-07**|**LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving**|Lingdong Kong et.al.|[2501.04005](http://arxiv.org/abs/2501.04005)|null|
 |**2025-01-07**|**Visual question answering: from early developments to recent advances -- a survey**|Ngoc Dung Huynh et.al.|[2501.03939](http://arxiv.org/abs/2501.03939)|null|
 |**2025-01-07**|**SCC-YOLO: An Improved Object Detector for Assisting in Brain Tumor Diagnosis**|Runci Bai et.al.|[2501.03836](http://arxiv.org/abs/2501.03836)|null|
