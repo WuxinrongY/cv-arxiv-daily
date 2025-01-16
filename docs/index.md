@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**PACF: Prototype Augmented Compact Features for Improving Domain Adaptive Object Detection**|Chenguang Liu et.al.|[2501.08605](http://arxiv.org/abs/2501.08605)|null|
+|**2025-01-14**|**Predicting Performance of Object Detection Models in Electron Microscopy Using Random Forests**|Ni Li et.al.|[2501.08465](http://arxiv.org/abs/2501.08465)|**[link](https://github.com/uw-cmg/cavity_defect_detection)**|
 |**2025-01-14**|**Bootstrapping Corner Cases: High-Resolution Inpainting for Safety Critical Detect and Avoid for Automated Flying**|Jonathan Lyhs et.al.|[2501.08142](http://arxiv.org/abs/2501.08142)|null|
 |**2025-01-14**|**Learning Motion and Temporal Cues for Unsupervised Video Object Segmentation**|Yunzhi Zhuge et.al.|[2501.07806](http://arxiv.org/abs/2501.07806)|**[link](https://github.com/hy0523/mtnet)**|
 |**2025-01-14**|**Parameter-Inverted Image Pyramid Networks for Visual Perception and Multimodal Understanding**|Zhaokai Wang et.al.|[2501.07783](http://arxiv.org/abs/2501.07783)|**[link](https://github.com/opengvlab/piip)**|
@@ -583,6 +585,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**TimeFlow: Longitudinal Brain Image Registration and Aging Progression Analysis**|Bailiang Jian et.al.|[2501.08667](http://arxiv.org/abs/2501.08667)|null|
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556](http://arxiv.org/abs/2501.07556)|null|
 |**2025-01-13**|**Implicit Neural Representations for Registration of Left Ventricle Myocardium During a Cardiac Cycle**|Mathias Micheelsen Lowes et.al.|[2501.07248](http://arxiv.org/abs/2501.07248)|**[link](https://github.com/mmlowes/inr_reg_lvmyo)**|
 |**2025-01-12**|**Improved joint modelling of breast cancer radiomics features and hazard by image registration aided longitudinal CT data**|Subrata Mukherjee et.al.|[2501.06814](http://arxiv.org/abs/2501.06814)|null|
