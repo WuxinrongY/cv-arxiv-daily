@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**Large-image Object Detection for Fine-grained Recognition of Punches Patterns in Medieval Panel Painting**|Josh Bruegger et.al.|[2501.12489](http://arxiv.org/abs/2501.12489)|**[link](https://github.com/marcozullich/punches-object-detection)**|
+|**2025-01-21**|**TOFFE -- Temporally-binned Object Flow from Events for High-speed and Energy-Efficient Object Detection and Tracking**|Adarsh Kumar Kosta et.al.|[2501.12482](http://arxiv.org/abs/2501.12482)|null|
 |**2025-01-21**|**Benchmarking Image Perturbations for Testing Automated Driving Assistance Systems**|Stefano Carlo Lambertenghi et.al.|[2501.12269](http://arxiv.org/abs/2501.12269)|null|
 |**2025-01-21**|**DLEN: Dual Branch of Transformer for Low-Light Image Enhancement in Dual Domains**|Junyu Xia et.al.|[2501.12235](http://arxiv.org/abs/2501.12235)|null|
 |**2025-01-21**|**SVGS-DSGAT: An IoT-Enabled Innovation in Underwater Robotic Object Detection Technology**|Dongli Wu et.al.|[2501.12169](http://arxiv.org/abs/2501.12169)|null|
@@ -628,6 +630,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Learning accurate rigid registration for longitudinal brain MRI from synthetic data**|Jingru Fu et.al.|[2501.13010](http://arxiv.org/abs/2501.13010)|null|
+|**2025-01-22**|**LiT: Delving into a Simplified Linear Diffusion Transformer for Image Generation**|Jiahao Wang et.al.|[2501.12976](http://arxiv.org/abs/2501.12976)|null|
 |**2025-01-21**|**Regressor-Guided Image Editing Regulates Emotional Response to Reduce Online Engagement**|Christoph Gebhardt et.al.|[2501.12289](http://arxiv.org/abs/2501.12289)|null|
 |**2025-01-18**|**Deformable Image Registration of Dark-Field Chest Radiographs for Local Lung Signal Change Assessment**|Fabian Drexel et.al.|[2501.10757](http://arxiv.org/abs/2501.10757)|null|
 |**2025-01-18**|**Quasi-linear maps and image transformations**|S. V. Butler et.al.|[2501.10635](http://arxiv.org/abs/2501.10635)|null|
