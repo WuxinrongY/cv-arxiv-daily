@@ -7,6 +7,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**The Linear Attention Resurrection in Vision Transformer**|Chuanyang Zheng et.al.|[2501.16182](http://arxiv.org/abs/2501.16182)|null|
+|**2025-01-27**|**Real-Time Brain Tumor Detection in Intraoperative Ultrasound Using YOLO11: From Model Training to Deployment in the Operating Room**|Santiago Cepeda et.al.|[2501.15994](http://arxiv.org/abs/2501.15994)|null|
+|**2025-01-26**|**Breaking the SSL-AL Barrier: A Synergistic Semi-Supervised Active Learning Framework for 3D Object Detection**|Zengran Wang et.al.|[2501.15449](http://arxiv.org/abs/2501.15449)|null|
+|**2025-01-26**|**FAVbot: An Autonomous Target Tracking Micro-Robot with Frequency Actuation Control**|Zhijian Hao et.al.|[2501.15426](http://arxiv.org/abs/2501.15426)|null|
+|**2025-01-26**|**Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception**|Lianqing Zheng et.al.|[2501.15394](http://arxiv.org/abs/2501.15394)|null|
+|**2025-01-26**|**iFormer: Integrating ConvNet and Transformer for Mobile Application**|Chuanyang Zheng et.al.|[2501.15369](http://arxiv.org/abs/2501.15369)|**[link](https://github.com/chuanyangzheng/iformer)**|
+|**2025-01-25**|**Explainable YOLO-Based Dyslexia Detection in Synthetic Handwriting Data**|Nora Fink et.al.|[2501.15263](http://arxiv.org/abs/2501.15263)|null|
+|**2025-01-25**|**SpikSSD: Better Extraction and Fusion for Object Detection with Spiking Neuron Networks**|Yimeng Fan et.al.|[2501.15151](http://arxiv.org/abs/2501.15151)|**[link](https://github.com/yimeng-fan/spikssd)**|
+|**2025-01-25**|**Comprehensive Evaluation of Cloaking Backdoor Attacks on Object Detector in Real-World**|Hua Ma et.al.|[2501.15101](http://arxiv.org/abs/2501.15101)|null|
 |**2025-01-24**|**TD-RD: A Top-Down Benchmark with Real-Time Framework for Road Damage Detection**|Xi Xiao et.al.|[2501.14302](http://arxiv.org/abs/2501.14302)|null|
 |**2025-01-23**|**Efficient Precision Control in Object Detection Models for Enhanced and Reliable Ovarian Follicle Counting**|Vincent Blot et.al.|[2501.14036](http://arxiv.org/abs/2501.14036)|null|
 |**2025-01-23**|**Enhanced PEC-YOLO for Detecting Improper Safety Gear Wearing Among Power Line Workers**|Chen Zuguo et.al.|[2501.13981](http://arxiv.org/abs/2501.13981)|null|
