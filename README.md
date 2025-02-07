@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Point2RBox-v2: Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances**|Yi Yu et.al.|[2502.04268](http://arxiv.org/abs/2502.04268)|null|
+|**2025-02-06**|**An object detection approach for lane change and overtake detection from motion profiles**|Andrea Benericetti et.al.|[2502.04244](http://arxiv.org/abs/2502.04244)|null|
+|**2025-02-06**|**YOLOv4: A Breakthrough in Real-Time Object Detection**|Athulya Sundaresan Geetha et.al.|[2502.04161](http://arxiv.org/abs/2502.04161)|null|
+|**2025-02-06**|**Advanced Object Detection and Pose Estimation with Hybrid Task Cascade and High-Resolution Networks**|Yuhui Jin et.al.|[2502.03877](http://arxiv.org/abs/2502.03877)|null|
+|**2025-02-06**|**Pursuing Better Decision Boundaries for Long-Tailed Object Detection via Category Information Amount**|Yanbiao Ma et.al.|[2502.03852](http://arxiv.org/abs/2502.03852)|null|
+|**2025-02-06**|**Single-Domain Generalized Object Detection by Balancing Domain Diversity and Invariance**|Zhenwei He et.al.|[2502.03835](http://arxiv.org/abs/2502.03835)|null|
+|**2025-02-06**|**UAV Cognitive Semantic Communications Enabled by Knowledge Graph for Robust Object Detection**|Xi Song et.al.|[2502.03761](http://arxiv.org/abs/2502.03761)|null|
+|**2025-02-06**|**RAMOTS: A Real-Time System for Aerial Multi-Object Tracking based on Deep Learning and Big Data Technology**|Nhat-Tan Do et.al.|[2502.03760](http://arxiv.org/abs/2502.03760)|null|
+|**2025-02-05**|**An Empirical Study of Methods for Small Object Detection from Satellite Imagery**|Xiaohui Yuan et.al.|[2502.03674](http://arxiv.org/abs/2502.03674)|null|
+|**2025-02-05**|**Gompertz Linear Units: Leveraging Asymmetry for Enhanced Learning Dynamics**|Indrashis Das et.al.|[2502.03654](http://arxiv.org/abs/2502.03654)|null|
 |**2025-02-05**|**RoboGrasp: A Universal Grasping Policy for Robust Robotic Control**|Yiqi Huang et.al.|[2502.03072](http://arxiv.org/abs/2502.03072)|null|
 |**2025-02-05**|**Enhancing Quantum-ready QUBO-based Suppression for Object Detection with Appearance and Confidence Features**|Keiichiro Yamamura et.al.|[2502.02895](http://arxiv.org/abs/2502.02895)|null|
 |**2025-02-05**|**RS-YOLOX: A High Precision Detector for Object Detection in Satellite Remote Sensing Images**|Lei Yang et.al.|[2502.02850](http://arxiv.org/abs/2502.02850)|null|
@@ -549,6 +559,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**An Empirical Study of Methods for Small Object Detection from Satellite Imagery**|Xiaohui Yuan et.al.|[2502.03674](http://arxiv.org/abs/2502.03674)|null|
 |**2025-01-30**|**Tuning Event Camera Biases Heuristic for Object Detection Applications in Staring Scenarios**|David El-Chai Ben-Ezra et.al.|[2501.18788](http://arxiv.org/abs/2501.18788)|null|
 |**2024-12-24**|**Multi-Point Positional Insertion Tuning for Small Object Detection**|Kanoko Goto et.al.|[2412.18090](http://arxiv.org/abs/2412.18090)|null|
 |**2024-12-13**|**PanSR: An Object-Centric Mask Transformer for Panoptic Segmentation**|Lojze Žust et.al.|[2412.10589](http://arxiv.org/abs/2412.10589)|**[link](https://github.com/lojzezust/pansr)**|
@@ -686,6 +697,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Expanding Training Data for Endoscopic Phenotyping of Eosinophilic Esophagitis**|Juming Xiong et.al.|[2502.04199](http://arxiv.org/abs/2502.04199)|null|
+|**2025-02-05**|**REALEDIT: Reddit Edits As a Large-scale Empirical Dataset for Image Transformations**|Peter Sushko et.al.|[2502.03629](http://arxiv.org/abs/2502.03629)|null|
 |**2025-02-05**|**A Unified Framework for Semi-Supervised Image Segmentation and Registration**|Ruizhe Li et.al.|[2502.03229](http://arxiv.org/abs/2502.03229)|null|
 |**2025-02-05**|**Tell2Reg: Establishing spatial correspondence between images by the same language prompts**|Wen Yan et.al.|[2502.03118](http://arxiv.org/abs/2502.03118)|null|
 |**2025-02-05**|**PoleStack: Robust Pole Estimation of Irregular Objects from Silhouette Stacking**|Jacopo Villa et.al.|[2502.02907](http://arxiv.org/abs/2502.02907)|null|
