@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**RobuRCDet: Enhancing Robustness of Radar-Camera Fusion in Bird's Eye View for 3D Object Detection**|Jingtong Yue et.al.|[2502.13071](http://arxiv.org/abs/2502.13071)|null|
+|**2025-02-18**|**Task-Oriented Semantic Communication for Stereo-Vision 3D Object Detection**|Zijian Cao et.al.|[2502.12735](http://arxiv.org/abs/2502.12735)|null|
+|**2025-02-18**|**DAMamba: Vision State Space Model with Dynamic Adaptive Scan**|Tanzhe Li et.al.|[2502.12627](http://arxiv.org/abs/2502.12627)|null|
+|**2025-02-18**|**Gaseous Object Detection**|Kailai Zhou et.al.|[2502.12415](http://arxiv.org/abs/2502.12415)|null|
 |**2025-02-17**|**Enhancing Transparent Object Pose Estimation: A Fusion of GDR-Net and Edge Detection**|Tessa Pulli et.al.|[2502.12027](http://arxiv.org/abs/2502.12027)|null|
 |**2025-02-16**|**DAViMNet: SSMs-Based Domain Adaptive Object Detection**|A. Enes Doruk et.al.|[2502.11178](http://arxiv.org/abs/2502.11178)|null|
 |**2025-02-15**|**CLoCKDistill: Consistent Location-and-Context-aware Knowledge Distillation for DETRs**|Qizhen Lan et.al.|[2502.10683](http://arxiv.org/abs/2502.10683)|null|
