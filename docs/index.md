@@ -7,6 +7,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Mind the Gap: Benchmarking Spatial Reasoning in Vision-Language Models**|Ilias Stogiannidis et.al.|[2503.19707](http://arxiv.org/abs/2503.19707)|null|
+|**2025-03-25**|**BiblioPage: A Dataset of Scanned Title Pages for Bibliographic Metadata Extraction**|Jan Kohút et.al.|[2503.19658](http://arxiv.org/abs/2503.19658)|null|
+|**2025-03-25**|**Single Shot AI-assisted quantification of KI-67 proliferation index in breast cancer**|Deepti Madurai Muthu et.al.|[2503.19606](http://arxiv.org/abs/2503.19606)|null|
+|**2025-03-25**|**MATT-GS: Masked Attention-based 3DGS for Robot Perception and Object Detection**|Jee Won Lee et.al.|[2503.19330](http://arxiv.org/abs/2503.19330)|null|
+|**2025-03-25**|**Multiscale Feature Importance-based Bit Allocation for End-to-End Feature Coding for Machines**|Junle Liu et.al.|[2503.19278](http://arxiv.org/abs/2503.19278)|null|
+|**2025-03-24**|**Benchmarking Object Detectors under Real-World Distribution Shifts in Satellite Imagery**|Sara Al-Emadi et.al.|[2503.19202](http://arxiv.org/abs/2503.19202)|null|
+|**2025-03-24**|**Pitch Contour Exploration Across Audio Domains: A Vision-Based Transfer Learning Approach**|Jakob Abeßer et.al.|[2503.19161](http://arxiv.org/abs/2503.19161)|null|
+|**2025-03-24**|**Cooperative Control of Multi-Quadrotors for Transporting Cable-Suspended Payloads: Obstacle-Aware Planning and Event-Based Nonlinear Model Predictive Control**|Tohid Kargar Tasooji et.al.|[2503.19135](http://arxiv.org/abs/2503.19135)|null|
 |**2025-03-24**|**Building Blocks for Robust and Effective Semi-Supervised Real-World Object Detection**|Moussa Kassem Sbeyti et.al.|[2503.18903](http://arxiv.org/abs/2503.18903)|null|
 |**2025-03-24**|**LGI-DETR: Local-Global Interaction for UAV Object Detection**|Zifa Chen et.al.|[2503.18785](http://arxiv.org/abs/2503.18785)|null|
 |**2025-03-25**|**Frequency Dynamic Convolution for Dense Image Prediction**|Linwei Chen et.al.|[2503.18783](http://arxiv.org/abs/2503.18783)|null|
@@ -894,6 +902,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**SACB-Net: Spatial-awareness Convolutions for Medical Image Registration**|Xinxing Cheng et.al.|[2503.19592](http://arxiv.org/abs/2503.19592)|null|
 |**2025-03-21**|**Model reduction of convection-dominated viscous conservation laws using implicit feature tracking and landmark image registration**|Victor Zucatti et.al.|[2503.17463](http://arxiv.org/abs/2503.17463)|null|
 |**2025-03-21**|**Halton Scheduler For Masked Generative Image Transformer**|Victor Besnier et.al.|[2503.17076](http://arxiv.org/abs/2503.17076)|null|
 |**2025-03-21**|**Downstream Analysis of Foundational Medical Vision Models for Disease Progression**|Basar Demir et.al.|[2503.16842](http://arxiv.org/abs/2503.16842)|null|
