@@ -15,7 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-26**|**SaViD: Spectravista Aesthetic Vision Integration for Robust and Discerning 3D Object Detection in Challenging Environments**|Tanmoy Dam et.al.|[2503.20614](http://arxiv.org/abs/2503.20614)|null|
+|**2025-03-27**|**Learning Class Prototypes for Unified Sparse Supervised 3D Object Detection**|Yun Zhu et.al.|[2503.21099](http://arxiv.org/abs/2503.21099)|null|
+|**2025-03-26**|**SaViD: Spectravista Aesthetic Vision Integration for Robust and Discerning 3D Object Detection in Challenging Environments**|Tanmoy Dam et.al.|[2503.20614](http://arxiv.org/abs/2503.20614)|**[link](https://github.com/sanjay-810/savid)**|
 |**2025-03-26**|**Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**|Mahya Nikouei et.al.|[2503.20516](http://arxiv.org/abs/2503.20516)|null|
 |**2025-03-25**|**Gemini Robotics: Bringing AI into the Physical World**|Gemini Robotics Team et.al.|[2503.20020](http://arxiv.org/abs/2503.20020)|null|
 |**2025-03-25**|**Hyperdimensional Uncertainty Quantification for Multimodal Uncertainty Fusion in Autonomous Vehicles Perception**|Luke Chen et.al.|[2503.20011](http://arxiv.org/abs/2503.20011)|null|
@@ -799,6 +800,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**Multimodal Image Matching based on Frequency-domain Information of Local Energy Response**|Meng Yang et.al.|[2503.20827](http://arxiv.org/abs/2503.20827)|null|
 |**2025-03-22**|**Normalized Matching Transformer**|Abtin Pourhadi et.al.|[2503.17715](http://arxiv.org/abs/2503.17715)|**[link](https://github.com/apollos1301/normmatchtrans)**|
 |**2025-03-20**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
 |**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|**[link](https://github.com/peihaowu/mapglue)**|
@@ -930,7 +932,7 @@
 |**2025-03-26**|**Vision-Amplified Semantic Entropy for Hallucination Detection in Medical Visual Question Answering**|Zehui Liao et.al.|[2503.20504](http://arxiv.org/abs/2503.20504)|null|
 |**2025-03-25**|**SACB-Net: Spatial-awareness Convolutions for Medical Image Registration**|Xinxing Cheng et.al.|[2503.19592](http://arxiv.org/abs/2503.19592)|null|
 |**2025-03-21**|**Model reduction of convection-dominated viscous conservation laws using implicit feature tracking and landmark image registration**|Victor Zucatti et.al.|[2503.17463](http://arxiv.org/abs/2503.17463)|null|
-|**2025-03-21**|**Halton Scheduler For Masked Generative Image Transformer**|Victor Besnier et.al.|[2503.17076](http://arxiv.org/abs/2503.17076)|null|
+|**2025-03-21**|**Halton Scheduler For Masked Generative Image Transformer**|Victor Besnier et.al.|[2503.17076](http://arxiv.org/abs/2503.17076)|**[link](https://github.com/valeoai/halton-maskgit)**|
 |**2025-03-21**|**Downstream Analysis of Foundational Medical Vision Models for Disease Progression**|Basar Demir et.al.|[2503.16842](http://arxiv.org/abs/2503.16842)|null|
 |**2025-03-18**|**Weakly Supervised Spatial Implicit Neural Representation Learning for 3D MRI-Ultrasound Deformable Image Registration in HDR Prostate Brachytherapy**|Jing Wang et.al.|[2503.14395](http://arxiv.org/abs/2503.14395)|null|
 |**2025-03-18**|**Text-Guided Image Invariant Feature Learning for Robust Image Watermarking**|Muhammad Ahtesham et.al.|[2503.13805](http://arxiv.org/abs/2503.13805)|null|
