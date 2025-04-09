@@ -7,6 +7,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Balancing long- and short-term dynamics for the modeling of saliency in videos**|Theodor Wulff et.al.|[2504.05913](http://arxiv.org/abs/2504.05913)|null|
+|**2025-04-08**|**PRIMEDrive-CoT: A Precognitive Chain-of-Thought Framework for Uncertainty-Aware Object Interaction in Driving Scene Scenario**|Sriram Mandalika et.al.|[2504.05908](http://arxiv.org/abs/2504.05908)|null|
+|**2025-04-08**|**Intrinsic Saliency Guided Trunk-Collateral Network for Unsupervised Video Object Segmentation**|Xiangyu Zheng et.al.|[2504.05904](http://arxiv.org/abs/2504.05904)|null|
+|**2025-04-08**|**KAN-SAM: Kolmogorov-Arnold Network Guided Segment Anything Model for RGB-T Salient Object Detection**|Xingyuan Li et.al.|[2504.05878](http://arxiv.org/abs/2504.05878)|null|
+|**2025-04-08**|**DefMamba: Deformable Visual State Space Model**|Leiye Liu et.al.|[2504.05794](http://arxiv.org/abs/2504.05794)|null|
+|**2025-04-08**|**Event-based Civil Infrastructure Visual Defect Detection: ev-CIVIL Dataset and Benchmark**|Udayanga G. W. K. N. Gamage et.al.|[2504.05679](http://arxiv.org/abs/2504.05679)|null|
+|**2025-04-08**|**POD: Predictive Object Detection with Single-Frame FMCW LiDAR Point Cloud**|Yining Shi et.al.|[2504.05649](http://arxiv.org/abs/2504.05649)|null|
+|**2025-04-08**|**AD-Det: Boosting Object Detection in UAV Images with Focused Small Objects and Balanced Tail Classes**|Zhenteng Li et.al.|[2504.05601](http://arxiv.org/abs/2504.05601)|null|
 |**2025-04-07**|**SSLFusion: Scale & Space Aligned Latent Fusion Model for Multimodal 3D Object Detection**|Bonan Ding et.al.|[2504.05170](http://arxiv.org/abs/2504.05170)|null|
 |**2025-04-07**|**Inland Waterway Object Detection in Multi-environment: Dataset and Approach**|Shanshan Wang et.al.|[2504.04835](http://arxiv.org/abs/2504.04835)|null|
 |**2025-04-07**|**Playing Non-Embedded Card-Based Games with Reinforcement Learning**|Tianyang Wu et.al.|[2504.04783](http://arxiv.org/abs/2504.04783)|null|
@@ -839,6 +847,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|null|
 |**2025-04-07**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834](http://arxiv.org/abs/2504.04834)|null|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
 |**2025-03-31**|**CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching**|Zizhuo Li et.al.|[2503.23925](http://arxiv.org/abs/2503.23925)|null|
@@ -964,6 +973,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**OSDM-MReg: Multimodal Image Registration based One Step Diffusion Model**|Xiaochen Wei et.al.|[2504.06027](http://arxiv.org/abs/2504.06027)|null|
+|**2025-04-07**|**Biomechanical Constraints Assimilation in Deep-Learning Image Registration: Application to sliding and locally rigid deformations**|Ziad Kheil et.al.|[2504.05444](http://arxiv.org/abs/2504.05444)|null|
 |**2025-04-07**|**Solving the fully nonlinear Monge-Ampère equation using the Legendre-Kolmogorov-Arnold Network method**|Bingcheng Hu et.al.|[2504.05022](http://arxiv.org/abs/2504.05022)|null|
 |**2025-04-03**|**IMPACT: A Generic Semantic Loss for Multimodal Medical Image Registration**|Valentin Boussot et.al.|[2503.24121](http://arxiv.org/abs/2503.24121)|**[link](https://github.com/vboussot/impactloss)**|
 |**2025-04-01**|**OncoReg: Medical Image Registration for Oncological Challenges**|Wiebke Heyer et.al.|[2503.23179](http://arxiv.org/abs/2503.23179)|**[link](https://github.com/xi-jia/fourier-net)**|
