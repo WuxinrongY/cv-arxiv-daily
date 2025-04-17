@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Towards a General-Purpose Zero-Shot Synthetic Low-Light Image and Video Pipeline**|Joanne Lin et.al.|[2504.12169](http://arxiv.org/abs/2504.12169)|null|
+|**2025-04-16**|**RADLER: Radar Object Detection Leveraging Semantic 3D City Models and Self-Supervised Radar-Image Learning**|Yuan Luo et.al.|[2504.12167](http://arxiv.org/abs/2504.12167)|null|
+|**2025-04-16**|**pix2pockets: Shot Suggestions in 8-Ball Pool from a Single Image in the Wild**|Jonas Myhre Schiøtt et.al.|[2504.12045](http://arxiv.org/abs/2504.12045)|null|
+|**2025-04-16**|**A Review of YOLOv12: Attention-Based Enhancements vs. Previous Versions**|Rahima Khanam et.al.|[2504.11995](http://arxiv.org/abs/2504.11995)|null|
+|**2025-04-16**|**Multimodal Spatio-temporal Graph Learning for Alignment-free RGBT Video Object Detection**|Qishun Wang et.al.|[2504.11779](http://arxiv.org/abs/2504.11779)|null|
 |**2025-04-15**|**Multi-level Cellular Automata for FLIM networks**|Felipe Crispim Salvagnini et.al.|[2504.11406](http://arxiv.org/abs/2504.11406)|null|
 |**2025-04-15**|**CFIS-YOLO: A Lightweight Multi-Scale Fusion Network for Edge-Deployable Wood Defect Detection**|Jincheng Kang et.al.|[2504.11305](http://arxiv.org/abs/2504.11305)|null|
 |**2025-04-15**|**Flyweight FLIM Networks for Salient Object Detection in Biomedical Images**|Leonardo M. Joao et.al.|[2504.11112](http://arxiv.org/abs/2504.11112)|null|
@@ -852,6 +857,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**SO-DETR: Leveraging Dual-Domain Features and Knowledge Distillation for Small Object Detection**|Huaxiang Zhang et.al.|[2504.11470](http://arxiv.org/abs/2504.11470)|null|
 |**2025-04-14**|**Small Object Detection with YOLO: A Performance Analysis Across Model Versions and Hardware**|Muhammad Fasih Tariq et.al.|[2504.09900](http://arxiv.org/abs/2504.09900)|null|
 |**2025-03-29**|**Context in object detection: a systematic literature review**|Mahtab Jamali et.al.|[2503.23249](http://arxiv.org/abs/2503.23249)|null|
 |**2025-03-26**|**Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**|Mahya Nikouei et.al.|[2503.20516](http://arxiv.org/abs/2503.20516)|null|
@@ -1017,6 +1023,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Correlation Ratio for Unsupervised Learning of Multi-modal Deformable Registration**|Xiaojian Chen et.al.|[2504.12265](http://arxiv.org/abs/2504.12265)|null|
+|**2025-04-16**|**A Category-Fragment Segmentation Framework for Pelvic Fracture Segmentation in X-ray Images**|Daiqi Liu et.al.|[2504.11872](http://arxiv.org/abs/2504.11872)|null|
 |**2025-04-13**|**Imaging Transformer for MRI Denoising: a Scalable Model Architecture that enables SNR << 1 Imaging**|Hui Xue et.al.|[2504.10534](http://arxiv.org/abs/2504.10534)|null|
 |**2025-04-13**|**Capturing Longitudinal Changes in Brain Morphology Using Temporally Parameterized Neural Displacement Fields**|Aisha L. Shuaibu et.al.|[2504.09514](http://arxiv.org/abs/2504.09514)|null|
 |**2025-04-09**|**IGG: Image Generation Informed by Geodesic Dynamics in Deformation Spaces**|Nian Wu et.al.|[2504.07999](http://arxiv.org/abs/2504.07999)|**[link](https://github.com/nellie689/igg)**|
