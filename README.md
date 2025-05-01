@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics**|Marc Glocker et.al.|[2504.21716](http://arxiv.org/abs/2504.21716)|null|
+|**2025-04-29**|**T2ID-CAS: Diffusion Model and Class Aware Sampling to Mitigate Class Imbalance in Neck Ultrasound Anatomical Landmark Detection**|Manikanta Varaganti et.al.|[2504.21231](http://arxiv.org/abs/2504.21231)|null|
 |**2025-04-29**|**FLIM-based Salient Object Detection Networks with Adaptive Decoders**|Gilson Junior Soares et.al.|[2504.20872](http://arxiv.org/abs/2504.20872)|null|
 |**2025-04-29**|**A Survey on Event-based Optical Marker Systems**|Nafiseh Jabbari Tofighi et.al.|[2504.20736](http://arxiv.org/abs/2504.20736)|null|
 |**2025-04-29**|**Purifying, Labeling, and Utilizing: A High-Quality Pipeline for Small Object Detection**|Siwei Wang et.al.|[2504.20602](http://arxiv.org/abs/2504.20602)|null|
@@ -1102,6 +1104,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**MagicCraft: Natural Language-Driven Generation of Dynamic and Interactive 3D Objects for Commercial Metaverse Platforms**|Ryutaro Kurai et.al.|[2504.21332](http://arxiv.org/abs/2504.21332)|null|
 |**2025-04-24**|**Spectral Bias Correction in PINNs for Myocardial Image Registration of Pathological Data**|Bastien C. Baluyot et.al.|[2504.17945](http://arxiv.org/abs/2504.17945)|null|
 |**2025-04-22**|**Towards prediction of morphological heart age from computed tomography angiography**|Johan Öfverstedt et.al.|[2504.15783](http://arxiv.org/abs/2504.15783)|null|
 |**2025-04-19**|**Exploring Generalizable Pre-training for Real-world Change Detection via Geometric Estimation**|Yitao Zhao et.al.|[2504.14306](http://arxiv.org/abs/2504.14306)|null|
