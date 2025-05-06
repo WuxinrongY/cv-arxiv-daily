@@ -15,7 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-02**|**CDFormer: Cross-Domain Few-Shot Object Detection Transformer Against Feature Confusion**|Boyuan Meng et.al.|[2505.00938](http://arxiv.org/abs/2505.00938)|null|
+|**2025-05-05**|**DPNet: Dynamic Pooling Network for Tiny Object Detection**|Luqi Gong et.al.|[2505.02797](http://arxiv.org/abs/2505.02797)|null|
+|**2025-05-05**|**RGBX-DiffusionDet: A Framework for Multi-Modal RGB-X Object Detection Using DiffusionDet**|Eliraz Orfaig et.al.|[2505.02586](http://arxiv.org/abs/2505.02586)|null|
+|**2025-05-05**|**Point Cloud Recombination: Systematic Real Data Augmentation Using Robotic Targets for LiDAR Perception Validation**|Hubert Padusinski et.al.|[2505.02476](http://arxiv.org/abs/2505.02476)|null|
+|**2025-05-03**|**DriveNetBench: An Affordable and Configurable Single-Camera Benchmarking System for Autonomous Driving Networks**|Ali Al-Bustami et.al.|[2505.01893](http://arxiv.org/abs/2505.01893)|**[link](https://github.com/alibustami/DriveNetBench)**|
+|**2025-05-03**|**OODTE: A Differential Testing Engine for the ONNX Optimizer**|Nikolaos Louloudakis et.al.|[2505.01892](http://arxiv.org/abs/2505.01892)|null|
+|**2025-05-03**|**CMAWRNet: Multiple Adverse Weather Removal via a Unified Quaternion Neural Architecture**|Vladimir Frants et.al.|[2505.01882](http://arxiv.org/abs/2505.01882)|null|
+|**2025-05-03**|**DualDiff: Dual-branch Diffusion Model for Autonomous Driving with Semantic Fusion**|Haoteng Li et.al.|[2505.01857](http://arxiv.org/abs/2505.01857)|null|
+|**2025-05-03**|**Toward Onboard AI-Enabled Solutions to Space Object Detection for Space Sustainability**|Wenxuan Zhang et.al.|[2505.01650](http://arxiv.org/abs/2505.01650)|null|
+|**2025-05-02**|**CDFormer: Cross-Domain Few-Shot Object Detection Transformer Against Feature Confusion**|Boyuan Meng et.al.|[2505.00938](http://arxiv.org/abs/2505.00938)|**[link](https://github.com/LONGXUANX/CDFormer_code)**|
 |**2025-05-01**|**Efficient On-Chip Implementation of 4D Radar-Based 3D Object Detection on Hailo-8L**|Woong-Chan Byun et.al.|[2505.00757](http://arxiv.org/abs/2505.00757)|null|
 |**2025-05-03**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630](http://arxiv.org/abs/2505.00630)|null|
 |**2025-05-01**|**Visual Trajectory Prediction of Vessels for Inland Navigation**|Alexander Puzicha et.al.|[2505.00599](http://arxiv.org/abs/2505.00599)|null|
@@ -978,6 +986,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
 |**2025-04-29**|**Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**|Taoyu Su et.al.|[2504.19458](http://arxiv.org/abs/2504.19458)|null|
 |**2025-04-28**|**Dynamic Arthroscopic Navigation System for Anterior Cruciate Ligament Reconstruction Based on Multi-level Memory Architecture**|Shuo Wang et.al.|[2504.19398](http://arxiv.org/abs/2504.19398)|null|
 |**2025-04-23**|**Road Similarity-Based BEV-Satellite Image Matching for UGV Localization**|Zhenping Sun et.al.|[2504.16346](http://arxiv.org/abs/2504.16346)|null|
@@ -1116,6 +1125,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar et.al.|[2505.02787](http://arxiv.org/abs/2505.02787)|null|
+|**2025-05-05**|**Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance**|David Rivas-Villar et.al.|[2505.02779](http://arxiv.org/abs/2505.02779)|null|
 |**2025-04-30**|**MagicCraft: Natural Language-Driven Generation of Dynamic and Interactive 3D Objects for Commercial Metaverse Platforms**|Ryutaro Kurai et.al.|[2504.21332](http://arxiv.org/abs/2504.21332)|null|
 |**2025-04-24**|**Spectral Bias Correction in PINNs for Myocardial Image Registration of Pathological Data**|Bastien C. Baluyot et.al.|[2504.17945](http://arxiv.org/abs/2504.17945)|null|
 |**2025-04-22**|**Towards prediction of morphological heart age from computed tomography angiography**|Johan Öfverstedt et.al.|[2504.15783](http://arxiv.org/abs/2504.15783)|null|
