@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 ## Object Detection
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1198,7 +1198,7 @@ layout: default
 |**2025-05-23**|**4D-CTA Image and geometry dataset for kinematic analysis of abdominal aortic aneurysms**|Mostafa Jamshidian et.al.|[2505.17647](http://arxiv.org/abs/2505.17647)|null|
 |**2025-05-22**|**Temporal Differential Fields for 4D Motion Modeling via Image-to-Video Synthesis**|Xin You et.al.|[2505.17333](http://arxiv.org/abs/2505.17333)|null|
 |**2025-05-22**|**Deep mineralogical segmentation of thin section images based on QEMSCAN maps**|Jean Pablo Vieira de Mello et.al.|[2505.17008](http://arxiv.org/abs/2505.17008)|**[link](https://github.com/ltracegeo/deep-mineralogical-segmentation)**|
-|**2025-05-22**|**Tracking the Flight: Exploring a Computational Framework for Analyzing Escape Responses in Plains Zebra (Equus quagga)**|Isla Duporge et.al.|[2505.16882](http://arxiv.org/abs/2505.16882)|null|
+|**2025-05-23**|**Tracking the Flight: Exploring a Computational Framework for Analyzing Escape Responses in Plains Zebra (Equus quagga)**|Isla Duporge et.al.|[2505.16882](http://arxiv.org/abs/2505.16882)|null|
 |**2025-05-18**|**Kornia-rs: A Low-Level 3D Computer Vision Library In Rust**|Edgar Riba et.al.|[2505.12425](http://arxiv.org/abs/2505.12425)|null|
 |**2025-05-15**|**IMITATE: Image Registration with Context for unknown time frame recovery**|Ziad Kheil et.al.|[2505.10124](http://arxiv.org/abs/2505.10124)|**[link](https://github.com/kheil-z/imitate)**|
 |**2025-05-15**|**Non-Registration Change Detection: A Novel Change Detection Task and Benchmark Dataset**|Zhe Shan et.al.|[2505.09939](http://arxiv.org/abs/2505.09939)|**[link](https://github.com/shanzard/nrcd)**|
