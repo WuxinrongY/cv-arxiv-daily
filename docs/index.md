@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 ## Object Detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-28**|**The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**|Aixuan Li et.al.|[2505.22499](http://arxiv.org/abs/2505.22499)|null|
+|**2025-05-29**|**The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**|Aixuan Li et.al.|[2505.22499](http://arxiv.org/abs/2505.22499)|null|
 |**2025-05-28**|**Task-Driven Implicit Representations for Automated Design of LiDAR Systems**|Nikhil Behari et.al.|[2505.22344](http://arxiv.org/abs/2505.22344)|null|
-|**2025-05-28**|**YH-MINER: Multimodal Intelligent System for Natural Ecological Reef Metric Extraction**|Mingzhuang Wang et.al.|[2505.22250](http://arxiv.org/abs/2505.22250)|null|
+|**2025-05-29**|**YH-MINER: Multimodal Intelligent System for Natural Ecological Reef Metric Extraction**|Mingzhuang Wang et.al.|[2505.22250](http://arxiv.org/abs/2505.22250)|null|
 |**2025-05-28**|**S2AFormer: Strip Self-Attention for Efficient Vision Transformer**|Guoan Xu et.al.|[2505.22195](http://arxiv.org/abs/2505.22195)|null|
 |**2025-05-28**|**Learning A Robust RGB-Thermal Detector for Extreme Modality Imbalance**|Chao Tian et.al.|[2505.22154](http://arxiv.org/abs/2505.22154)|null|
 |**2025-05-28**|**Prototype Embedding Optimization for Human-Object Interaction Detection in Livestreaming**|Menghui Zhang et.al.|[2505.22011](http://arxiv.org/abs/2505.22011)|null|
