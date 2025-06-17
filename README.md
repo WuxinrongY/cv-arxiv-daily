@@ -15,6 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**How Real is CARLAs Dynamic Vision Sensor? A Study on the Sim-to-Real Gap in Traffic Object Detection**|Kaiyuan Tan et.al.|[2506.13722](http://arxiv.org/abs/2506.13722)|null|
+|**2025-06-16**|**Lecture Video Visual Objects (LVVO) Dataset: A Benchmark for Visual Object Detection in Educational Videos**|Dipayan Biswas et.al.|[2506.13657](http://arxiv.org/abs/2506.13657)|**[link](https://github.com/dipayan1109033/edu-video-visual-detection)**|
+|**2025-06-16**|**UAV Object Detection and Positioning in a Mining Industrial Metaverse with Custom Geo-Referenced Data**|Vasiliki Balaska et.al.|[2506.13505](http://arxiv.org/abs/2506.13505)|null|
+|**2025-06-16**|**Sparse Convolutional Recurrent Learning for Efficient Event-based Neuromorphic Object Detection**|Shenqi Wang et.al.|[2506.13440](http://arxiv.org/abs/2506.13440)|null|
+|**2025-06-16**|**Cognitive Synergy Architecture: SEGO for Human-Centric Collaborative Robots**|Jaehong Oh et.al.|[2506.13149](http://arxiv.org/abs/2506.13149)|null|
+|**2025-06-15**|**MGDFIS: Multi-scale Global-detail Feature Integration Strategy for Small Object Detection**|Yuxiang Wang et.al.|[2506.12697](http://arxiv.org/abs/2506.12697)|null|
+|**2025-06-14**|**UniDet-D: A Unified Dynamic Spectral Attention Model for Object Detection under Adverse Weathers**|Yuantao Wang et.al.|[2506.12324](http://arxiv.org/abs/2506.12324)|null|
+|**2025-06-14**|**MatchPlant: An Open-Source Pipeline for UAV-Based Single-Plant Detection and Data Extraction**|Worasit Sangjan et.al.|[2506.12295](http://arxiv.org/abs/2506.12295)|**[link](https://github.com/JacobWashburn-USDA/MatchPlant)**|
 |**2025-06-13**|**Vision-based Lifting of 2D Object Detections for Automated Driving**|Hendrik Königshof et.al.|[2506.11839](http://arxiv.org/abs/2506.11839)|null|
 |**2025-06-13**|**Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds**|Filippo Bragato et.al.|[2506.11804](http://arxiv.org/abs/2506.11804)|null|
 |**2025-06-13**|**GPLQ: A General, Practical, and Lightning QAT Method for Vision Transformers**|Guang Liang et.al.|[2506.11784](http://arxiv.org/abs/2506.11784)|null|
@@ -1115,6 +1123,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-15**|**MGDFIS: Multi-scale Global-detail Feature Integration Strategy for Small Object Detection**|Yuxiang Wang et.al.|[2506.12697](http://arxiv.org/abs/2506.12697)|null|
 |**2025-05-28**|**Cross-DINO: Cross the Deep MLP and Transformer for Small Object Detection**|Guiping Cao et.al.|[2505.21868](http://arxiv.org/abs/2505.21868)|null|
 |**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
 |**2025-05-27**|**Robust Video-Based Pothole Detection and Area Estimation for Intelligent Vehicles with Depth Map and Kalman Smoothing**|Dehao Wang et.al.|[2505.21049](http://arxiv.org/abs/2505.21049)|null|
@@ -1164,6 +1173,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**EmbodiedPlace: Learning Mixture-of-Features with Embodied Constraints for Visual Place Recognition**|Bingxi Liu et.al.|[2506.13133](http://arxiv.org/abs/2506.13133)|null|
 |**2025-06-12**|**RealKeyMorph: Keypoints in Real-world Coordinates for Resolution-agnostic Image Registration**|Mina C. Moghadam et.al.|[2506.10344](http://arxiv.org/abs/2506.10344)|null|
 |**2025-06-11**|**Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**|Xiangkai Zhang et.al.|[2506.09748](http://arxiv.org/abs/2506.09748)|null|
 |**2025-06-11**|**ScaleLSD: Scalable Deep Line Segment Detection Streamlined**|Zeran Ke et.al.|[2506.09369](http://arxiv.org/abs/2506.09369)|**[link](https://github.com/ant-research/scalelsd)**|
@@ -1316,6 +1326,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766](http://arxiv.org/abs/2506.13766)|null|
 |**2025-06-12**|**Unsupervised Deformable Image Registration with Structural Nonparametric Smoothing**|Hang Zhang et.al.|[2506.10813](http://arxiv.org/abs/2506.10813)|null|
 |**2025-06-12**|**RealKeyMorph: Keypoints in Real-world Coordinates for Resolution-agnostic Image Registration**|Mina C. Moghadam et.al.|[2506.10344](http://arxiv.org/abs/2506.10344)|null|
 |**2025-06-11**|**CINeMA: Conditional Implicit Neural Multi-Modal Atlas for a Spatio-Temporal Representation of the Perinatal Brain**|Maik Dannecker et.al.|[2506.09668](http://arxiv.org/abs/2506.09668)|**[link](https://github.com/m-dannecker/cinema)**|
