@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**Lightweight Multi-Frame Integration for Robust YOLO Object Detection in Videos**|Yitong Quan et.al.|[2506.20550](http://arxiv.org/abs/2506.20550)|null|
+|**2025-06-25**|**Learning-based safety lifting monitoring system for cranes on construction sites**|Hao Chen et.al.|[2506.20475](http://arxiv.org/abs/2506.20475)|null|
+|**2025-06-25**|**Feature Hallucination for Self-supervised Action Recognition**|Lei Wang et.al.|[2506.20342](http://arxiv.org/abs/2506.20342)|null|
+|**2025-06-25**|**From Codicology to Code: A Comparative Study of Transformer and YOLO-based Detectors for Layout Analysis in Historical Documents**|Sergio Torres Aguilar et.al.|[2506.20326](http://arxiv.org/abs/2506.20326)|null|
+|**2025-06-25**|**TDiR: Transformer based Diffusion for Image Restoration Tasks**|Abbas Anwar et.al.|[2506.20302](http://arxiv.org/abs/2506.20302)|null|
+|**2025-06-25**|**Integrated optomechanical ultrasonic sensors with nano-Pascal-level sensitivity**|Xuening Cao et.al.|[2506.20219](http://arxiv.org/abs/2506.20219)|null|
 |**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769](http://arxiv.org/abs/2506.19769)|null|
 |**2025-06-24**|**Semantic Scene Graph for Ultrasound Image Explanation and Scanning Guidance**|Xuesong Li et.al.|[2506.19683](http://arxiv.org/abs/2506.19683)|null|
 |**2025-06-24**|**Probabilistic modelling and safety assurance of an agriculture robot providing light-treatment**|Mustafa Adam et.al.|[2506.19620](http://arxiv.org/abs/2506.19620)|null|
@@ -1203,6 +1209,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**Fast entropy-regularized SDP relaxations for permutation synchronization**|Michael Lindsey et.al.|[2506.20191](http://arxiv.org/abs/2506.20191)|null|
 |**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180](http://arxiv.org/abs/2506.15180)|null|
 |**2025-06-16**|**EmbodiedPlace: Learning Mixture-of-Features with Embodied Constraints for Visual Place Recognition**|Bingxi Liu et.al.|[2506.13133](http://arxiv.org/abs/2506.13133)|null|
 |**2025-06-12**|**RealKeyMorph: Keypoints in Real-world Coordinates for Resolution-agnostic Image Registration**|Mina C. Moghadam et.al.|[2506.10344](http://arxiv.org/abs/2506.10344)|null|
@@ -1357,6 +1364,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**Photon Absorption Remote Sensing (PARS): Comprehensive Absorption Imaging Enabling Label-Free Biomolecule Characterization and Mapping**|Benjamin R. Ecclestone et.al.|[2506.20069](http://arxiv.org/abs/2506.20069)|null|
+|**2025-06-24**|**VoxelOpt: Voxel-Adaptive Message Passing for Discrete Optimization in Deformable Abdominal CT Registration**|Hang Zhang et.al.|[2506.19975](http://arxiv.org/abs/2506.19975)|null|
 |**2025-06-24**|**Deformable Medical Image Registration with Effective Anatomical Structure Representation and Divide-and-Conquer Network**|Xinke Ma et.al.|[2506.19222](http://arxiv.org/abs/2506.19222)|null|
 |**2025-06-23**|**A Deep Learning Based Method for Fast Registration of Cardiac Magnetic Resonance Images**|Benjamin Graham et.al.|[2506.19167](http://arxiv.org/abs/2506.19167)|null|
 |**2025-06-19**|**Watermarking Autoregressive Image Generation**|Nikola Jovanović et.al.|[2506.16349](http://arxiv.org/abs/2506.16349)|**[link](https://github.com/facebookresearch/wmar)**|
