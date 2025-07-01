@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 ## Object Detection
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1370,7 +1370,7 @@ layout: default
 |**2025-06-23**|**A Deep Learning Based Method for Fast Registration of Cardiac Magnetic Resonance Images**|Benjamin Graham et.al.|[2506.19167](http://arxiv.org/abs/2506.19167)|null|
 |**2025-06-19**|**Watermarking Autoregressive Image Generation**|Nikola Jovanović et.al.|[2506.16349](http://arxiv.org/abs/2506.16349)|**[link](https://github.com/facebookresearch/wmar)**|
 |**2025-06-18**|**Tree-based adaptive finite element methods for deformable image registration**|Nicolás A. Barnafi et.al.|[2506.15876](http://arxiv.org/abs/2506.15876)|null|
-|**2025-06-18**|**Mono-Modalizing Extremely Heterogeneous Multi-Modal Medical Image Registration**|Kyobin Choo et.al.|[2506.15596](http://arxiv.org/abs/2506.15596)|null|
+|**2025-06-30**|**Mono-Modalizing Extremely Heterogeneous Multi-Modal Medical Image Registration**|Kyobin Choo et.al.|[2506.15596](http://arxiv.org/abs/2506.15596)|null|
 |**2025-06-17**|**A Digital Twin Framework for Adaptive Treatment Planning in Radiotherapy**|Chih-Wei Chang et.al.|[2506.14701](http://arxiv.org/abs/2506.14701)|null|
 |**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766](http://arxiv.org/abs/2506.13766)|null|
 |**2025-06-12**|**Unsupervised Deformable Image Registration with Structural Nonparametric Smoothing**|Hang Zhang et.al.|[2506.10813](http://arxiv.org/abs/2506.10813)|null|
