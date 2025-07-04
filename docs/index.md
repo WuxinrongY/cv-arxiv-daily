@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 ## Object Detection
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1386,7 +1386,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-02**|**Modality Agnostic, patient-specific digital twins modeling temporally varying digestive motion**|Jorge Tapias Gomez et.al.|[2507.01909](http://arxiv.org/abs/2507.01909)|null|
+|**2025-07-03**|**Modality-agnostic, patient-specific digital twins modeling temporally varying digestive motion**|Jorge Tapias Gomez et.al.|[2507.01909](http://arxiv.org/abs/2507.01909)|null|
 |**2025-07-01**|**On the Intensity-based Inversion Method for Quantitative Quasi-Static Elastography**|Ekaterina Sherina et.al.|[2507.01207](http://arxiv.org/abs/2507.01207)|null|
 |**2025-07-01**|**Bridging Classical and Learning-based Iterative Registration through Deep Equilibrium Models**|Yi Zhang et.al.|[2507.00582](http://arxiv.org/abs/2507.00582)|null|
 |**2025-06-30**|**Puzzles: Unbounded Video-Depth Augmentation for Scalable End-to-End 3D Reconstruction**|Jiahao Ma et.al.|[2506.23863](http://arxiv.org/abs/2506.23863)|null|
