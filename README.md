@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations**|Xiang Xu et.al.|[2507.05260](http://arxiv.org/abs/2507.05260)|null|
+|**2025-07-07**|**LERa: Replanning with Visual Feedback in Instruction Following**|Svyatoslav Pchelintsev et.al.|[2507.05135](http://arxiv.org/abs/2507.05135)|null|
+|**2025-07-07**|**CVFusion: Cross-View Fusion of 4D Radar and Camera for 3D Object Detection**|Hanzhi Zhong et.al.|[2507.04587](http://arxiv.org/abs/2507.04587)|null|
+|**2025-07-06**|**MambaFusion: Height-Fidelity Dense Global Fusion for Multi-modal 3D Object Detection**|Hanshi Wang et.al.|[2507.04369](http://arxiv.org/abs/2507.04369)|null|
+|**2025-07-06**|**DMAT: An End-to-End Framework for Joint Atmospheric Turbulence Mitigation and Object Detection**|Paul Hill et.al.|[2507.04323](http://arxiv.org/abs/2507.04323)|null|
+|**2025-07-06**|**ZERO: Multi-modal Prompt-based Visual Grounding**|Sangbum Choi et.al.|[2507.04270](http://arxiv.org/abs/2507.04270)|null|
+|**2025-07-05**|**Towards Accurate and Efficient 3D Object Detection for Autonomous Driving: A Mixture of Experts Computing System on Edge**|Linshen Liu et.al.|[2507.04123](http://arxiv.org/abs/2507.04123)|null|
+|**2025-07-04**|**Zero Memory Overhead Approach for Protecting Vision Transformer Parameters**|Fereshteh Baradaran et.al.|[2507.03816](http://arxiv.org/abs/2507.03816)|null|
+|**2025-07-04**|**2.5D Object Detection for Intelligent Roadside Infrastructure**|Nikolai Polley et.al.|[2507.03564](http://arxiv.org/abs/2507.03564)|null|
+|**2025-07-04**|**Enhancing Uncertainty Quantification for Runtime Safety Assurance Using Causal Risk Analysis and Operational Design Domain**|Radouane Bouchekir et.al.|[2507.03515](http://arxiv.org/abs/2507.03515)|null|
 |**2025-07-03**|**Partial Weakly-Supervised Oriented Object Detection**|Mingxin Liu et.al.|[2507.02751](http://arxiv.org/abs/2507.02751)|null|
 |**2025-07-03**|**Automatic Labelling for Low-Light Pedestrian Detection**|Dimitrios Bouzoulas et.al.|[2507.02513](http://arxiv.org/abs/2507.02513)|null|
 |**2025-07-03**|**Weakly-supervised Contrastive Learning with Quantity Prompts for Moving Infrared Small Target Detection**|Weiwei Duan et.al.|[2507.02454](http://arxiv.org/abs/2507.02454)|null|
@@ -1251,11 +1261,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-05**|**From Query to Explanation: Uni-RAG for Multi-Modal Retrieval-Augmented Learning in STEM**|Xinyi Wu et.al.|[2507.03868](http://arxiv.org/abs/2507.03868)|null|
 |**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
 |**2025-06-30**|**Efficient and Accurate Image Provenance Analysis: A Scalable Pipeline for Large-scale Images**|Jiewei Lai et.al.|[2506.23707](http://arxiv.org/abs/2506.23707)|null|
 |**2025-06-29**|**Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization**|Suofei Zhang et.al.|[2506.23077](http://arxiv.org/abs/2506.23077)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
-|**2025-06-27**|**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**|Shaojie Zhang et.al.|[2506.22139](http://arxiv.org/abs/2506.22139)|null|
+|**2025-07-07**|**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**|Shaojie Zhang et.al.|[2506.22139](http://arxiv.org/abs/2506.22139)|null|
 |**2025-06-27**|**ZeroReg3D: A Zero-shot Registration Pipeline for 3D Consecutive Histopathology Image Reconstruction**|Juming Xiong et.al.|[2506.21923](http://arxiv.org/abs/2506.21923)|null|
 |**2025-06-25**|**Fast entropy-regularized SDP relaxations for permutation synchronization**|Michael Lindsey et.al.|[2506.20191](http://arxiv.org/abs/2506.20191)|null|
 |**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180](http://arxiv.org/abs/2506.15180)|null|
@@ -1412,6 +1423,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-06**|**Grid-Reg: Grid-Based SAR and Optical Image Registration Across Platforms**|Xiaochen Wei et.al.|[2507.04233](http://arxiv.org/abs/2507.04233)|null|
+|**2025-06-29**|**Multimodal image registration for effective thermographic fever screening**|C. Y. N. Dwith et.al.|[2507.02955](http://arxiv.org/abs/2507.02955)|null|
 |**2025-07-03**|**Modality-agnostic, patient-specific digital twins modeling temporally varying digestive motion**|Jorge Tapias Gomez et.al.|[2507.01909](http://arxiv.org/abs/2507.01909)|null|
 |**2025-07-01**|**On the Intensity-based Inversion Method for Quantitative Quasi-Static Elastography**|Ekaterina Sherina et.al.|[2507.01207](http://arxiv.org/abs/2507.01207)|null|
 |**2025-07-01**|**Bridging Classical and Learning-based Iterative Registration through Deep Equilibrium Models**|Yi Zhang et.al.|[2507.00582](http://arxiv.org/abs/2507.00582)|null|
