@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 ## Object Detection
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1199,7 +1199,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-01**|**High-Frequency Semantics and Geometric Priors for End-to-End Detection Transformers in Challenging UAV Imagery**|Hongxing Peng et.al.|[2507.00825](http://arxiv.org/abs/2507.00825)|null|
+|**2025-07-08**|**High-Frequency Semantics and Geometric Priors for End-to-End Detection Transformers in Challenging UAV Imagery**|Hongxing Peng et.al.|[2507.00825](http://arxiv.org/abs/2507.00825)|null|
 |**2025-06-30**|**Event-based Tiny Object Detection: A Benchmark Dataset and Baseline**|Nuo Chen et.al.|[2506.23575](http://arxiv.org/abs/2506.23575)|null|
 |**2025-06-15**|**MGDFIS: Multi-scale Global-detail Feature Integration Strategy for Small Object Detection**|Yuxiang Wang et.al.|[2506.12697](http://arxiv.org/abs/2506.12697)|null|
 |**2025-05-28**|**Cross-DINO: Cross the Deep MLP and Transformer for Small Object Detection**|Guiping Cao et.al.|[2505.21868](http://arxiv.org/abs/2505.21868)|null|
@@ -1409,7 +1409,7 @@ layout: default
 |**2025-06-29**|**Multimodal image registration for effective thermographic fever screening**|C. Y. N. Dwith et.al.|[2507.02955](http://arxiv.org/abs/2507.02955)|null|
 |**2025-07-03**|**Modality-agnostic, patient-specific digital twins modeling temporally varying digestive motion**|Jorge Tapias Gomez et.al.|[2507.01909](http://arxiv.org/abs/2507.01909)|null|
 |**2025-07-01**|**On the Intensity-based Inversion Method for Quantitative Quasi-Static Elastography**|Ekaterina Sherina et.al.|[2507.01207](http://arxiv.org/abs/2507.01207)|null|
-|**2025-07-01**|**Bridging Classical and Learning-based Iterative Registration through Deep Equilibrium Models**|Yi Zhang et.al.|[2507.00582](http://arxiv.org/abs/2507.00582)|null|
+|**2025-07-08**|**Bridging Classical and Learning-based Iterative Registration through Deep Equilibrium Models**|Yi Zhang et.al.|[2507.00582](http://arxiv.org/abs/2507.00582)|null|
 |**2025-06-30**|**Puzzles: Unbounded Video-Depth Augmentation for Scalable End-to-End 3D Reconstruction**|Jiahao Ma et.al.|[2506.23863](http://arxiv.org/abs/2506.23863)|null|
 |**2025-06-27**|**Cardiovascular disease classification using radiomics and geometric features from cardiac CT**|Ajay Mittal et.al.|[2506.22226](http://arxiv.org/abs/2506.22226)|null|
 |**2025-06-27**|**Robust and Accurate Multi-view 2D/3D Image Registration with Differentiable X-ray Rendering and Dual Cross-view Constraints**|Yuxin Cui et.al.|[2506.22191](http://arxiv.org/abs/2506.22191)|null|
