@@ -15,6 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**A Real-Time System for Egocentric Hand-Object Interaction Detection in Industrial Domains**|Antonio Finocchiaro et.al.|[2507.13326](http://arxiv.org/abs/2507.13326)|null|
+|**2025-07-17**|**RS-TinyNet: Stage-wise Feature Fusion Network for Detecting Tiny Objects in Remote Sensing Images**|Xiaozheng Jiang et.al.|[2507.13120](http://arxiv.org/abs/2507.13120)|null|
+|**2025-07-17**|**Decoupled PROB: Decoupled Query Initialization Tasks and Objectness-Class Learning for Open World Object Detection**|Riku Inoue et.al.|[2507.13085](http://arxiv.org/abs/2507.13085)|null|
+|**2025-07-17**|**Dual LiDAR-Based Traffic Movement Count Estimation at a Signalized Intersection: Deployment, Data Collection, and Preliminary Analysis**|Saswat Priyadarshi Nayak et.al.|[2507.13073](http://arxiv.org/abs/2507.13073)|null|
+|**2025-07-17**|**SOD-YOLO: Enhancing YOLO-Based Detection of Small Objects in UAV Imagery**|Peijun Wang et.al.|[2507.12727](http://arxiv.org/abs/2507.12727)|null|
 |**2025-07-16**|**Vision-based Perception for Autonomous Vehicles in Obstacle Avoidance Scenarios**|Van-Hoang-Anh Phan et.al.|[2507.12449](http://arxiv.org/abs/2507.12449)|null|
 |**2025-07-16**|**InterpIoU: Rethinking Bounding Box Regression with Interpolation-Based IoU Optimization**|Haoyuan Liu et.al.|[2507.12420](http://arxiv.org/abs/2507.12420)|null|
 |**2025-07-16**|**AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**|Santosh Vasa et.al.|[2507.12414](http://arxiv.org/abs/2507.12414)|null|
@@ -1251,6 +1256,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**SOD-YOLO: Enhancing YOLO-Based Detection of Small Objects in UAV Imagery**|Peijun Wang et.al.|[2507.12727](http://arxiv.org/abs/2507.12727)|null|
 |**2025-07-16**|**InterpIoU: Rethinking Bounding Box Regression with Interpolation-Based IoU Optimization**|Haoyuan Liu et.al.|[2507.12420](http://arxiv.org/abs/2507.12420)|null|
 |**2025-07-08**|**High-Frequency Semantics and Geometric Priors for End-to-End Detection Transformers in Challenging UAV Imagery**|Hongxing Peng et.al.|[2507.00825](http://arxiv.org/abs/2507.00825)|null|
 |**2025-06-30**|**Event-based Tiny Object Detection: A Benchmark Dataset and Baseline**|Nuo Chen et.al.|[2506.23575](http://arxiv.org/abs/2506.23575)|null|
@@ -1467,6 +1473,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**fastWDM3D: Fast and Accurate 3D Healthy Tissue Inpainting**|Alicia Durrer et.al.|[2507.13146](http://arxiv.org/abs/2507.13146)|null|
+|**2025-07-17**|**cIDIR: Conditioned Implicit Neural Representation for Regularized Deformable Image Registration**|Sidaty El Hadramy et.al.|[2507.12953](http://arxiv.org/abs/2507.12953)|null|
+|**2025-07-16**|**Pathology-Guided Virtual Staining Metric for Evaluation and Training**|Qiankai Wang et.al.|[2507.12624](http://arxiv.org/abs/2507.12624)|null|
 |**2025-07-15**|**Are Vision Foundation Models Ready for Out-of-the-Box Medical Image Registration?**|Hanxue Gu et.al.|[2507.11569](http://arxiv.org/abs/2507.11569)|null|
 |**2025-07-14**|**Well-posedness of an optical flow based optimal control formulation for image registration**|Johannes Haubner et.al.|[2507.10188](http://arxiv.org/abs/2507.10188)|null|
 |**2025-07-09**|**Segmentation Regularized Training for Multi-Domain Deep Learning Registration applied to MR-Guided Prostate Cancer Radiotherapy**|Sudharsan Madhavan et.al.|[2507.06966](http://arxiv.org/abs/2507.06966)|null|
