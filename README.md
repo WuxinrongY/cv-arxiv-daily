@@ -15,6 +15,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Experimenting active and sequential learning in a medieval music manuscript**|Sachin Sharma et.al.|[2507.15633](http://arxiv.org/abs/2507.15633)|null|
+|**2025-07-21**|**Few-Shot Object Detection via Spatial-Channel State Space Model**|Zhimeng Xin et.al.|[2507.15308](http://arxiv.org/abs/2507.15308)|null|
+|**2025-07-20**|**Event-based Graph Representation with Spatial and Motion Vectors for Asynchronous Object Detection**|Aayush Atul Verma et.al.|[2507.15150](http://arxiv.org/abs/2507.15150)|null|
+|**2025-07-20**|**BleedOrigin: Dynamic Bleeding Source Localization in Endoscopic Submucosal Dissection via Dual-Stage Detection and Tracking**|Mengya Xu et.al.|[2507.15094](http://arxiv.org/abs/2507.15094)|null|
+|**2025-07-20**|**InsightX Agent: An LMM-based Agentic Framework with Integrated Tools for Reliable X-ray NDT Analysis**|Jiale Liu et.al.|[2507.14899](http://arxiv.org/abs/2507.14899)|null|
+|**2025-07-20**|**An Uncertainty-aware DETR Enhancement Framework for Object Detection**|Xingshu Chen et.al.|[2507.14855](http://arxiv.org/abs/2507.14855)|null|
+|**2025-07-19**|**Multispectral State-Space Feature Fusion: Bridging Shared and Cross-Parametric Interactions for Object Detection**|Jifeng Shen et.al.|[2507.14643](http://arxiv.org/abs/2507.14643)|null|
 |**2025-07-18**|**C-DOG: Training-Free Multi-View Multi-Object Association in Dense Scenes Without Visual Feature via Connected δ-Overlap Graphs**|Yung-Hong Sun et.al.|[2507.14095](http://arxiv.org/abs/2507.14095)|null|
 |**2025-07-18**|**Enhancing LiDAR Point Features with Foundation Model Priors for 3D Object Detection**|Yujian Mo et.al.|[2507.13899](http://arxiv.org/abs/2507.13899)|null|
 |**2025-07-18**|**Moving Object Detection from Moving Camera Using Focus of Expansion Likelihood and Segmentation**|Masahiro Ogawa et.al.|[2507.13628](http://arxiv.org/abs/2507.13628)|null|
@@ -1477,6 +1484,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Compress-Align-Detect: onboard change detection from unregistered images**|Gabriele Inzerillo et.al.|[2507.15578](http://arxiv.org/abs/2507.15578)|null|
 |**2025-07-17**|**fastWDM3D: Fast and Accurate 3D Healthy Tissue Inpainting**|Alicia Durrer et.al.|[2507.13146](http://arxiv.org/abs/2507.13146)|null|
 |**2025-07-17**|**cIDIR: Conditioned Implicit Neural Representation for Regularized Deformable Image Registration**|Sidaty El Hadramy et.al.|[2507.12953](http://arxiv.org/abs/2507.12953)|null|
 |**2025-07-16**|**Pathology-Guided Virtual Staining Metric for Evaluation and Training**|Qiankai Wang et.al.|[2507.12624](http://arxiv.org/abs/2507.12624)|null|
