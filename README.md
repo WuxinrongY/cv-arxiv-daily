@@ -15,6 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Perspective-Invariant 3D Object Detection**|Ao Liang et.al.|[2507.17665](http://arxiv.org/abs/2507.17665)|null|
+|**2025-07-23**|**Constructing Ophthalmic MLLM for Positioning-diagnosis Collaboration Through Clinical Cognitive Chain Reasoning**|Xinyao Liu et.al.|[2507.17539](http://arxiv.org/abs/2507.17539)|null|
+|**2025-07-23**|**Illicit object detection in X-ray imaging using deep learning techniques: A comparative evaluation**|Jorgen Cani et.al.|[2507.17508](http://arxiv.org/abs/2507.17508)|null|
+|**2025-07-23**|**Dynamic-DINO: Fine-Grained Mixture of Experts Tuning for Real-time Open-Vocabulary Object Detection**|Yehao Lu et.al.|[2507.17436](http://arxiv.org/abs/2507.17436)|null|
+|**2025-07-23**|**SFUOD: Source-Free Unknown Object Detection**|Keon-Hee Park et.al.|[2507.17373](http://arxiv.org/abs/2507.17373)|null|
+|**2025-07-23**|**Optimizing Delivery Logistics: Enhancing Speed and Safety with Drone Technology**|Maharshi Shastri et.al.|[2507.17253](http://arxiv.org/abs/2507.17253)|null|
+|**2025-07-23**|**A Low-Cost Machine Learning Approach for Timber Diameter Estimation**|Fatemeh Hasanzadeh Fard et.al.|[2507.17219](http://arxiv.org/abs/2507.17219)|null|
+|**2025-07-22**|**Few-Shot Learning in Video and 3D Object Detection: A Survey**|Md Meftahul Ferdaus et.al.|[2507.17079](http://arxiv.org/abs/2507.17079)|null|
+|**2025-07-22**|**Transformer Based Building Boundary Reconstruction using Attraction Field Maps**|Muhammad Kamran et.al.|[2507.17038](http://arxiv.org/abs/2507.17038)|null|
 |**2025-07-22**|**Task-Specific Zero-shot Quantization-Aware Training for Object Detection**|Changhao Li et.al.|[2507.16782](http://arxiv.org/abs/2507.16782)|null|
 |**2025-07-22**|**Screen2AX: Vision-Based Approach for Automatic macOS Accessibility Generation**|Viktor Muryn et.al.|[2507.16704](http://arxiv.org/abs/2507.16704)|null|
 |**2025-07-22**|**Benchmarking pig detection and tracking under diverse and challenging conditions**|Jonathan Henrich et.al.|[2507.16639](http://arxiv.org/abs/2507.16639)|null|
@@ -1495,6 +1504,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Mapping ground-based coronagraphic images to Helioprojective-Cartesian coordinate system by image registration**|Feiyang Sha et.al.|[2507.17670](http://arxiv.org/abs/2507.17670)|null|
 |**2025-07-22**|**Combined Image Data Augmentations diminish the benefits of Adaptive Label Smoothing**|Georg Siedel et.al.|[2507.16427](http://arxiv.org/abs/2507.16427)|null|
 |**2025-07-21**|**Compress-Align-Detect: onboard change detection from unregistered images**|Gabriele Inzerillo et.al.|[2507.15578](http://arxiv.org/abs/2507.15578)|null|
 |**2025-07-17**|**fastWDM3D: Fast and Accurate 3D Healthy Tissue Inpainting**|Alicia Durrer et.al.|[2507.13146](http://arxiv.org/abs/2507.13146)|null|
