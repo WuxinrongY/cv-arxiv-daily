@@ -7,6 +7,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**CORDS: Continuous Representations of Discrete Structures**|Tin Hadži Veljković et.al.|[2601.21583](http://arxiv.org/abs/2601.21583)|null|
+|**2026-01-29**|**Don't double it: Efficient Agent Prediction in Occlusions**|Anna Rothenhäusler et.al.|[2601.21504](http://arxiv.org/abs/2601.21504)|null|
+|**2026-01-28**|**BadDet+: Robust Backdoor Attacks for Object Detection**|Kealan Dunnett et.al.|[2601.21066](http://arxiv.org/abs/2601.21066)|null|
+|**2026-01-27**|**VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction**|Dominic Maggio et.al.|[2601.19887](http://arxiv.org/abs/2601.19887)|null|
+|**2026-01-27**|**Learned split-spectrum metalens for obstruction-free broadband imaging in the visible**|Seungwoo Yoon et.al.|[2601.19403](http://arxiv.org/abs/2601.19403)|null|
+|**2026-01-27**|**MIRAGE: Enabling Real-Time Automotive Mediated Reality**|Pascal Jansen et.al.|[2601.19385](http://arxiv.org/abs/2601.19385)|null|
+|**2026-01-27**|**Instance-Guided Radar Depth Estimation for 3D Object Detection**|Chen-Chou Lo et.al.|[2601.19314](http://arxiv.org/abs/2601.19314)|null|
+|**2026-01-27**|**Implicit Non-Causal Factors are Out via Dataset Splitting for Domain Generalization Object Detection**|Zhilong Zhang et.al.|[2601.19127](http://arxiv.org/abs/2601.19127)|null|
+|**2026-01-26**|**On the Role of Depth in Surgical Vision Foundation Models: An Empirical Study of RGB-D Pre-training**|John J. Han et.al.|[2601.18929](http://arxiv.org/abs/2601.18929)|null|
+|**2026-01-26**|**EFSI-DETR: Efficient Frequency-Semantic Integration for Real-Time Small Object Detection in UAV Imagery**|Yu Xia et.al.|[2601.18597](http://arxiv.org/abs/2601.18597)|null|
 |**2025-07-23**|**Perspective-Invariant 3D Object Detection**|Ao Liang et.al.|[2507.17665](http://arxiv.org/abs/2507.17665)|null|
 |**2025-07-23**|**Constructing Ophthalmic MLLM for Positioning-diagnosis Collaboration Through Clinical Cognitive Chain Reasoning**|Xinyao Liu et.al.|[2507.17539](http://arxiv.org/abs/2507.17539)|null|
 |**2025-07-23**|**Illicit object detection in X-ray imaging using deep learning techniques: A comparative evaluation**|Jorgen Cani et.al.|[2507.17508](http://arxiv.org/abs/2507.17508)|null|
@@ -1276,6 +1286,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-26**|**EFSI-DETR: Efficient Frequency-Semantic Integration for Real-Time Small Object Detection in UAV Imagery**|Yu Xia et.al.|[2601.18597](http://arxiv.org/abs/2601.18597)|null|
+|**2026-01-22**|**A Computer Vision Pipeline for Iterative Bullet Hole Tracking in Rifle Zeroing**|Robert M. Belcher et.al.|[2601.17062](http://arxiv.org/abs/2601.17062)|null|
+|**2026-01-23**|**Boundary and Position Information Mining for Aerial Small Object Detection**|Rongxin Huang et.al.|[2601.16617](http://arxiv.org/abs/2601.16617)|null|
+|**2026-01-18**|**SDCoNet: Saliency-Driven Multi-Task Collaborative Network for Remote Sensing Object Detection**|Ruo Qi et.al.|[2601.12507](http://arxiv.org/abs/2601.12507)|null|
+|**2026-01-01**|**RoLID-11K: A Dashcam Dataset for Small-Object Roadside Litter Detection**|Tao Wu et.al.|[2601.00398](http://arxiv.org/abs/2601.00398)|null|
+|**2025-12-27**|**SCAFusion: A Multimodal 3D Detection Framework for Small Object Detection in Lunar Surface Exploration**|Xin Chen et.al.|[2512.22503](http://arxiv.org/abs/2512.22503)|null|
+|**2025-12-27**|**Scalpel-SAM: A Semi-Supervised Paradigm for Adapting SAM to Infrared Small Object Detection**|Zihan Liu et.al.|[2512.22483](http://arxiv.org/abs/2512.22483)|null|
+|**2025-12-19**|**YolovN-CBi: A Lightweight and Efficient Architecture for Real-Time Detection of Small UAVs**|Ami Pandat et.al.|[2512.18046](http://arxiv.org/abs/2512.18046)|null|
+|**2025-12-18**|**YOLO11-4K: An Efficient Architecture for Real-Time Small Object Detection in 4K Panoramic Images**|Huma Hafeez et.al.|[2512.16493](http://arxiv.org/abs/2512.16493)|null|
+|**2025-12-08**|**Enhancing Small Object Detection with YOLO: A Novel Framework for Improved Accuracy and Efficiency**|Mahila Moghadami et.al.|[2512.07379](http://arxiv.org/abs/2512.07379)|null|
 |**2025-07-17**|**SOD-YOLO: Enhancing YOLO-Based Detection of Small Objects in UAV Imagery**|Peijun Wang et.al.|[2507.12727](http://arxiv.org/abs/2507.12727)|null|
 |**2025-07-16**|**InterpIoU: Rethinking Bounding Box Regression with Interpolation-Based IoU Optimization**|Haoyuan Liu et.al.|[2507.12420](http://arxiv.org/abs/2507.12420)|null|
 |**2025-07-08**|**High-Frequency Semantics and Geometric Priors for End-to-End Detection Transformers in Challenging UAV Imagery**|Hongxing Peng et.al.|[2507.00825](http://arxiv.org/abs/2507.00825)|null|
@@ -1328,6 +1348,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-19**|**A Streamlined Attention-Based Network for Descriptor Extraction**|Mattia D'Urso et.al.|[2601.13126](http://arxiv.org/abs/2601.13126)|null|
+|**2026-01-18**|**XRefine: Attention-Guided Keypoint Match Refinement**|Jan Fabian Schmid et.al.|[2601.12530](http://arxiv.org/abs/2601.12530)|null|
+|**2026-01-17**|**Detecting 3D Line Segments for 6DoF Pose Estimation with Limited Data**|Matej Mok et.al.|[2601.12090](http://arxiv.org/abs/2601.12090)|null|
+|**2026-01-17**|**SupScene: Learning Overlap-Aware Global Descriptor for Unconstrained SfM**|Xulei Shi et.al.|[2601.11930](http://arxiv.org/abs/2601.11930)|null|
+|**2026-01-14**|**CLIDD: Cross-Layer Independent Deformable Description for Efficient and Discriminative Local Feature Representation**|Haodi Yao et.al.|[2601.09230](http://arxiv.org/abs/2601.09230)|null|
+|**2026-01-13**|**Near-perfect photo-ID of the Hula painted frog with zero-shot deep local-feature matching**|Maayan Yesharim et.al.|[2601.08798](http://arxiv.org/abs/2601.08798)|null|
+|**2026-01-13**|**Second-order Gaussian directional derivative representations for image high-resolution corner detection**|Dongbo Xie et.al.|[2601.08182](http://arxiv.org/abs/2601.08182)|null|
+|**2026-01-09**|**Stationaere Kurven auf endlichdimensionalen Mannigfaltigkeiten**|Tobias Starke et.al.|[2601.05695](http://arxiv.org/abs/2601.05695)|null|
+|**2026-01-05**|**Exact Clique Number Manipulation via Edge Interdiction**|Yi Zhou et.al.|[2601.01869](http://arxiv.org/abs/2601.01869)|null|
+|**2025-12-31**|**Quantum Visual Word Sense Disambiguation: Unraveling Ambiguities Through Quantum Inference Model**|Wenbo Qiao et.al.|[2512.24687](http://arxiv.org/abs/2512.24687)|null|
 |**2025-07-22**|**A Single-step Accurate Fingerprint Registration Method Based on Local Feature Matching**|Yuwei Jia et.al.|[2507.16201](http://arxiv.org/abs/2507.16201)|null|
 |**2025-07-09**|**Dual-Granularity Cross-Modal Identity Association for Weakly-Supervised Text-to-Person Image Matching**|Yafei Zhang et.al.|[2507.06744](http://arxiv.org/abs/2507.06744)|null|
 |**2025-07-05**|**From Query to Explanation: Uni-RAG for Multi-Modal Retrieval-Augmented Learning in STEM**|Xinyi Wu et.al.|[2507.03868](http://arxiv.org/abs/2507.03868)|null|
@@ -1486,6 +1516,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**A Source-Free Approach for Domain Adaptation via Multiview Image Transformation and Latent Space Consistency**|Debopom Sutradhar et.al.|[2601.20284](http://arxiv.org/abs/2601.20284)|null|
+|**2026-01-27**|**ProMist-5K: A Comprehensive Dataset for Digital Emulation of Cinematic Pro-Mist Filter Effects**|Yingtie Lei et.al.|[2601.19295](http://arxiv.org/abs/2601.19295)|null|
+|**2026-01-27**|**Reg-TTR, Test-Time Refinement for Fast, Robust and Accurate Image Registration**|Lin Chen et.al.|[2601.19114](http://arxiv.org/abs/2601.19114)|null|
+|**2026-01-24**|**FMIR, a foundation model-based Image Registration Framework for Robust Image Registration**|Fengting Zhang et.al.|[2601.17529](http://arxiv.org/abs/2601.17529)|null|
+|**2026-01-24**|**ONRW: Optimizing inversion noise for high-quality and robust watermark**|Xuan Ding et.al.|[2601.17388](http://arxiv.org/abs/2601.17388)|null|
+|**2026-01-22**|**Coarse-to-Fine Non-rigid Multi-modal Image Registration for Historical Panel Paintings based on Crack Structures**|Aline Sindel et.al.|[2601.16348](http://arxiv.org/abs/2601.16348)|null|
+|**2026-01-21**|**Hybrid Vision Transformer_GAN Attribute Neutralizer for Mitigating Bias in Chest X_Ray Diagnosis**|Jobeal Solomon et.al.|[2601.15490](http://arxiv.org/abs/2601.15490)|null|
+|**2026-01-20**|**Unsupervised Deformable Image Registration with Local-Global Attention and Image Decomposition**|Zhengyong Huang et.al.|[2601.14337](http://arxiv.org/abs/2601.14337)|null|
+|**2026-01-16**|**Bridging Modalities: Joint Synthesis and Registration Framework for Aligning Diffusion MRI with T1-Weighted Images**|Xiaofan Wang et.al.|[2601.11689](http://arxiv.org/abs/2601.11689)|null|
+|**2026-01-20**|**Learning Domain-Invariant Representations for Cross-Domain Image Registration via Scene-Appearance Disentanglement**|Jiahao Qin et.al.|[2601.08875](http://arxiv.org/abs/2601.08875)|null|
 |**2025-07-23**|**Mapping ground-based coronagraphic images to Helioprojective-Cartesian coordinate system by image registration**|Feiyang Sha et.al.|[2507.17670](http://arxiv.org/abs/2507.17670)|null|
 |**2025-07-22**|**Combined Image Data Augmentations diminish the benefits of Adaptive Label Smoothing**|Georg Siedel et.al.|[2507.16427](http://arxiv.org/abs/2507.16427)|null|
 |**2025-07-21**|**Compress-Align-Detect: onboard change detection from unregistered images**|Gabriele Inzerillo et.al.|[2507.15578](http://arxiv.org/abs/2507.15578)|null|
