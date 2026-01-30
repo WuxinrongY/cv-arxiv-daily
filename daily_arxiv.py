@@ -93,6 +93,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
     # output
     content = dict()
     content_to_web = dict()
+    content_struct = dict() 
+    
     search_engine = arxiv.Search(
         query = query,
         max_results = max_results,
@@ -109,6 +111,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
         paper_authors       = get_authors(result.authors)
         paper_first_author  = get_authors(result.authors,first_author = True)
         primary_category    = result.primary_category
+        paper_categories    = result.categories
         publish_time        = result.published.date()
         update_time         = result.updated.date()
         comments            = result.comment
@@ -125,10 +128,10 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
         try:
             # source code link
-            r = requests.get(code_url).json()
+            # r = requests.get(code_url).json()
             repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
+            # if "official" in r and r["official"]:
+            #     repo_url = r["official"]["url"]
         except Exception as e:
             repo_url = None
             logging.error(f"exception: {e} with id: {paper_key}")
@@ -139,6 +142,20 @@ def get_daily_papers(topic,query="slam", max_results=2):
             #    repo_url = get_code_link(paper_title)
             #    if repo_url is None:
             #        repo_url = get_code_link(paper_key)
+            
+            # Construct structural data
+            paper_info = {
+                "id": paper_key,
+                "title": paper_title,
+                "authors": paper_authors,
+                "abstract": paper_abstract,
+                "date": str(update_time),
+                "pdf_url": paper_url,
+                "code_url": repo_url if repo_url else "",
+                "tags": paper_categories
+            }
+            content_struct[paper_key] = paper_info
+
             if repo_url is not None:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
                        update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
@@ -163,7 +180,9 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
     data = {topic:content}
     data_web = {topic:content_to_web}
-    return data,data_web
+    data_struct = {topic:content_struct}
+
+    return data, data_web, data_struct
 
 def update_paper_links(filename):
     '''
@@ -203,15 +222,15 @@ def update_paper_links(filename):
                 if valid_link:
                     continue
                 try:
-                    code_url = base_url + paper_id #TODO
-                    r = requests.get(code_url).json()
+                    # code_url = base_url + paper_id #TODO
+                    # r = requests.get(code_url).json()
                     repo_url = None
-                    if "official" in r and r["official"]:
-                        repo_url = r["official"]["url"]
-                        if repo_url is not None:
-                            new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
-                            logging.info(f'ID = {paper_id}, contents = {new_cont}')
-                            json_data[keywords][paper_id] = str(new_cont)
+                    # if "official" in r and r["official"]:
+                    #     repo_url = r["official"]["url"]
+                    #     if repo_url is not None:
+                    #         new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
+                    #         logging.info(f'ID = {paper_id}, contents = {new_cont}')
+                    #         json_data[keywords][paper_id] = str(new_cont)
 
                 except Exception as e:
                     logging.error(f"exception: {e} with id: {paper_id}")
@@ -223,8 +242,13 @@ def update_json_file(filename,data_dict):
     '''
     daily update json file using data_dict
     '''
+    if not os.path.exists(filename):
+        with open(filename, "w", encoding="utf-8") as f:
+            json.dump({}, f)
+            
     with open(filename,"r", encoding="utf-8") as f:
         content = f.read()
+
         if not content:
             m = {}
         else:
@@ -244,6 +268,424 @@ def update_json_file(filename,data_dict):
 
     with open(filename,"w", encoding="utf-8") as f:
         json.dump(json_data,f)
+
+def export_to_html(json_filename, html_filename):
+    """
+    Export structural JSON data to an Apple-style Grid Layout HTML page with Sidebar and Search.
+    """
+    with open(json_filename, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    html_template = """
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Arxiv Daily</title>
+    <style>
+        :root {{
+            --background-color: #f5f5f7;
+            --card-background: #ffffff;
+            --text-primary: #1d1d1f;
+            --text-secondary: #86868b;
+            --accent-color: #0071e3;
+            --card-radius: 18px;
+            --card-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            --sidebar-width: 280px;
+        }}
+        body {{
+            font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--background-color);
+            color: var(--text-primary);
+            margin: 0;
+            padding: 0;
+            line-height: 1.5;
+            height: 100vh;
+            display: flex;
+            overflow: hidden;
+        }}
+        .app-container {{
+            display: flex;
+            width: 100%;
+            height: 100%;
+        }}
+        
+        /* Sidebar Styles */
+        .sidebar {{
+            width: var(--sidebar-width);
+            background-color: #fbfbfd;
+            border-right: 1px solid rgba(0,0,0,0.08); /* Faint divider */
+            padding: 24px;
+            display: flex;
+            flex-direction: column;
+            overflow-y: auto;
+            flex-shrink: 0;
+        }}
+        .sidebar-header {{
+            margin-bottom: 24px;
+        }}
+        .sidebar-header h1 {{
+            font-size: 24px;
+            font-weight: 700;
+            margin: 0 0 4px 0;
+            letter-spacing: -0.01em;
+        }}
+        .sidebar-header p {{
+            font-size: 13px;
+            color: var(--text-secondary);
+            margin: 0;
+        }}
+        .search-container {{
+            margin-bottom: 24px;
+            position: relative;
+        }}
+        #searchInput {{
+            width: 100%;
+            padding: 10px 12px 10px 32px; /* Left padding for search icon if added */
+            border-radius: 8px;
+            border: 1px solid #d2d2d7;
+            background-color: white;
+            font-size: 14px;
+            color: var(--text-primary);
+            box-sizing: border-box;
+            outline: none;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }}
+        #searchInput:focus {{
+            border-color: var(--accent-color);
+            box-shadow: 0 0 0 3px rgba(0, 113, 227, 0.15);
+        }}
+        .nav-menu {{
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }}
+        .nav-item {{
+            display: block;
+            padding: 8px 12px;
+            border-radius: 8px;
+            text-decoration: none;
+            color: var(--text-primary);
+            font-size: 14px;
+            font-weight: 500;
+            transition: background-color 0.2s;
+        }}
+        .nav-item:hover {{
+            background-color: rgba(0,0,0,0.05);
+        }}
+        
+        /* Main Content Styles */
+        .main-content {{
+            flex: 1;
+            padding: 40px;
+            overflow-y: auto;
+            scroll-behavior: smooth;
+        }}
+        .section-container {{
+            margin-bottom: 60px;
+            scroll-margin-top: 40px; /* Offset for anchor links */
+        }}
+        .section-title {{
+            font-size: 28px;
+            font-weight: 700;
+            margin-bottom: 24px;
+            padding-bottom: 12px;
+            border-bottom: 1px solid #e5e5e5;
+            color: var(--text-primary);
+        }}
+        
+        /* Grid and Card Styles (Existing) */
+        .grid {{
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }}
+        .card {{
+            background: var(--card-background);
+            border-radius: var(--card-radius);
+            box-shadow: var(--card-shadow);
+            padding: 24px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            overflow: visible; 
+            position: relative;
+            z-index: 1;
+        }}
+        .card:hover {{
+            transform: translateY(-2px);
+            box-shadow: 0 8px 12px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            z-index: 10;
+        }}
+        .card-date {{
+            font-size: 11px;
+            color: var(--text-secondary);
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            font-weight: 600;
+        }}
+        .card-title {{
+            font-size: 18px;
+            font-weight: 600;
+            margin: 0 0 8px;
+            line-height: 1.35;
+            letter-spacing: -0.01em;
+        }}
+        .card-authors {{
+            font-size: 13px;
+            color: var(--text-secondary);
+            margin-bottom: 16px;
+            line-height: 1.4;
+        }}        .tags-container {{
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-bottom: 16px;
+        }}
+        .tag {{
+            background-color: #f5f5f7;
+            color: var(--text-secondary);
+            font-size: 11px;
+            padding: 4px 10px;
+            border-radius: 100px;
+            font-weight: 500;
+        }}        .card-abstract-container {{
+            position: relative;
+            margin-bottom: 20px;
+            flex-grow: 1;
+        }}
+        .card-abstract {{
+            font-size: 14px;
+            color: #424245;
+            line-height: 1.6;
+            text-align: justify;
+        }}
+        .card-index {{
+            position: absolute;
+            top: 24px;
+            right: 24px;
+            font-size: 24px;
+            font-weight: 700;
+            color: #e5e5e5;
+            z-index: 0;
+            pointer-events: none;
+        }}
+        .card-links {{
+            display: flex;
+            gap: 12px;
+            margin-top: auto;
+            position: relative;
+            z-index: 2;
+        }}
+        .btn {{
+            display: inline-block;
+            padding: 6px 14px;
+            border-radius: 100px;
+            text-decoration: none;
+            font-size: 12px;
+            font-weight: 500;
+            transition: background-color 0.2s;
+        }}
+        .btn-primary {{
+            background-color: var(--accent-color);
+            color: white;
+        }}
+        .btn-primary:hover {{
+            background-color: #0077ed;
+        }}
+        .btn-secondary {{
+            background-color: #f5f5f7;
+            color: var(--text-primary);
+        }}
+        .btn-secondary:hover {{
+            background-color: #e8e8ed;
+        }}
+        
+        /* Empty State */
+        .no-results {{
+            text-align: center;
+            padding: 40px;
+            color: var(--text-secondary);
+            font-size: 16px;
+            display: none;
+        }}
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h1>CV Arxiv</h1>
+                <p style="font-size: 12px; color: var(--text-secondary);">Updated on {date_now}</p>
+                {summary_text}
+            </div>
+            
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="Search keywords, authors...">
+            </div>
+            
+            <nav class="nav-menu">
+                {nav_links}
+            </nav>
+        </aside>
+        
+        <!-- Main Content -->
+        <main class="main-content">
+            {content_sections}
+            <div id="noResults" class="no-results">No papers found matching your search.</div>
+        </main>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {{
+            const searchInput = document.getElementById('searchInput');
+            const cards = document.querySelectorAll('.card');
+            const sections = document.querySelectorAll('.section-container');
+            const navLinks = document.querySelectorAll('.nav-item');
+            const noResults = document.getElementById('noResults');
+            
+            searchInput.addEventListener('input', function(e) {{
+                const term = e.target.value.toLowerCase().trim();
+                let hasVisibleCards = false;
+                
+                cards.forEach(card => {{
+                    const title = card.querySelector('.card-title').textContent.toLowerCase();
+                    const authors = card.querySelector('.card-authors').textContent.toLowerCase();
+                    const abstract = card.querySelector('.card-abstract').textContent.toLowerCase();
+                    
+                    if (term === '' || title.includes(term) || authors.includes(term) || abstract.includes(term)) {{
+                        card.style.display = 'flex';
+                        hasVisibleCards = true;
+                    }} else {{
+                        card.style.display = 'none';
+                    }}
+                }});
+                
+                // Hide empty sections
+                sections.forEach(section => {{
+                    const visibleCards = section.querySelectorAll('.card[style="display: flex;"], .card:not([style*="display: none"])');
+                    if (visibleCards.length === 0) {{
+                        section.style.display = 'none';
+                    }} else {{
+                        section.style.display = 'block';
+                    }}
+                }});
+                
+                // Show/Hide no results message
+                if (!hasVisibleCards && term !== '') {{
+                    noResults.style.display = 'block';
+                }} else {{
+                    noResults.style.display = 'none';
+                }}
+            }});
+        }});
+    </script>
+</body>
+</html>
+    """
+
+    content_sections = ""
+    nav_links = ""
+
+    # Sort topics based on keys to ensure consistent order
+    sorted_topics = sorted(data.keys())
+
+    total_papers = 0
+    topic_counts = []
+    
+    # Calculate summary
+    summary_items = []
+    for topic in sorted_topics:
+        count = len(data[topic])
+        if count > 0:
+            total_papers += count
+            summary_items.append(f'<div style="display: flex; justify-content: space-between; margin-bottom: 4px;"><span>{topic}</span> <span style="color: var(--text-primary); font-weight: 500;">{count}</span></div>')
+    
+    summary_text = f"""
+    <div style="margin-top: 16px; font-size: 13px; color: var(--text-secondary);">
+        <div style="font-weight: 600; font-size: 14px; margin-bottom: 12px; color: var(--text-primary);">Today: {total_papers} papers</div>
+        <div style="display: flex; flex-direction: column;">
+            {''.join(summary_items)}
+        </div>
+    </div>
+    """
+
+    global_index = 1
+
+    for topic in sorted_topics:
+        papers = data[topic]
+        if not papers:
+            continue
+            
+        topic_id = topic.lower().replace(" ", "-") # Create simple ID
+        
+        # Build Navigation Link
+        nav_links += f'<a href="#{topic_id}" class="nav-item">{topic}</a>'
+        
+        # Build Section
+        content_sections += f'<div id="{topic_id}" class="section-container">'
+        content_sections += f'<div class="section-title">{topic}</div>'
+        content_sections += '<div class="grid">'
+        
+        # Sort papers by date (descending)
+        sorted_keys = sorted(papers.keys(), key=lambda x: papers[x]['date'], reverse=True)
+        
+        for key in sorted_keys:
+            paper = papers[key]
+            # Use 'get' to safely access fields just in case
+            title = paper.get('title', 'No Title')
+            authors = paper.get('authors', 'No Authors')
+            abstract = paper.get('abstract', 'No Abstract available.')
+            date = paper.get('date', '')
+            pdf_url = paper.get('pdf_url', '#')
+            code_url = paper.get('code_url', '')
+            
+            tags = paper.get('tags', [])
+            tags_html = ""
+            if tags:
+                tags_html = '<div class="tags-container">'
+                for tag in tags:
+                     tags_html += f'<span class="tag">{tag}</span>'
+                tags_html += '</div>'
+
+            code_btn = ""
+            if code_url:
+                code_btn = f'<a href="{code_url}" class="btn btn-secondary" target="_blank">Code</a>'
+
+            content_sections += f"""
+            <div class="card">
+                <div class="card-index">{global_index}</div>
+                <div class="card-date">{date}</div>
+                <div class="card-title">{title}</div>
+                <div class="card-authors">{authors}</div>
+                {tags_html}
+                <div class="card-abstract-container">
+                    <div class="card-abstract">{abstract}</div>
+                </div>
+                <div class="card-links">
+                    <a href="{pdf_url}" class="btn btn-primary" target="_blank">PDF</a>
+                    {code_btn}
+                </div>
+            </div>
+            """
+            global_index += 1
+        content_sections += '</div></div>' # Close grid and section-container
+
+    final_html = html_template.format(
+        date_now=datetime.date.today().strftime('%Y-%m-%d'),
+        summary_text=summary_text,
+        content_sections=content_sections,
+        nav_links=nav_links
+    )
+
+    with open(html_filename, 'w', encoding='utf-8') as f:
+        f.write(final_html)
+    logging.info(f"HTML exported to {html_filename}")
 
 def json_to_md(filename,md_filename,
                task = '',
@@ -376,6 +818,7 @@ def demo(**config):
     # TODO: use config
     data_collector = []
     data_collector_web= []
+    data_collector_struct = []
 
     keywords = config['kv']
     max_results = config['max_results']
@@ -390,12 +833,27 @@ def demo(**config):
         logging.info(f"GET daily papers begin")
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
-            data, data_web = get_daily_papers(topic, query = keyword,
+            data, data_web, data_struct = get_daily_papers(topic, query = keyword,
                                             max_results = max_results)
             data_collector.append(data)
             data_collector_web.append(data_web)
+            data_collector_struct.append(data_struct)
             print("\n")
         logging.info(f"GET daily papers end")
+
+    # Save structural data and generate HTML
+    json_struct_file = './docs/cv-arxiv-daily-struct.json'
+    html_file = 'index.html' # Root directory index.html
+    
+    # Use update_json_file for struct data as well (it merges data)
+    try:
+        if not config.get('update_paper_links', False):
+             update_json_file(json_struct_file, data_collector_struct)
+        
+        # Always regenerate HTML based on the latest struct JSON
+        export_to_html(json_struct_file, html_file)
+    except Exception as e:
+        logging.error(f"Error generating HTML or struct JSON: {e}")
 
     # 1. update README.md file
     if publish_readme:

@@ -5,7 +5,7 @@ repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 10
+max_results: 50
 
 publish_readme: True
 publish_gitpage: True
@@ -22,17 +22,23 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Object Detection":
-        filters: ["Object Detection"]
-    "Small Object Detection":
-        filters: ["Small Object Detection"]
+    "Computer Vision and Pattern Recognition":
+        filters: ["object detection", "small object detection", "image classification", 
+                  "image segmentation", "image generation", 
+                  "image synthesis", "image restoration", "image super-resolution", "3D Reconstruction", "Pose Estimation", 
+                  "Optical Flow", "Video Analysis", 
+                  "Action Recognition", "Image Captioning"]
     "Image Matching":
         filters: ["Image Matching", "Keypoint Matching", 
                   "Line Segment Detection", "Local Feature Matching"]
-    "Infrared Image Matching":
-        filters: ["Infrared Image Matching", "Infrared Keypoint Matching", 
-                  "Infrared Line Segment Detection", "Infrared Local Feature Matching"]
-    "Homogeous Image":
-        filters: ["Homogeous Transformation", "Image Transformation", 
-                  "Image Registration"]
-
+    "Computation and Language":
+        filters: ["Vision and Language", "Image Captioning", 
+                  "Visual Question Answering", "Multimodal Learning"]
+    "Artificial Intelligence":
+        filters: ["Reinforcement Learning", "Meta Learning", 
+                  "Neural Architecture Search", "AutoML"]
+    "Machine Learning":
+        filters: ["Self-Supervised Learning", "Contrastive Learning", 
+                  "Generative Models", "Domain Adaptation", 
+                  "Federated Learning", "Causal Learning"]
+    
