@@ -843,7 +843,7 @@ def demo(**config):
 
     # Save structural data and generate HTML
     json_struct_file = './docs/cv-arxiv-daily-struct.json'
-    html_file = 'index.html' # Root directory index.html
+    html_file = 'docs/index.html' # Output to docs/index.html for GitHub Pages
     
     # Use update_json_file for struct data as well (it merges data)
     try:
