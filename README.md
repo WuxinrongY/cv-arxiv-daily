@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**User Prompting Strategies and Prompt Enhancement Methods for Open-Set Object Detection in XR Environments**|Junfeng Lin et.al.|[2601.23281](http://arxiv.org/abs/2601.23281)|null|
+|**2026-01-30**|**PaperBanana: Automating Academic Illustration for AI Scientists**|Dawei Zhu et.al.|[2601.23265](http://arxiv.org/abs/2601.23265)|null|
+|**2026-01-30**|**Solving Inverse Problems with Flow-based Models via Model Predictive Control**|George Webber et.al.|[2601.23231](http://arxiv.org/abs/2601.23231)|null|
+|**2026-01-30**|**Region-Normalized DPO for Medical Image Segmentation under Noisy Judges**|Hamza Kalisch et.al.|[2601.23222](http://arxiv.org/abs/2601.23222)|null|
+|**2026-01-30**|**Scale-Cascaded Diffusion Models for Super-Resolution in Medical Imaging**|Darshan Thaker et.al.|[2601.23201](http://arxiv.org/abs/2601.23201)|null|
+|**2026-01-30**|**Hi-Light: A Path to high-fidelity, high-resolution video relighting with a Novel Evaluation Paradigm**|Xiangrui Liu et.al.|[2601.23167](http://arxiv.org/abs/2601.23167)|null|
+|**2026-01-30**|**Vision-Language Controlled Deep Unfolding for Joint Medical Image Restoration and Segmentation**|Ping Chen et.al.|[2601.23103](http://arxiv.org/abs/2601.23103)|null|
 |**2026-01-30**|**Improving Supervised Machine Learning Performance in Optical Quality Control via Generative AI for Dataset Expansion**|Dennis Sprute et.al.|[2601.22961](http://arxiv.org/abs/2601.22961)|null|
 |**2026-01-30**|**Environment-Conditioned Tail Reweighting for Total Variation Invariant Risk Minimization**|Wang Yuanchao et.al.|[2601.22944](http://arxiv.org/abs/2601.22944)|null|
 |**2026-01-30**|**MoVE: Mixture of Value Embeddings -- A New Axis for Scaling Parametric Memory in Autoregressive Models**|Yangyan Li et.al.|[2601.22887](http://arxiv.org/abs/2601.22887)|null|
@@ -223,6 +230,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**IRL-DAL: Safe and Adaptive Trajectory Planning for Autonomous Driving via Energy-Guided Diffusion Models**|Seyed Ahmad Hosseini Miangoleh et.al.|[2601.23266](http://arxiv.org/abs/2601.23266)|null|
+|**2026-01-30**|**Agile Reinforcement Learning through Separable Neural Architecture**|Rajib Mostakim et.al.|[2601.23225](http://arxiv.org/abs/2601.23225)|null|
+|**2026-01-30**|**Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning**|Xiangyu Zeng et.al.|[2601.23224](http://arxiv.org/abs/2601.23224)|null|
+|**2026-01-30**|**Med-Scout: Curing MLLMs' Geometric Blindness in Medical Perception via Geometry-Aware RL Post-Training**|Anglin Liu et.al.|[2601.23220](http://arxiv.org/abs/2601.23220)|null|
+|**2026-01-30**|**Ensuring Semantics in Weights of Implicit Neural Representations through the Implicit Function Theorem**|Tianming Qiu et.al.|[2601.23181](http://arxiv.org/abs/2601.23181)|null|
+|**2026-01-30**|**Make Anything Match Your Target: Universal Adversarial Perturbations against Closed-Source MLLMs via Multi-Crop Routed Meta Optimization**|Hui Lu et.al.|[2601.23179](http://arxiv.org/abs/2601.23179)|null|
+|**2026-01-30**|**Unsupervised Hierarchical Skill Discovery**|Damion Harvey et.al.|[2601.23156](http://arxiv.org/abs/2601.23156)|null|
+|**2026-01-30**|**On Safer Reinforcement Learning Policies for Sedation and Analgesia in Intensive Care**|Joel Romero-Hernandez et.al.|[2601.23154](http://arxiv.org/abs/2601.23154)|null|
+|**2026-01-30**|**THINKSAFE: Self-Generated Safety Alignment for Reasoning Models**|Seanie Lee et.al.|[2601.23143](http://arxiv.org/abs/2601.23143)|null|
+|**2026-01-30**|**Why GRPO Needs Normalization: A Local-Curvature Perspective on Adaptive Gradients**|Cheng Ge et.al.|[2601.23135](http://arxiv.org/abs/2601.23135)|null|
 |**2026-01-30**|**RN-D: Discretized Categorical Actors with Regularized Networks for On-Policy Reinforcement Learning**|Yuexin Bian et.al.|[2601.23075](http://arxiv.org/abs/2601.23075)|null|
 |**2026-01-30**|**From Absolute to Relative: Rethinking Reward Shaping in Group-Based Reinforcement Learning**|Wenzhe Niu et.al.|[2601.23058](http://arxiv.org/abs/2601.23058)|null|
 |**2026-01-30**|**Guided by Trajectories: Repairing and Rewarding Tool-Use Trajectories for Tool-Integrated Reasoning**|Siyu Gong et.al.|[2601.23032](http://arxiv.org/abs/2601.23032)|null|
@@ -330,6 +347,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**PaperBanana: Automating Academic Illustration for AI Scientists**|Dawei Zhu et.al.|[2601.23265](http://arxiv.org/abs/2601.23265)|null|
+|**2026-01-30**|**How well do generative models solve inverse problems? A benchmark study**|Patrick Krüger et.al.|[2601.23238](http://arxiv.org/abs/2601.23238)|null|
+|**2026-01-30**|**Solving Inverse Problems with Flow-based Models via Model Predictive Control**|George Webber et.al.|[2601.23231](http://arxiv.org/abs/2601.23231)|null|
+|**2026-01-30**|**A Random Matrix Theory of Masked Self-Supervised Regression**|Arie Wortsman Zurich et.al.|[2601.23208](http://arxiv.org/abs/2601.23208)|null|
+|**2026-01-30**|**Manifold-Aware Perturbations for Constrained Generative Modeling**|Katherine Keegan et.al.|[2601.23151](http://arxiv.org/abs/2601.23151)|null|
 |**2026-01-30**|**HierLoc: Hyperbolic Entity Embeddings for Hierarchical Visual Geolocation**|Hari Krishna Gadi et.al.|[2601.23064](http://arxiv.org/abs/2601.23064)|null|
 |**2026-01-30**|**Adaptive Edge Learning for Density-Aware Graph Generation**|Seyedeh Ava Razi Razavi et.al.|[2601.23052](http://arxiv.org/abs/2601.23052)|null|
 |**2026-01-30**|**Contrastive Learning of Extragalactic Stellar Streams: Sculpting a Latent Space of Representations with DES DR2 Photometry**|Ernesto Benitez-Walz et.al.|[2601.23013](http://arxiv.org/abs/2601.23013)|null|
