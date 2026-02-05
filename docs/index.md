@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**CoWTracker: Tracking by Warping instead of Correlation**|Zihang Lai et.al.|[2602.04877](http://arxiv.org/abs/2602.04877)|null|
+|**2026-02-04**|**ConvRML: High-Quality Lensless Imaging with Random Multi-Focal Lenslets**|Leyla A. Kabuli et.al.|[2602.04834](http://arxiv.org/abs/2602.04834)|null|
+|**2026-02-04**|**XtraLight-MedMamba for Classification of Neoplastic Tubular Adenomas**|Aqsa Sultana et.al.|[2602.04819](http://arxiv.org/abs/2602.04819)|null|
+|**2026-02-04**|**X2HDR: HDR Image Generation in a Perceptually Uniform Space**|Ronghuan Wu et.al.|[2602.04814](http://arxiv.org/abs/2602.04814)|null|
+|**2026-02-04**|**Adaptive Prompt Elicitation for Text-to-Image Generation**|Xinyi Wen et.al.|[2602.04713](http://arxiv.org/abs/2602.04713)|null|
 |**2026-02-04**|**Investigating Disability Representations in Text-to-Image Models**|Yang Yian et.al.|[2602.04687](http://arxiv.org/abs/2602.04687)|null|
 |**2026-02-04**|**Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design**|Jaemoo Choi et.al.|[2602.04663](http://arxiv.org/abs/2602.04663)|null|
 |**2026-02-04**|**A labeled dataset of simulated phlebotomy procedures for medical AI: polygon annotations for object detection and human-object interaction**|Raúl Jiménez Cruz et.al.|[2602.04624](http://arxiv.org/abs/2602.04624)|null|
@@ -277,6 +282,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Active Asymmetric Multi-Agent Multimodal Learning under Uncertainty**|Rui Liu et.al.|[2602.04763](http://arxiv.org/abs/2602.04763)|null|
+|**2026-02-04**|**SAR-RAG: ATR Visual Question Answering by Semantic Search, Retrieval, and MLLM Generation**|David F. Ramirez et.al.|[2602.04712](http://arxiv.org/abs/2602.04712)|null|
 |**2026-02-04**|**GeneralVLA: Generalizable Vision-Language-Action Models with Knowledge-Guided Trajectory Planning**|Guoqing Ma et.al.|[2602.04315](http://arxiv.org/abs/2602.04315)|null|
 |**2026-02-04**|**GeoLanG: Geometry-Aware Language-Guided Grasping with Unified RGB-D Multimodal Learning**|Rui Tang et.al.|[2602.04231](http://arxiv.org/abs/2602.04231)|null|
 |**2026-02-04**|**JSynFlow: Japanese Synthesised Flowchart Visual Question Answering Dataset built with Large Language Models**|Hiroshi Sasaki et.al.|[2602.04142](http://arxiv.org/abs/2602.04142)|null|
@@ -366,6 +373,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Reinforced Attention Learning**|Bangzheng Li et.al.|[2602.04884](http://arxiv.org/abs/2602.04884)|null|
+|**2026-02-04**|**Rethinking the Trust Region in LLM Reinforcement Learning**|Penghui Qi et.al.|[2602.04879](http://arxiv.org/abs/2602.04879)|null|
+|**2026-02-04**|**CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation**|Yannick Denker et.al.|[2602.04868](http://arxiv.org/abs/2602.04868)|null|
+|**2026-02-04**|**Safe Urban Traffic Control via Uncertainty-Aware Conformal Prediction and World-Model Reinforcement Learning**|Joydeep Chandra et.al.|[2602.04821](http://arxiv.org/abs/2602.04821)|null|
+|**2026-02-04**|**Beyond Rewards in Reinforcement Learning for Cyber Defence**|Elizabeth Bates et.al.|[2602.04809](http://arxiv.org/abs/2602.04809)|null|
+|**2026-02-04**|**Joint Sleep Mode Activation and Load Balancing with Dynamic Cell Load: A Combinatorial Bandit Approach**|Wajahat Bashir Gilkar et.al.|[2602.04808](http://arxiv.org/abs/2602.04808)|null|
+|**2026-02-04**|**Evolving Afferent Architectures: Biologically-inspired Models for Damage-Avoidance Learning**|Wolfgang Maass et.al.|[2602.04807](http://arxiv.org/abs/2602.04807)|null|
+|**2026-02-04**|**Skin Tokens: A Learned Compact Representation for Unified Autoregressive Rigging**|Jia-peng Zhang et.al.|[2602.04805](http://arxiv.org/abs/2602.04805)|null|
+|**2026-02-04**|**When Silence Is Golden: Can LLMs Learn to Abstain in Temporal QA and Beyond?**|Xinyu Zhou et.al.|[2602.04755](http://arxiv.org/abs/2602.04755)|null|
+|**2026-02-04**|**Rationality Measurement and Theory for Reinforcement Learning Agents**|Kejiang Qian et.al.|[2602.04737](http://arxiv.org/abs/2602.04737)|null|
 |**2026-02-04**|**ERNIE 5.0 Technical Report**|Haifeng Wang et.al.|[2602.04705](http://arxiv.org/abs/2602.04705)|null|
 |**2026-02-04**|**Multi-Source Retrieval and Reasoning for Legal Sentencing Prediction**|Junjie Chen et.al.|[2602.04690](http://arxiv.org/abs/2602.04690)|null|
 |**2026-02-04**|**Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design**|Jaemoo Choi et.al.|[2602.04663](http://arxiv.org/abs/2602.04663)|null|
@@ -689,6 +706,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Contrastive Continual Learning for Model Adaptability in Internet of Things**|Ajesh Koyatan Chathoth et.al.|[2602.04881](http://arxiv.org/abs/2602.04881)|null|
+|**2026-02-04**|**El Agente Estructural: An Artificially Intelligent Molecular Editor**|Changhyeok Choi et.al.|[2602.04849](http://arxiv.org/abs/2602.04849)|null|
+|**2026-02-04**|**Horizon-LM: A RAM-Centric Architecture for LLM Training**|Zhengqing Yuan et.al.|[2602.04816](http://arxiv.org/abs/2602.04816)|null|
+|**2026-02-04**|**Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention**|Chengtao Lv et.al.|[2602.04789](http://arxiv.org/abs/2602.04789)|null|
+|**2026-02-04**|**Dynamical Regimes of Multimodal Diffusion Models**|Emil Albrychiewicz et.al.|[2602.04780](http://arxiv.org/abs/2602.04780)|null|
+|**2026-02-04**|**Generative Modeling via Drifting**|Mingyang Deng et.al.|[2602.04770](http://arxiv.org/abs/2602.04770)|null|
+|**2026-02-04**|**DMFlow: Disordered Materials Generation by Flow Matching**|Liming Wu et.al.|[2602.04734](http://arxiv.org/abs/2602.04734)|null|
 |**2026-02-04**|**Investigating Disability Representations in Text-to-Image Models**|Yang Yian et.al.|[2602.04687](http://arxiv.org/abs/2602.04687)|null|
 |**2026-02-04**|**AGILE: Hand-Object Interaction Reconstruction from Video via Agentic Generation**|Jin-Chuan Shi et.al.|[2602.04672](http://arxiv.org/abs/2602.04672)|null|
 |**2026-02-04**|**A Human-Centered Privacy Approach (HCP) to AI**|Luyi Sun et.al.|[2602.04616](http://arxiv.org/abs/2602.04616)|null|
