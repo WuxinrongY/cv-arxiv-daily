@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**FastFlow: Accelerating The Generative Flow Matching Models with Bandit Inference**|Divya Jyoti Bajpai et.al.|[2602.11105](http://arxiv.org/abs/2602.11105)|null|
+|**2026-02-11**|**Chain-of-Look Spatial Reasoning for Dense Surgical Instrument Counting**|Rishikesh Bhyri et.al.|[2602.11024](http://arxiv.org/abs/2602.11024)|null|
 |**2026-02-11**|**Interpretable Vision Transformers in Image Classification via SVDA**|Vasileios Arampatzakis et.al.|[2602.10994](http://arxiv.org/abs/2602.10994)|null|
 |**2026-02-11**|**CMAD: Cooperative Multi-Agent Diffusion via Stochastic Optimal Control**|Riccardo Barbano et.al.|[2602.10933](http://arxiv.org/abs/2602.10933)|null|
 |**2026-02-11**|**Resource-Efficient RGB-Only Action Recognition for Edge Deployment**|Dongsik Yoon et.al.|[2602.10818](http://arxiv.org/abs/2602.10818)|null|
@@ -567,6 +569,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**APEX: Learning Adaptive High-Platform Traversal for Humanoid Robots**|Yikai Wang et.al.|[2602.11143](http://arxiv.org/abs/2602.11143)|null|
+|**2026-02-11**|**Data-Efficient Hierarchical Goal-Conditioned Reinforcement Learning via Normalizing Flows**|Shaswat Garg et.al.|[2602.11142](http://arxiv.org/abs/2602.11142)|null|
+|**2026-02-11**|**Asymmetric Prompt Weighting for Reinforcement Learning with Verifiable Rewards**|Reinhard Heckel et.al.|[2602.11128](http://arxiv.org/abs/2602.11128)|null|
+|**2026-02-11**|**A Doubly Robust Machine Learning Approach for Disentangling Treatment Effect Heterogeneity with Functional Outcomes**|Filippo Salmaso et.al.|[2602.11118](http://arxiv.org/abs/2602.11118)|null|
+|**2026-02-11**|**Safety Recovery in Reasoning Models Is Only a Few Early Steering Steps Away**|Soumya Suvra Ghosal et.al.|[2602.11096](http://arxiv.org/abs/2602.11096)|null|
+|**2026-02-11**|**DataChef: Cooking Up Optimal Data Recipes for LLM Adaptation via Reinforcement Learning**|Yicheng Chen et.al.|[2602.11089](http://arxiv.org/abs/2602.11089)|null|
+|**2026-02-11**|**Interpretable Attention-Based Multi-Agent PPO for Latency Spike Resolution in 6G RAN Slicing**|Kavan Fatehi et.al.|[2602.11076](http://arxiv.org/abs/2602.11076)|null|
+|**2026-02-11**|**RISE: Self-Improving Robot Policy with Compositional World Model**|Jiazhi Yang et.al.|[2602.11075](http://arxiv.org/abs/2602.11075)|null|
+|**2026-02-11**|**Chatting with Images for Introspective Visual Thinking**|Junfei Wu et.al.|[2602.11073](http://arxiv.org/abs/2602.11073)|null|
+|**2026-02-11**|**Simultaneous Speech-to-Speech Translation Without Aligned Data**|Tom Labiausse et.al.|[2602.11072](http://arxiv.org/abs/2602.11072)|null|
+|**2026-02-11**|**Divide, Harmonize, Then Conquer It: Shooting Multi-Commodity Flow Problems with Multimodal Language Models**|Xinyu Yuan et.al.|[2602.11057](http://arxiv.org/abs/2602.11057)|null|
 |**2026-02-11**|**Fine-Tuning GPT-5 for GPU Kernel Generation**|Ali Tehrani et.al.|[2602.11000](http://arxiv.org/abs/2602.11000)|null|
 |**2026-02-11**|**Multi-Task Reinforcement Learning of Drone Aerobatics by Exploiting Geometric Symmetries**|Zhanyu Guo et.al.|[2602.10997](http://arxiv.org/abs/2602.10997)|null|
 |**2026-02-11**|**Near-Constant Strong Violation and Last-Iterate Convergence for Online CMDPs via Decaying Safety Margins**|Qian Zuo et.al.|[2602.10917](http://arxiv.org/abs/2602.10917)|null|
@@ -605,7 +618,7 @@
 |**2026-02-10**|**The Role of Learning in Attacking Intrusion Detection Systems**|Kyle Domico et.al.|[2602.10299](http://arxiv.org/abs/2602.10299)|null|
 |**2026-02-10**|**Learning to Evict from Key-Value Cache**|Luca Moschella et.al.|[2602.10238](http://arxiv.org/abs/2602.10238)|null|
 |**2026-02-10**|**Internalizing Meta-Experience into Memory for Guided Reinforcement Learning in Large Language Models**|Shiting Huang et.al.|[2602.10224](http://arxiv.org/abs/2602.10224)|null|
-|**2026-02-10**|**Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning**|Zhaoyang Wang et.al.|[2602.10090](http://arxiv.org/abs/2602.10090)|null|
+|**2026-02-11**|**Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning**|Zhaoyang Wang et.al.|[2602.10090](http://arxiv.org/abs/2602.10090)|null|
 |**2026-02-11**|**CODE-SHARP: Continuous Open-ended Discovery and Evolution of Skills as Hierarchical Reward Programs**|Richard Bornemann et.al.|[2602.10085](http://arxiv.org/abs/2602.10085)|null|
 |**2026-02-10**|**Anagent For Enhancing Scientific Table & Figure Analysis**|Xuehang Guo et.al.|[2602.10081](http://arxiv.org/abs/2602.10081)|null|
 |**2026-02-10**|**Features as Rewards: Scalable Supervision for Open-Ended Tasks via Interpretability**|Aaditya Vikram Prasad et.al.|[2602.10067](http://arxiv.org/abs/2602.10067)|null|
@@ -1180,6 +1193,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**Diffusion-Pretrained Dense and Contextual Embeddings**|Sedigheh Eslami et.al.|[2602.11151](http://arxiv.org/abs/2602.11151)|null|
+|**2026-02-11**|**A Doubly Robust Machine Learning Approach for Disentangling Treatment Effect Heterogeneity with Functional Outcomes**|Filippo Salmaso et.al.|[2602.11118](http://arxiv.org/abs/2602.11118)|null|
+|**2026-02-11**|**MerLin: A Discovery Engine for Photonic and Hybrid Quantum Machine Learning**|Cassandre Notton et.al.|[2602.11092](http://arxiv.org/abs/2602.11092)|null|
+|**2026-02-11**|**SteuerLLM: Local specialized large language model for German tax law analysis**|Sebastian Wind et.al.|[2602.11081](http://arxiv.org/abs/2602.11081)|null|
+|**2026-02-11**|**Characterizing Trainability of Instantaneous Quantum Polynomial Circuit Born Machines**|Kevin Shen et.al.|[2602.11042](http://arxiv.org/abs/2602.11042)|null|
 |**2026-02-11**|**CMAD: Cooperative Multi-Agent Diffusion via Stochastic Optimal Control**|Riccardo Barbano et.al.|[2602.10933](http://arxiv.org/abs/2602.10933)|null|
 |**2026-02-11**|**FedPS: Federated data Preprocessing via aggregated Statistics**|Xuefeng Xu et.al.|[2602.10870](http://arxiv.org/abs/2602.10870)|null|
 |**2026-02-11**|**Self-Supervised Learning for Speaker Recognition: A study and review**|Theo Lepage et.al.|[2602.10829](http://arxiv.org/abs/2602.10829)|null|
