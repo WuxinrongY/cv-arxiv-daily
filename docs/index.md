@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.02.13
+## Updated on 2026.02.14
 ## Computer Vision and Pattern Recognition
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Best of Both Worlds: Multimodal Reasoning and Generation via Unified Discrete Flow Matching**|Onkar Susladkar et.al.|[2602.12221](http://arxiv.org/abs/2602.12221)|null|
+|**2026-02-12**|**DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing**|Dianyi Wang et.al.|[2602.12205](http://arxiv.org/abs/2602.12205)|null|
+|**2026-02-12**|**FAIL: Flow Matching Adversarial Imitation Learning for Image Generation**|Yeyao Ma et.al.|[2602.12155](http://arxiv.org/abs/2602.12155)|null|
+|**2026-02-12**|**Neutral Prompts, Non-Neutral People: Quantifying Gender and Skin-Tone Bias in Gemini Flash 2.5 Image and GPT Image 1.5**|Roberto Balestri et.al.|[2602.12133](http://arxiv.org/abs/2602.12133)|null|
 |**2026-02-12**|**CSEval: A Framework for Evaluating Clinical Semantics in Text-to-Image Generation**|Robert Cronshaw et.al.|[2602.12004](http://arxiv.org/abs/2602.12004)|null|
 |**2026-02-12**|**Spatial Chain-of-Thought: Bridging Understanding and Generation Models for Spatial Reasoning Generation**|Wei Chen et.al.|[2602.11980](http://arxiv.org/abs/2602.11980)|null|
 |**2026-02-12**|**Learning to Manipulate Anything: Revealing Data Scaling Laws in Bounding-Box Guided Policies**|Yihao Wu et.al.|[2602.11885](http://arxiv.org/abs/2602.11885)|null|
@@ -449,6 +453,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**ExStrucTiny: A Benchmark for Schema-Variable Structured Information Extraction from Document Images**|Mathieu Sibue et.al.|[2602.12203](http://arxiv.org/abs/2602.12203)|null|
 |**2026-02-11**|**Causal-JEPA: Learning World Models through Object-Level Latent Interventions**|Heejeong Nam et.al.|[2602.11389](http://arxiv.org/abs/2602.11389)|null|
 |**2026-02-11**|**RSHallu: Dual-Mode Hallucination Evaluation for Remote-Sensing Multimodal Large Language Models with Domain-Tailored Mitigation**|Zihui Zhou et.al.|[2602.10799](http://arxiv.org/abs/2602.10799)|null|
 |**2026-02-11**|**TwiFF (Think With Future Frames): A Large-Scale Dataset for Dynamic Visual Reasoning**|Junhua Liu et.al.|[2602.10675](http://arxiv.org/abs/2602.10675)|null|
@@ -571,6 +576,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**CM2: Reinforcement Learning with Checklist Rewards for Multi-Turn and Multi-Step Agentic Tool Use**|Zhen Zhang et.al.|[2602.12268](http://arxiv.org/abs/2602.12268)|null|
+|**2026-02-12**|**Intrinsic-Energy Joint Embedding Predictive Architectures Induce Quasimetric Spaces**|Anthony Kobanda et.al.|[2602.12245](http://arxiv.org/abs/2602.12245)|null|
+|**2026-02-12**|**Any House Any Task: Scalable Long-Horizon Planning for Abstract Human Tasks**|Zhihong Liu et.al.|[2602.12244](http://arxiv.org/abs/2602.12244)|null|
+|**2026-02-12**|**Towards On-Policy SFT: Distribution Discriminant Theory and its Applications in LLM Training**|Miaosen Zhang et.al.|[2602.12222](http://arxiv.org/abs/2602.12222)|null|
+|**2026-02-12**|**DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing**|Dianyi Wang et.al.|[2602.12205](http://arxiv.org/abs/2602.12205)|null|
+|**2026-02-12**|**Unknown Attack Detection in IoT Networks using Large Language Models: A Robust, Data-efficient Approach**|Shan Ali et.al.|[2602.12183](http://arxiv.org/abs/2602.12183)|null|
+|**2026-02-12**|**Seq2Seq2Seq: Lossless Data Compression via Discrete Latent Transformers and Reinforcement Learning**|Mahdi Khodabandeh et.al.|[2602.12146](http://arxiv.org/abs/2602.12146)|null|
 |**2026-02-12**|**Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation**|Wenkai Yang et.al.|[2602.12125](http://arxiv.org/abs/2602.12125)|null|
 |**2026-02-12**|**Capability-Oriented Training Induced Alignment Risk**|Yujun Zhou et.al.|[2602.12124](http://arxiv.org/abs/2602.12124)|null|
 |**2026-02-12**|**Meta-Sel: Efficient Demonstration Selection for In-Context Learning via Supervised Meta-Learning**|Xubin Wang et.al.|[2602.12123](http://arxiv.org/abs/2602.12123)|null|
@@ -1240,6 +1252,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data**|Duy Nguyen et.al.|[2602.12267](http://arxiv.org/abs/2602.12267)|null|
+|**2026-02-12**|**The Observer Effect in World Models: Invasive Adaptation Corrupts Latent Physics**|Christian Internò et.al.|[2602.12218](http://arxiv.org/abs/2602.12218)|null|
+|**2026-02-12**|**Convex Markov Games and Beyond: New Proof of Existence, Characterization and Learning Algorithms for Nash Equilibria**|Anas Barakat et.al.|[2602.12181](http://arxiv.org/abs/2602.12181)|null|
+|**2026-02-12**|**EO-VAE: Towards A Multi-sensor Tokenizer for Earth Observation Data**|Nils Lehmann et.al.|[2602.12177](http://arxiv.org/abs/2602.12177)|null|
+|**2026-02-12**|**BlackCATT: Black-box Collusion Aware Traitor Tracing in Federated Learning**|Elena Rodríguez-Lois et.al.|[2602.12138](http://arxiv.org/abs/2602.12138)|null|
 |**2026-02-12**|**GAN-based data augmentation for rare and exotic hadron searches in Pb--Pb collisions in ALICE**|Anisa Khatun et.al.|[2602.12088](http://arxiv.org/abs/2602.12088)|null|
 |**2026-02-12**|**VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model**|Yanjiang Guo et.al.|[2602.12063](http://arxiv.org/abs/2602.12063)|null|
 |**2026-02-12**|**Fourier Transformers for Latent Crystallographic Diffusion and Generative Modeling**|Jed A. Duersch et.al.|[2602.12045](http://arxiv.org/abs/2602.12045)|null|
