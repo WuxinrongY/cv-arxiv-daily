@@ -1,4 +1,4 @@
-## Updated on 2026.02.18
+## Updated on 2026.02.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,8 +14,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-18**|**Unpaired Image-to-Image Translation via a Self-Supervised Semantic Bridge**|Jiaming Liu et.al.|[2602.16664](http://arxiv.org/abs/2602.16664)|null|
+|**2026-02-18**|**Explainable AI: Context-Aware Layer-Wise Integrated Gradients for Explaining Transformer Models**|Melkamu Abay Mersha et.al.|[2602.16608](http://arxiv.org/abs/2602.16608)|null|
+|**2026-02-18**|**A Contrastive Learning Framework Empowered by Attention-based Feature Adaptation for Street-View Image Classification**|Qi You et.al.|[2602.16590](http://arxiv.org/abs/2602.16590)|null|
+|**2026-02-18**|**Steering diffusion models with quadratic rewards: a fine-grained analysis**|Ankur Moitra et.al.|[2602.16570](http://arxiv.org/abs/2602.16570)|null|
+|**2026-02-18**|**Benchmarking Adversarial Robustness and Adversarial Training Strategies for Object Detection**|Alexis Winter et.al.|[2602.16494](http://arxiv.org/abs/2602.16494)|null|
+|**2026-02-18**|**ReMoRa: Multimodal Large Language Model based on Refined Motion Representation for Long-Video Understanding**|Daichi Yashima et.al.|[2602.16412](http://arxiv.org/abs/2602.16412)|null|
+|**2026-02-18**|**Markerless 6D Pose Estimation and Position-Based Visual Servoing for Endoscopic Continuum Manipulators**|Junhyun Park et.al.|[2602.16365](http://arxiv.org/abs/2602.16365)|null|
+|**2026-02-18**|**How Reliable is Your Service at the Extreme Edge? Analytical Modeling of Computational Reliability**|MHD Saria Allahham et.al.|[2602.16362](http://arxiv.org/abs/2602.16362)|null|
+|**2026-02-18**|**A Self-Supervised Approach for Enhanced Feature Representations in Object Detection Tasks**|Santiago C. Vilabella et.al.|[2602.16322](http://arxiv.org/abs/2602.16322)|null|
+|**2026-02-18**|**RefineFormer3D: Efficient 3D Medical Image Segmentation via Adaptive Multi-Scale Transformer with Cross Attention Fusion**|Kavyansh Tyagi et.al.|[2602.16320](http://arxiv.org/abs/2602.16320)|null|
+|**2026-02-18**|**Markerless Robot Detection and 6D Pose Estimation for Multi-Agent SLAM**|Markus Rueggeberg et.al.|[2602.16308](http://arxiv.org/abs/2602.16308)|null|
+|**2026-02-18**|**EasyControlEdge: A Foundation-Model Fine-Tuning for Edge Detection**|Hiroki Nakamura et.al.|[2602.16238](http://arxiv.org/abs/2602.16238)|null|
+|**2026-02-17**|**B-DENSE: Branching For Dense Ensemble Network Learning**|Cherish Puniani et.al.|[2602.15971](http://arxiv.org/abs/2602.15971)|null|
+|**2026-02-17**|**A Study on Real-time Object Detection using Deep Learning**|Ankita Bose et.al.|[2602.15926](http://arxiv.org/abs/2602.15926)|null|
+|**2026-02-17**|**EarthSpatialBench: Benchmarking Spatial Reasoning Capabilities of Multimodal LLMs on Earth Imagery**|Zelin Xu et.al.|[2602.15918](http://arxiv.org/abs/2602.15918)|null|
 |**2026-02-17**|**NeRFscopy: Neural Radiance Fields for in-vivo Time-Varying Tissues from Endoscopy**|Laura Salort-Benejam et.al.|[2602.15775](http://arxiv.org/abs/2602.15775)|null|
-|**2026-02-17**|**ToaSt: Token Channel Selection and Structured Pruning for Efficient ViT**|Hyunchan Moon et.al.|[2602.15720](http://arxiv.org/abs/2602.15720)|null|
+|**2026-02-18**|**ToaSt: Token Channel Selection and Structured Pruning for Efficient ViT**|Hyunchan Moon et.al.|[2602.15720](http://arxiv.org/abs/2602.15720)|null|
 |**2026-02-17**|**RPT-SR: Regional Prior attention Transformer for infrared image Super-Resolution**|Youngwan Jin et.al.|[2602.15490](http://arxiv.org/abs/2602.15490)|null|
 |**2026-02-17**|**Joint Enhancement and Classification using Coupled Diffusion Models of Signals and Logits**|Gilad Nurko et.al.|[2602.15405](http://arxiv.org/abs/2602.15405)|null|
 |**2026-02-17**|**Efficient Generative Modeling beyond Memoryless Diffusion via Adjoint Schrödinger Bridge Matching**|Jeongwoo Shin et.al.|[2602.15396](http://arxiv.org/abs/2602.15396)|null|
@@ -465,7 +480,7 @@
 |**2026-01-27**|**Query-Guided Spatial-Temporal-Frequency Interaction for Music Audio-Visual Question Answering**|Kun Li et.al.|[2601.19821](http://arxiv.org/abs/2601.19821)|null|
 |**2026-01-28**|**GeoDiff3D: Self-Supervised 3D Scene Generation with Geometry-Constrained 2D Diffusion Guidance**|Haozhi Zhu et.al.|[2601.19785](http://arxiv.org/abs/2601.19785)|null|
 
-<p align=right>(<a href=#updated-on-20260218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
 
 ## Image Matching
 
@@ -527,12 +542,16 @@
 |**2025-07-31**|**VMatcher: State-Space Semi-Dense Local Feature Matching**|Ali Youssef et.al.|[2507.23371](http://arxiv.org/abs/2507.23371)|null|
 |**2025-07-30**|**Modality-Aware Feature Matching: A Comprehensive Review of Single- and Cross-Modality Techniques**|Weide Liu et.al.|[2507.22791](http://arxiv.org/abs/2507.22791)|null|
 
-<p align=right>(<a href=#updated-on-20260218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
 
 ## Computation and Language
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-18**|**Are Object-Centric Representations Better At Compositional Generalization?**|Ferdinand Kapl et.al.|[2602.16689](http://arxiv.org/abs/2602.16689)|null|
+|**2026-02-18**|**RoboGene: Boosting VLA Pre-training via Diversity-Driven Agentic Framework for Real-World Task Generation**|Yixue Zhang et.al.|[2602.16444](http://arxiv.org/abs/2602.16444)|null|
+|**2026-02-17**|**EarthSpatialBench: Benchmarking Spatial Reasoning Capabilities of Multimodal LLMs on Earth Imagery**|Zelin Xu et.al.|[2602.15918](http://arxiv.org/abs/2602.15918)|null|
+|**2026-02-17**|**MaS-VQA: A Mask-and-Select Framework for Knowledge-Based Visual Question Answering**|Xianwei Mao et.al.|[2602.15915](http://arxiv.org/abs/2602.15915)|null|
 |**2026-02-17**|**Learning to Retrieve Navigable Candidates for Efficient Vision-and-Language Navigation**|Shutian Gu et.al.|[2602.15724](http://arxiv.org/abs/2602.15724)|null|
 |**2026-02-17**|**How Vision Becomes Language: A Layer-wise Information-Theoretic Analysis of Multimodal Reasoning**|Hongxuan Wu et.al.|[2602.15580](http://arxiv.org/abs/2602.15580)|null|
 |**2026-02-17**|**One Agent to Guide Them All: Empowering MLLMs for Vision-and-Language Navigation via Explicit World Representation**|Zerui Li et.al.|[2602.15400](http://arxiv.org/abs/2602.15400)|null|
@@ -681,12 +700,35 @@
 |**2026-01-17**|**AVIR: Adaptive Visual In-Document Retrieval for Efficient Multi-Page Document Question Answering**|Zongmin Li et.al.|[2601.11976](http://arxiv.org/abs/2601.11976)|null|
 |**2026-01-17**|**Digital FAST: An AI-Driven Multimodal Framework for Rapid and Early Stroke Screening**|Ngoc-Khai Hoang et.al.|[2601.11896](http://arxiv.org/abs/2601.11896)|null|
 
-<p align=right>(<a href=#updated-on-20260218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
 
 ## Artificial Intelligence
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-18**|**Reinforced Fast Weights with Next-Sequence Prediction**|Hee Seung Hwang et.al.|[2602.16704](http://arxiv.org/abs/2602.16704)|null|
+|**2026-02-18**|**Learning to unfold cloth: Scaling up world models to deformable object manipulation**|Jack Rome et.al.|[2602.16675](http://arxiv.org/abs/2602.16675)|null|
+|**2026-02-18**|**Optimizing p-spin models through hypergraph neural networks and deep reinforcement learning**|Li Zeng et.al.|[2602.16665](http://arxiv.org/abs/2602.16665)|null|
+|**2026-02-18**|**Almost Sure Convergence of Differential Temporal Difference Learning for Average Reward Markov Decision Processes**|Ethan Blaser et.al.|[2602.16629](http://arxiv.org/abs/2602.16629)|null|
+|**2026-02-18**|**A Scalable Approach to Solving Simulation-Based Network Security Games**|Michael Lanier et.al.|[2602.16564](http://arxiv.org/abs/2602.16564)|null|
+|**2026-02-18**|**RIDER: 3D RNA Inverse Design with Reinforcement Learning-Guided Diffusion**|Tianmeng Hu et.al.|[2602.16548](http://arxiv.org/abs/2602.16548)|null|
+|**2026-02-18**|**Vulnerability Analysis of Safe Reinforcement Learning via Inverse Constrained Reinforcement Learning**|Jialiang Fan et.al.|[2602.16543](http://arxiv.org/abs/2602.16543)|null|
+|**2026-02-18**|**Capacity-constrained demand response in smart grids using deep reinforcement learning**|Shafagh Abband Pashaki et.al.|[2602.16525](http://arxiv.org/abs/2602.16525)|null|
+|**2026-02-18**|**Reinforcement Learning for Parameterized Quantum State Preparation: A Comparative Study**|Gerhard Stenzel et.al.|[2602.16523](http://arxiv.org/abs/2602.16523)|null|
+|**2026-02-18**|**VIGOR: Visual Goal-In-Context Inference for Unified Humanoid Fall Safety**|Osher Azulay et.al.|[2602.16511](http://arxiv.org/abs/2602.16511)|null|
+|**2026-02-18**|**Learning to Learn from Language Feedback with Social Meta-Learning**|Jonathan Cook et.al.|[2602.16488](http://arxiv.org/abs/2602.16488)|null|
+|**2026-02-18**|**Certifying Hamilton-Jacobi Reachability Learned via Reinforcement Learning**|Prashant Solanki et.al.|[2602.16475](http://arxiv.org/abs/2602.16475)|null|
+|**2026-02-18**|**Causally-Guided Automated Feature Engineering with Multi-Agent Reinforcement Learning**|Arun Vignesh Malarkkan et.al.|[2602.16435](http://arxiv.org/abs/2602.16435)|null|
+|**2026-02-18**|**Dual-Quadruped Collaborative Transportation in Narrow Environments via Safe Reinforcement Learning**|Zhezhi Lei et.al.|[2602.16353](http://arxiv.org/abs/2602.16353)|null|
+|**2026-02-18**|**Multi-agent cooperation through in-context co-player inference**|Marissa A. Weis et.al.|[2602.16301](http://arxiv.org/abs/2602.16301)|null|
+|**2026-02-18**|**Graphon Mean-Field Subsampling for Cooperative Heterogeneous Multi-Agent Reinforcement Learning**|Emile Anand et.al.|[2602.16196](http://arxiv.org/abs/2602.16196)|null|
+|**2026-02-18**|**EnterpriseGym Corecraft: Training Generalizable Agents on High-Fidelity RL Environments**|Sushant Mehta et.al.|[2602.16179](http://arxiv.org/abs/2602.16179)|null|
+|**2026-02-18**|**Reinforcement learning for path integrals in quantum statistical physics**|Timour Ichmoukhamedov et.al.|[2602.16176](http://arxiv.org/abs/2602.16176)|null|
+|**2026-02-18**|**Edge Learning via Federated Split Decision Transformers for Metaverse Resource Allocation**|Fatih Temiz et.al.|[2602.16174](http://arxiv.org/abs/2602.16174)|null|
+|**2026-02-18**|**HiPER: Hierarchical Reinforcement Learning with Explicit Credit Assignment for Large Language Model Agents**|Jiangweizhi Peng et.al.|[2602.16165](http://arxiv.org/abs/2602.16165)|null|
+|**2026-02-18**|**Balancing Faithfulness and Performance in Reasoning via Multi-Listener Soft Execution**|Nithin Sivakumaran et.al.|[2602.16154](http://arxiv.org/abs/2602.16154)|null|
+|**2026-02-17**|**MARLEM: A Multi-Agent Reinforcement Learning Simulation Framework for Implicit Cooperation in Decentralized Local Energy Markets**|Nelson Salazar-Pena et.al.|[2602.16063](http://arxiv.org/abs/2602.16063)|null|
+|**2026-02-17**|**Harnessing Implicit Cooperation: A Multi-Agent Reinforcement Learning Approach Towards Decentralized Local Energy Markets**|Nelson Salazar-Pena et.al.|[2602.16062](http://arxiv.org/abs/2602.16062)|null|
 |**2026-02-17**|**Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching**|Zhen Wu et.al.|[2602.15827](http://arxiv.org/abs/2602.15827)|null|
 |**2026-02-17**|**Solving Parameter-Robust Avoid Problems with Unknown Feasibility using Reinforcement Learning**|Oswin So et.al.|[2602.15817](http://arxiv.org/abs/2602.15817)|null|
 |**2026-02-17**|**GLM-5: from Vibe Coding to Agentic Engineering**|GLM-5 Team et.al.|[2602.15763](http://arxiv.org/abs/2602.15763)|null|
@@ -696,7 +738,7 @@
 |**2026-02-17**|**Meta-Learning for GPU-Accelerated Quantum Many-Body Problems**|Yun-Hsuan Chen et.al.|[2602.15706](http://arxiv.org/abs/2602.15706)|null|
 |**2026-02-17**|**Reinforcement Learning in Real Option Models**|Jodi Dianetti et.al.|[2602.15643](http://arxiv.org/abs/2602.15643)|null|
 |**2026-02-17**|**Latency-aware Human-in-the-Loop Reinforcement Learning for Semantic Communications**|Peizheng Li et.al.|[2602.15640](http://arxiv.org/abs/2602.15640)|null|
-|**2026-02-17**|**STAPO: Stabilizing Reinforcement Learning for LLMs by Silencing Rare Spurious Tokens**|Shiqi Liu et.al.|[2602.15620](http://arxiv.org/abs/2602.15620)|null|
+|**2026-02-18**|**STAPO: Stabilizing Reinforcement Learning for LLMs by Silencing Rare Spurious Tokens**|Shiqi Liu et.al.|[2602.15620](http://arxiv.org/abs/2602.15620)|null|
 |**2026-02-17**|**Beyond Static Pipelines: Learning Dynamic Workflows for Text-to-SQL**|Yihan Wang et.al.|[2602.15564](http://arxiv.org/abs/2602.15564)|null|
 |**2026-02-17**|**Efficient Knowledge Transfer for Jump-Starting Control Policy Learning of Multirotors through Physics-Aware Neural Architectures**|Welf Rehberg et.al.|[2602.15533](http://arxiv.org/abs/2602.15533)|null|
 |**2026-02-17**|**POP: Prior-fitted Optimizer Policies**|Jan Kobiolka et.al.|[2602.15473](http://arxiv.org/abs/2602.15473)|null|
@@ -704,7 +746,7 @@
 |**2026-02-17**|**CDRL: A Reinforcement Learning Framework Inspired by Cerebellar Circuits and Dendritic Computational Strategies**|Sibo Zhang et.al.|[2602.15367](http://arxiv.org/abs/2602.15367)|null|
 |**2026-02-17**|**EventMemAgent: Hierarchical Event-Centric Memory for Online Video Understanding with Adaptive Tool Use**|Siwei Wen et.al.|[2602.15329](http://arxiv.org/abs/2602.15329)|null|
 |**2026-02-16**|**MyoInteract: A Framework for Fast Prototyping of Biomechanical HCI Tasks using Reinforcement Learning**|Ankit Bhattarai et.al.|[2602.15245](http://arxiv.org/abs/2602.15245)|null|
-|**2026-02-16**|**Beyond Reinforcement Learning: Fast and Scalable Quantum Circuit Synthesis**|Lukas Theissinger et.al.|[2602.15146](http://arxiv.org/abs/2602.15146)|null|
+|**2026-02-18**|**Beyond Reinforcement Learning: Fast and Scalable Quantum Circuit Synthesis**|Lukas Theißinger et.al.|[2602.15146](http://arxiv.org/abs/2602.15146)|null|
 |**2026-02-16**|**Near-Optimal Sample Complexity for Online Constrained MDPs**|Chang Liu et.al.|[2602.15076](http://arxiv.org/abs/2602.15076)|null|
 |**2026-02-16**|**Cold-Start Personalization via Training-Free Priors from Structured World Models**|Avinandan Bose et.al.|[2602.15012](http://arxiv.org/abs/2602.15012)|null|
 |**2026-02-16**|**Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation**|Mengdan Zhu et.al.|[2602.15005](http://arxiv.org/abs/2602.15005)|null|
@@ -1490,12 +1532,36 @@
 |**2026-01-29**|**HER: Human-like Reasoning and Reinforcement Learning for LLM Role-playing**|Chengyu Du et.al.|[2601.21459](http://arxiv.org/abs/2601.21459)|null|
 |**2026-01-29**|**Mitigating Overthinking in Large Reasoning Models via Difficulty-aware Reinforcement Learning**|Qian Wan et.al.|[2601.21418](http://arxiv.org/abs/2601.21418)|null|
 
-<p align=right>(<a href=#updated-on-20260218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
 
 ## Machine Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-18**|**Parameter-free representations outperform single-cell foundation models on downstream benchmarks**|Huan Souza et.al.|[2602.16696](http://arxiv.org/abs/2602.16696)|null|
+|**2026-02-18**|**Synthetic-Powered Multiple Testing with FDR Control**|Yonghoon Lee et.al.|[2602.16690](http://arxiv.org/abs/2602.16690)|null|
+|**2026-02-18**|**VETime: Vision Enhanced Zero-Shot Time Series Anomaly Detection**|Yingyuan Yang et.al.|[2602.16681](http://arxiv.org/abs/2602.16681)|null|
+|**2026-02-18**|**Align Once, Benefit Multilingually: Enforcing Multilingual Consistency for LLM Safety Alignment**|Yuyan Bu et.al.|[2602.16660](http://arxiv.org/abs/2602.16660)|null|
+|**2026-02-18**|**Style-Aware Gloss Control for Generative Non-Photorealistic Rendering**|Santiago Jimenez-Navarro et.al.|[2602.16611](http://arxiv.org/abs/2602.16611)|null|
+|**2026-02-18**|**CitiLink-Summ: Summarization of Discussion Subjects in European Portuguese Municipal Meeting Minutes**|Miguel Marques et.al.|[2602.16607](http://arxiv.org/abs/2602.16607)|null|
+|**2026-02-18**|**A Contrastive Learning Framework Empowered by Attention-based Feature Adaptation for Street-View Image Classification**|Qi You et.al.|[2602.16590](http://arxiv.org/abs/2602.16590)|null|
+|**2026-02-18**|**Fast and Scalable Analytical Diffusion**|Xinyi Shang et.al.|[2602.16498](http://arxiv.org/abs/2602.16498)|null|
+|**2026-02-18**|**SRFed: Mitigating Poisoning Attacks in Privacy-Preserving Federated Learning with Heterogeneous Data**|Yiwen Lu et.al.|[2602.16480](http://arxiv.org/abs/2602.16480)|null|
+|**2026-02-18**|**GICDM: Mitigating Hubness for Reliable Distance-Based Generative Model Evaluation**|Nicolas Salvy et.al.|[2602.16449](http://arxiv.org/abs/2602.16449)|null|
+|**2026-02-18**|**Variable-Length Semantic IDs for Recommender Systems**|Kirill Khrylchenko et.al.|[2602.16375](http://arxiv.org/abs/2602.16375)|null|
+|**2026-02-18**|**A Self-Supervised Approach for Enhanced Feature Representations in Object Detection Tasks**|Santiago C. Vilabella et.al.|[2602.16322](http://arxiv.org/abs/2602.16322)|null|
+|**2026-02-18**|**BAT: Better Audio Transformer Guided by Convex Gated Probing**|Houtan Ghaffari et.al.|[2602.16305](http://arxiv.org/abs/2602.16305)|null|
+|**2026-02-18**|**Mind the Gap: Evaluating LLMs for High-Level Malicious Package Detection vs. Fine-Grained Indicator Identification**|Ahmed Ryan et.al.|[2602.16304](http://arxiv.org/abs/2602.16304)|null|
+|**2026-02-18**|**Towards Secure and Scalable Energy Theft Detection: A Federated Learning Approach for Resource-Constrained Smart Meters**|Diego Labate et.al.|[2602.16181](http://arxiv.org/abs/2602.16181)|null|
+|**2026-02-18**|**Edge Learning via Federated Split Decision Transformers for Metaverse Resource Allocation**|Fatih Temiz et.al.|[2602.16174](http://arxiv.org/abs/2602.16174)|null|
+|**2026-02-18**|**Emotion Collider: Dual Hyperbolic Mirror Manifolds for Sentiment Recovery via Anti Emotion Reflection**|Rong Fu et.al.|[2602.16161](http://arxiv.org/abs/2602.16161)|null|
+|**2026-02-18**|**Federated Graph AGI for Cross-Border Insider Threat Intelligence in Government Financial Schemes**|Srikumar Nayak et.al.|[2602.16109](http://arxiv.org/abs/2602.16109)|null|
+|**2026-02-17**|**Can Generative Artificial Intelligence Survive Data Contamination? Theoretical Guarantees under Contaminated Recursive Training**|Kevin Wang et.al.|[2602.16065](http://arxiv.org/abs/2602.16065)|null|
+|**2026-02-17**|**MolCrystalFlow: Molecular Crystal Structure Prediction via Flow Matching**|Cheng Zeng et.al.|[2602.16020](http://arxiv.org/abs/2602.16020)|null|
+|**2026-02-17**|**Exploring New Frontiers in Vertical Federated Learning: the Role of Saddle Point Reformulation**|Aleksandr Beznosikov et.al.|[2602.15996](http://arxiv.org/abs/2602.15996)|null|
+|**2026-02-17**|**B-DENSE: Branching For Dense Ensemble Network Learning**|Cherish Puniani et.al.|[2602.15971](http://arxiv.org/abs/2602.15971)|null|
+|**2026-02-17**|**Non-Contact Physiological Monitoring in Pediatric Intensive Care Units via Adaptive Masking and Self-Supervised Learning**|Mohamed Khalil Ben Salah et.al.|[2602.15967](http://arxiv.org/abs/2602.15967)|null|
+|**2026-02-17**|**Automated Re-Identification of Holstein-Friesian Cattle in Dense Crowds**|Phoenix Yu et.al.|[2602.15962](http://arxiv.org/abs/2602.15962)|null|
 |**2026-02-17**|**VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation**|Hui Ren et.al.|[2602.15819](http://arxiv.org/abs/2602.15819)|null|
 |**2026-02-17**|**A Generative-First Neural Audio Autoencoder**|Jonah Casebeer et.al.|[2602.15749](http://arxiv.org/abs/2602.15749)|null|
 |**2026-02-17**|**Revisiting Backdoor Threat in Federated Instruction Tuning from a Signal Aggregation Perspective**|Haodong Zhao et.al.|[2602.15671](http://arxiv.org/abs/2602.15671)|null|
@@ -2140,5 +2206,5 @@
 |**2026-01-29**|**Do Reasoning Models Enhance Embedding Models?**|Wun Yu Chan et.al.|[2601.21192](http://arxiv.org/abs/2601.21192)|null|
 |**2026-01-29**|**Rethinking Refinement: Correcting Generative Bias without Noise Injection**|Xin Peng et.al.|[2601.21182](http://arxiv.org/abs/2601.21182)|null|
 
-<p align=right>(<a href=#updated-on-20260218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
 
