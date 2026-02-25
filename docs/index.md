@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Mask-HybridGNet: Graph-based segmentation with emergent anatomical correspondence from pixel-level supervision**|Nicolás Gaggion et.al.|[2602.21179](http://arxiv.org/abs/2602.21179)|null|
+|**2026-02-24**|**SynthRender and IRIS: Open-Source Framework and Dataset for Bidirectional Sim-Real Transfer in Industrial Object Perception**|Jose Moises Araya-Martinez et.al.|[2602.21141](http://arxiv.org/abs/2602.21141)|null|
+|**2026-02-24**|**Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones**|Rong Zou et.al.|[2602.21101](http://arxiv.org/abs/2602.21101)|null|
 |**2026-02-24**|**Motivation is Something You Need**|Mehdi Acheli et.al.|[2602.21064](http://arxiv.org/abs/2602.21064)|null|
 |**2026-02-24**|**Le-DETR: Revisiting Real-Time Detection Transformer with Efficient Encoder Design**|Jiannan Huang et.al.|[2602.21010](http://arxiv.org/abs/2602.21010)|null|
 |**2026-02-24**|**EW-DETR: Evolving World Object Detection via Incremental Low-Rank DEtection TRansformer**|Munish Monga et.al.|[2602.20985](http://arxiv.org/abs/2602.20985)|null|
@@ -834,6 +837,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Test-Time Training with KV Binding Is Secretly Linear Attention**|Junchen Liu et.al.|[2602.21204](http://arxiv.org/abs/2602.21204)|null|
+|**2026-02-24**|**Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics**|Abdulaziz Almuzairee et.al.|[2602.21203](http://arxiv.org/abs/2602.21203)|null|
+|**2026-02-24**|**SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards**|Dengjia Zhang et.al.|[2602.21158](http://arxiv.org/abs/2602.21158)|null|
+|**2026-02-24**|**Cooperative-Competitive Team Play of Real-World Craft Robots**|Rui Zhao et.al.|[2602.21119](http://arxiv.org/abs/2602.21119)|null|
 |**2026-02-24**|**Localized Dynamics-Aware Domain Adaption for Off-Dynamics Offline Reinforcement Learning**|Zhangjie Xia et.al.|[2602.21072](http://arxiv.org/abs/2602.21072)|null|
 |**2026-02-24**|**Cell-Free Massive MIMO-Assisted SWIPT Using Stacked Intelligent Metasurfaces**|Thien Duc Hua et.al.|[2602.20983](http://arxiv.org/abs/2602.20983)|null|
 |**2026-02-24**|**The Art of Efficient Reasoning: Data, Reward, and Optimization**|Taiqiang Wu et.al.|[2602.20945](http://arxiv.org/abs/2602.20945)|null|
@@ -1813,6 +1820,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**PVminer: A Domain-Specific Tool to Detect the Patient Voice in Patient Generated Data**|Samah Fodeh et.al.|[2602.21165](http://arxiv.org/abs/2602.21165)|null|
+|**2026-02-24**|**SOM-VQ: Topology-Aware Tokenization for Interactive Generative Models**|Alessandro Londei et.al.|[2602.21133](http://arxiv.org/abs/2602.21133)|null|
 |**2026-02-24**|**Localized Dynamics-Aware Domain Adaption for Off-Dynamics Offline Reinforcement Learning**|Zhangjie Xia et.al.|[2602.21072](http://arxiv.org/abs/2602.21072)|null|
 |**2026-02-24**|**VII: Visual Instruction Injection for Jailbreaking Image-to-Video Generation Models**|Bowen Zheng et.al.|[2602.20999](http://arxiv.org/abs/2602.20999)|null|
 |**2026-02-24**|**EW-DETR: Evolving World Object Detection via Incremental Low-Rank DEtection TRansformer**|Munish Monga et.al.|[2602.20985](http://arxiv.org/abs/2602.20985)|null|
