@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**WHOLE: World-Grounded Hand-Object Lifted from Egocentric Videos**|Yufei Ye et.al.|[2602.22209](http://arxiv.org/abs/2602.22209)|null|
+|**2026-02-25**|**CoLoGen: Progressive Learning of Concept`-`Localization Duality for Unified Image Generation**|YuXin Song et.al.|[2602.22150](http://arxiv.org/abs/2602.22150)|null|
+|**2026-02-25**|**GeoDiv: Framework For Measuring Geographical Diversity In Text-To-Image Models**|Abhipsa Basu et.al.|[2602.22120](http://arxiv.org/abs/2602.22120)|null|
 |**2026-02-25**|**Dream-SLAM: Dreaming the Unseen for Active SLAM in Dynamic Environments**|Xiangqi Meng et.al.|[2602.21967](http://arxiv.org/abs/2602.21967)|null|
 |**2026-02-25**|**Robustness in sparse artificial neural networks trained with adaptive topology**|Bendegúz Sulyok et.al.|[2602.21961](http://arxiv.org/abs/2602.21961)|null|
 |**2026-02-25**|**Geometry-as-context: Modulating Explicit 3D in Scene-consistent Video Generation to Geometry Context**|JiaKui Hu et.al.|[2602.21929](http://arxiv.org/abs/2602.21929)|null|
@@ -875,6 +878,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Improving Parametric Knowledge Access in Reasoning Language Models**|Melody Ma et.al.|[2602.22193](http://arxiv.org/abs/2602.22193)|null|
+|**2026-02-25**|**Provable Last-Iterate Convergence for Multi-Objective Safe LLM Alignment via Optimistic Primal-Dual**|Yining Li et.al.|[2602.22146](http://arxiv.org/abs/2602.22146)|null|
+|**2026-02-25**|**SWE-Protégé: Learning to Selectively Collaborate With an Expert Unlocks Small Language Models as Software Engineering Agents**|Patrick Tser Jern Kon et.al.|[2602.22124](http://arxiv.org/abs/2602.22124)|null|
+|**2026-02-25**|**System Design of the Ultra Mobility Vehicle: A Driving, Balancing, and Jumping Bicycle Robot**|Benjamin Bokser et.al.|[2602.22118](http://arxiv.org/abs/2602.22118)|null|
 |**2026-02-25**|**PanoEnv: Exploring 3D Spatial Intelligence in Panoramic Environments with Reinforcement Learning**|Zekai Lin et.al.|[2602.21992](http://arxiv.org/abs/2602.21992)|null|
 |**2026-02-25**|**RADAR: Reasoning as Discrimination with Aligned Representations for LLM-based Knowledge Graph Reasoning**|Bo Xue et.al.|[2602.21951](http://arxiv.org/abs/2602.21951)|null|
 |**2026-02-25**|**ExpLang: Improved Exploration and Exploitation in LLM Reasoning with On-Policy Thinking Language Selection**|Changjiang Gao et.al.|[2602.21887](http://arxiv.org/abs/2602.21887)|null|
@@ -1891,6 +1898,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Solaris: Building a Multiplayer Video World Model in Minecraft**|Georgy Savva et.al.|[2602.22208](http://arxiv.org/abs/2602.22208)|null|
+|**2026-02-25**|**GeoDiv: Framework For Measuring Geographical Diversity In Text-To-Image Models**|Abhipsa Basu et.al.|[2602.22120](http://arxiv.org/abs/2602.22120)|null|
+|**2026-02-25**|**Learning Quantum Data Distribution via Chaotic Quantum Diffusion Model**|Quoc Hoan Tran et.al.|[2602.22061](http://arxiv.org/abs/2602.22061)|null|
+|**2026-02-25**|**SPGen: Stochastic scanpath generation for paintings using unsupervised domain adaptation**|Mohamed Amine Kerkouri et.al.|[2602.22049](http://arxiv.org/abs/2602.22049)|null|
+|**2026-02-25**|**DLT-Corpus: A Large-Scale Text Collection for the Distributed Ledger Technology Domain**|Walter Hernandez Cruz et.al.|[2602.22045](http://arxiv.org/abs/2602.22045)|null|
 |**2026-02-25**|**A Critical Look into Threshold Homomorphic Encryption for Private Average Aggregation**|Miguel Morona-Mínguez et.al.|[2602.22037](http://arxiv.org/abs/2602.22037)|null|
 |**2026-02-25**|**Energy Efficient Federated Learning with Hyperdimensional Computing over Wireless Communication Networks**|Yahao Ding et.al.|[2602.21949](http://arxiv.org/abs/2602.21949)|null|
 |**2026-02-25**|**Small Wins Big: Comparing Large Language Models and Domain Fine-Tuned Models for Sarcasm Detection in Code-Mixed Hinglish Text**|Bitan Majumder et.al.|[2602.21933](http://arxiv.org/abs/2602.21933)|null|
