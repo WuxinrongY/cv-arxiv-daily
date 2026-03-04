@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance**|Hanyang Wang et.al.|[2603.03281](http://arxiv.org/abs/2603.03281)|null|
+|**2026-03-03**|**LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory**|Junyi Zhang et.al.|[2603.03269](http://arxiv.org/abs/2603.03269)|null|
+|**2026-03-03**|**Specificity-aware reinforcement learning for fine-grained open-world classification**|Samuele Angheben et.al.|[2603.03197](http://arxiv.org/abs/2603.03197)|null|
+|**2026-03-03**|**ProSMA-UNet: Decoder Conditioning for Proximal-Sparse Skip Feature Selection**|Chun-Wun Cheng et.al.|[2603.03187](http://arxiv.org/abs/2603.03187)|null|
+|**2026-03-03**|**Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing**|Jiyuan Wang et.al.|[2603.03143](http://arxiv.org/abs/2603.03143)|null|
+|**2026-03-03**|**AWDiff: An a trous wavelet diffusion model for lung ultrasound image synthesis**|Maryam Heidari et.al.|[2603.03125](http://arxiv.org/abs/2603.03125)|null|
 |**2026-03-03**|**IoUCert: Robustness Verification for Anchor-based Object Detectors**|Benedikt Brückner et.al.|[2603.03043](http://arxiv.org/abs/2603.03043)|null|
 |**2026-03-03**|**VIRGi: View-dependent Instant Recoloring of 3D Gaussians Splats**|Alessio Mazzucchelli et.al.|[2603.02986](http://arxiv.org/abs/2603.02986)|null|
 |**2026-03-03**|**The Dresden Dataset for 4D Reconstruction of Non-Rigid Abdominal Surgical Scenes**|Reuben Docea et.al.|[2603.02985](http://arxiv.org/abs/2603.02985)|null|
@@ -1066,6 +1072,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation**|Xialin He et.al.|[2603.03279](http://arxiv.org/abs/2603.03279)|null|
+|**2026-03-03**|**Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use**|Aradhye Agarwal et.al.|[2603.03205](http://arxiv.org/abs/2603.03205)|null|
+|**2026-03-03**|**Specificity-aware reinforcement learning for fine-grained open-world classification**|Samuele Angheben et.al.|[2603.03197](http://arxiv.org/abs/2603.03197)|null|
+|**2026-03-03**|**Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing**|Jiyuan Wang et.al.|[2603.03143](http://arxiv.org/abs/2603.03143)|null|
+|**2026-03-03**|**RL-Based Coverage Path Planning for Deformable Objects on 3D Surfaces**|Yuhang Zhang et.al.|[2603.03137](http://arxiv.org/abs/2603.03137)|null|
+|**2026-03-03**|**Deep Q-Learning-Based Gain Scheduling for Nonlinear Quadcopter Dynamics**|Hossein Rastgoftar et.al.|[2603.03127](http://arxiv.org/abs/2603.03127)|null|
 |**2026-03-03**|**Proactive Guiding Strategy for Item-side Fairness in Interactive Recommendation**|Chongjun Xia et.al.|[2603.03094](http://arxiv.org/abs/2603.03094)|null|
 |**2026-03-03**|**RAPO: Expanding Exploration for LLM Agents via Retrieval-Augmented Policy Optimization**|Siwei Zhang et.al.|[2603.03078](http://arxiv.org/abs/2603.03078)|null|
 |**2026-03-03**|**TikZilla: Scaling Text-to-TikZ with High-Quality Data and Reinforcement Learning**|Christian Greisinger et.al.|[2603.03072](http://arxiv.org/abs/2603.03072)|null|
@@ -2281,6 +2293,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance**|Hanyang Wang et.al.|[2603.03281](http://arxiv.org/abs/2603.03281)|null|
+|**2026-03-03**|**Learning Demographic-Conditioned Mobility Trajectories with Aggregate Supervision**|Jessie Z. Li et.al.|[2603.03275](http://arxiv.org/abs/2603.03275)|null|
+|**2026-03-03**|**COP-GEN: Latent Diffusion Transformer for Copernicus Earth Observation Data -- Generation Stochastic by Design**|Miguel Espinosa et.al.|[2603.03239](http://arxiv.org/abs/2603.03239)|null|
+|**2026-03-03**|**Inverse Reconstruction of Shock Time Series from Shock Response Spectrum Curves using Machine Learning**|Adam Watts et.al.|[2603.03229](http://arxiv.org/abs/2603.03229)|null|
+|**2026-03-03**|**Infinite dimensional generative sensing**|Paolo Angella et.al.|[2603.03196](http://arxiv.org/abs/2603.03196)|null|
+|**2026-03-03**|**Kling-MotionControl Technical Report**|Kling Team et.al.|[2603.03160](http://arxiv.org/abs/2603.03160)|null|
 |**2026-03-03**|**Odin: Multi-Signal Graph Intelligence for Autonomous Discovery in Knowledge Graphs**|Muyukani Kizito et.al.|[2603.03097](http://arxiv.org/abs/2603.03097)|null|
 |**2026-03-03**|**Interpreting Speaker Characteristics in the Dimensions of Self-Supervised Speech Features**|Kyle Janse van Rensburg et.al.|[2603.03096](http://arxiv.org/abs/2603.03096)|null|
 |**2026-03-03**|**CMoE: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots**|Shihao Ma et.al.|[2603.03067](http://arxiv.org/abs/2603.03067)|null|
