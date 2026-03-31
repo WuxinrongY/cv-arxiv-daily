@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Gen-Searcher: Reinforcing Agentic Search for Image Generation**|Kaituo Feng et.al.|[2603.28767](http://arxiv.org/abs/2603.28767)|null|
+|**2026-03-30**|**PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models**|Lorenza Prospero et.al.|[2603.28763](http://arxiv.org/abs/2603.28763)|null|
+|**2026-03-30**|**FlowIt: Global Matching for Optical Flow with Confidence-Guided Refinement**|Sadra Safadoust et.al.|[2603.28759](http://arxiv.org/abs/2603.28759)|null|
+|**2026-03-30**|**DreamLite: A Lightweight On-Device Unified Model for Image Generation and Editing**|Kailai Feng et.al.|[2603.28713](http://arxiv.org/abs/2603.28713)|null|
 |**2026-03-30**|**Sim-to-Real Fruit Detection Using Synthetic Data: Quantitative Evaluation and Embedded Deployment with Isaac Sim**|Martina Hutter-Mironovova et.al.|[2603.28670](http://arxiv.org/abs/2603.28670)|null|
 |**2026-03-30**|**Divide and Restore: A Modular Task-Decoupled Framework for Universal Image Restoration**|Joanna Wiekiera et.al.|[2603.28658](http://arxiv.org/abs/2603.28658)|null|
 |**2026-03-30**|**Detection of Adversarial Attacks in Robotic Perception**|Ziad Sharawy et.al.|[2603.28594](http://arxiv.org/abs/2603.28594)|null|
@@ -1947,6 +1951,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Gen-Searcher: Reinforcing Agentic Search for Image Generation**|Kaituo Feng et.al.|[2603.28767](http://arxiv.org/abs/2603.28767)|null|
+|**2026-03-30**|**SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning**|Philip Schroeder et.al.|[2603.28730](http://arxiv.org/abs/2603.28730)|null|
+|**2026-03-30**|**Stepwise Credit Assignment for GRPO on Flow-Matching Models**|Yash Savani et.al.|[2603.28718](http://arxiv.org/abs/2603.28718)|null|
+|**2026-03-30**|**Dynamic Dual-Granularity Skill Bank for Agentic RL**|Songjun Tu et.al.|[2603.28716](http://arxiv.org/abs/2603.28716)|null|
+|**2026-03-30**|**DreamLite: A Lightweight On-Device Unified Model for Image Generation and Editing**|Kailai Feng et.al.|[2603.28713](http://arxiv.org/abs/2603.28713)|null|
 |**2026-03-30**|**Dynamic Lookahead Distance via Reinforcement Learning-Based Pure Pursuit for Autonomous Racing**|Mohamed Elgouhary et.al.|[2603.28625](http://arxiv.org/abs/2603.28625)|null|
 |**2026-03-30**|**Seeing with You: Perception-Reasoning Coevolution for Multimodal Reasoning**|Ziqi Miao et.al.|[2603.28618](http://arxiv.org/abs/2603.28618)|null|
 |**2026-03-30**|**Learning Partial Action Replacement in Offline MARL**|Yue Jin et.al.|[2603.28573](http://arxiv.org/abs/2603.28573)|null|
@@ -3980,6 +3989,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Gen-Searcher: Reinforcing Agentic Search for Image Generation**|Kaituo Feng et.al.|[2603.28767](http://arxiv.org/abs/2603.28767)|null|
 |**2026-03-30**|**FL-PBM: Pre-Training Backdoor Mitigation for Federated Learning**|Osama Wehbi et.al.|[2603.28673](http://arxiv.org/abs/2603.28673)|null|
 |**2026-03-30**|**Mitigating Backdoor Attacks in Federated Learning Using PPA and MiniMax Game Theory**|Osama Wehbi et.al.|[2603.28652](http://arxiv.org/abs/2603.28652)|null|
 |**2026-03-30**|**ChemCLIP: Bridging Organic and Inorganic Anticancer Compounds Through Contrastive Learning**|Mohamad Koohi-Moghadam et.al.|[2603.28575](http://arxiv.org/abs/2603.28575)|null|
