@@ -2551,7 +2551,7 @@ layout: default
 |**2026-04-15**|**Enhancing LLM-based Search Agents via Contribution Weighted Group Relative Policy Optimization**|Junzhe Wang et.al.|[2604.14267](http://arxiv.org/abs/2604.14267)|null|
 |**2026-04-15**|**Reinforcement Learning via Value Gradient Flow**|Haoran Xu et.al.|[2604.14265](http://arxiv.org/abs/2604.14265)|null|
 |**2026-04-15**|**GFT: From Imitation to Reward Fine-Tuning with Unbiased Group Advantages and Dynamic Coefficient Rectification**|Wangjie Gan et.al.|[2604.14258](http://arxiv.org/abs/2604.14258)|null|
-|**2026-04-15**|**From $P(y|x)$ to $P(y)$ : Investigating Reinforcement Learning in Pre-train Space**|Yuqiao Tan et.al.|[2604.14142](http://arxiv.org/abs/2604.14142)|null|
+|**2026-04-15**|**From $P(y|x)$ to $P(y)$ : Investigating Reinforcement Learning in Pre-train Space**|Yuqiao Tan et.al.|[2604.14142](http://arxiv.org/abs/2604.14142)|
 |**2026-04-15**|**A Comparative Study of Dynamic Programming and Reinforcement Learning in Finite Horizon Dynamic Pricing**|Lev Razumovskiy et.al.|[2604.14059](http://arxiv.org/abs/2604.14059)|null|
 |**2026-04-15**|**Enhancing Local Life Service Recommendation with Agentic Reasoning in Large Language Model**|Shiteng Cao et.al.|[2604.14051](http://arxiv.org/abs/2604.14051)|null|
 |**2026-04-15**|**Hierarchical Reinforcement Learning with Runtime Safety Shielding for Power Grid Operation**|Gitesh Malik et.al.|[2604.14032](http://arxiv.org/abs/2604.14032)|null|
