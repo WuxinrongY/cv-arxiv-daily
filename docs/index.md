@@ -2,17 +2,39 @@
 layout: default
 ---
 
-## Updated on 2026.04.29
+## Updated on 2026.04.30
 ## Computer Vision and Pattern Recognition
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**SEAL: Semantic-aware Single-image Sticker Personalization with a Large-scale Sticker-tag Dataset**|Changhyun Roh et.al.|[2604.26883](http://arxiv.org/abs/2604.26883)|null|
+|**2026-04-29**|**Edge AI for Automotive Vulnerable Road User Safety: Deployable Detection via Knowledge Distillation**|Akshay Karjol et.al.|[2604.26857](http://arxiv.org/abs/2604.26857)|null|
+|**2026-04-29**|**Bridge: Basis-Driven Causal Inference Marries VFMs for Domain Generalization**|Mingbo Hong et.al.|[2604.26820](http://arxiv.org/abs/2604.26820)|null|
+|**2026-04-29**|**ViCrop-Det: Spatial Attention Entropy Guided Cropping for Training-Free Small-Object Detection**|Hui Wang et.al.|[2604.26806](http://arxiv.org/abs/2604.26806)|null|
+|**2026-04-29**|**Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising**|Jun Guo et.al.|[2604.26694](http://arxiv.org/abs/2604.26694)|null|
+|**2026-04-29**|**SnapPose3D: Diffusion-Based Single-Frame 2D-to-3D Lifting of Human Poses**|Alessandro Simoni et.al.|[2604.26620](http://arxiv.org/abs/2604.26620)|null|
+|**2026-04-29**|**AirZoo: A Unified Large-Scale Dataset for Grounding Aerial Geometric 3D Vision**|Xiaoya Cheng et.al.|[2604.26567](http://arxiv.org/abs/2604.26567)|null|
+|**2026-04-29**|**Recipes for Calibration Checks in Safety-Critical Applications**|Romeo Valentin et.al.|[2604.26479](http://arxiv.org/abs/2604.26479)|null|
+|**2026-04-29**|**Differentially Private Contrastive Learning via Bounding Group-level Contribution**|Kecen Li et.al.|[2604.26467](http://arxiv.org/abs/2604.26467)|null|
+|**2026-04-29**|**$\text{PKS}^4$ :Parallel Kinematic Selective State Space Scanners for Efficient Video Understanding**|Lingjie Zeng et.al.|[2604.26461](http://arxiv.org/abs/2604.26461)|null|
+|**2026-04-29**|**QYOLO: Lightweight Object Detection via Quantum Inspired Shared Channel Mixing**|Garvit Kumar Mittal et.al.|[2604.26435](http://arxiv.org/abs/2604.26435)|null|
+|**2026-04-29**|**Decoupled Prototype Matching with Vision Foundation Models for Few-Shot Industrial Object Detection**|Hari Prasanth S. M. et.al.|[2604.26404](http://arxiv.org/abs/2604.26404)|null|
+|**2026-04-29**|**ACPO: Anchor-Constrained Perceptual Optimization for Diffusion Models with No-Reference Quality Guidance**|Yang Yang et.al.|[2604.26348](http://arxiv.org/abs/2604.26348)|null|
+|**2026-04-29**|**SpatialFusion: Endowing Unified Image Generation with Intrinsic 3D Geometric Awareness**|Haiyi Qiu et.al.|[2604.26341](http://arxiv.org/abs/2604.26341)|null|
+|**2026-04-29**|**Federated Medical Image Classification under Class and Domain Imbalance exploiting Synthetic Sample Generation**|Martina Pavan et.al.|[2604.26324](http://arxiv.org/abs/2604.26324)|null|
+|**2026-04-29**|**NeuroPlastic: A Plasticity-Modulated Optimizer for Biologically Inspired Learning Dynamics**|Douglas Jiang et.al.|[2604.26297](http://arxiv.org/abs/2604.26297)|null|
+|**2026-04-29**|**High-Dimensional Noise to Low-Dimensional Manifolds: A Manifold-Space Diffusion Framework for Degraded Hyperspectral Image Classification**|Boxiang Yang et.al.|[2604.26279](http://arxiv.org/abs/2604.26279)|null|
+|**2026-04-29**|**DepthPilot: From Controllability to Interpretability in Colonoscopy Video Generation**|Junhu Fu et.al.|[2604.26232](http://arxiv.org/abs/2604.26232)|null|
+|**2026-04-29**|**Privacy-Preserving Clothing Classification using Vision Transformer for Thermal Comfort Estimation**|Tatsuya Chuman et.al.|[2604.26184](http://arxiv.org/abs/2604.26184)|null|
+|**2026-04-28**|**Why Domain Matters: A Preliminary Study of Domain Effects in Underwater Object Detection**|Melanie Wille et.al.|[2604.26174](http://arxiv.org/abs/2604.26174)|null|
+|**2026-04-28**|**MixerCA: An Efficient and Accurate Model for High-Performance Hyperspectral Image Classification**|Mohammed Q. Alkhatib et.al.|[2604.26138](http://arxiv.org/abs/2604.26138)|null|
+|**2026-04-28**|**Sample Selection Using Multi-Task Autoencoders in Federated Learning with Non-IID Data**|Emre Ardıç et.al.|[2604.26116](http://arxiv.org/abs/2604.26116)|null|
 |**2026-04-28**|**No Pedestrian Left Behind: Real-Time Detection and Tracking of Vulnerable Road Users for Adaptive Traffic Signal Control**|Anas Gamal Aly et.al.|[2604.25887](http://arxiv.org/abs/2604.25887)|null|
 |**2026-04-28**|**Magnification-Invariant Image Classification via Domain Generalization and Stable Sparse Embedding Signatures**|Ifeanyi Ezuma et.al.|[2604.25817](http://arxiv.org/abs/2604.25817)|null|
 |**2026-04-28**|**Quantum-Inspired Robust and Scalable SAR Object Classification**|Maximilian Scharf et.al.|[2604.25755](http://arxiv.org/abs/2604.25755)|null|
 |**2026-04-28**|**Robustness Evaluation of a Foundation Segmentation Model Under Simulated Domain Shifts in Abdominal CT: Implications for Health Digital Twin Deployment**|Sanghati Basu et.al.|[2604.25685](http://arxiv.org/abs/2604.25685)|null|
 |**2026-04-28**|**Towards interpretable AI with quantum annealing feature selection**|Francesco Aldo Venturelli et.al.|[2604.25649](http://arxiv.org/abs/2604.25649)|null|
-|**2026-04-28**|**TopoMamba: Topology-Aware Scanning and Fusion for Segmenting Heterogeneous Medical Visual Media**|Fuchen Zheng et.al.|[2604.25545](http://arxiv.org/abs/2604.25545)|null|
+|**2026-04-29**|**TopoMamba: Topology-Aware Scanning and Fusion for Segmenting Heterogeneous Medical Visual Media**|Fuchen Zheng et.al.|[2604.25545](http://arxiv.org/abs/2604.25545)|null|
 |**2026-04-28**|**Quantum Compressed Sensing Enables Image Classification with a Single Photon**|Yanshan Fan et.al.|[2604.25480](http://arxiv.org/abs/2604.25480)|null|
 |**2026-04-28**|**GramSR: Visual Feature Conditioning for Diffusion-Based Super-Resolution**|Fabio D'Oronzio et.al.|[2604.25457](http://arxiv.org/abs/2604.25457)|null|
 |**2026-04-28**|**SARU: A Shadow-Aware and Removal Unified Framework for Remote Sensing Images with New Benchmarks**|Zi-Yang Bo et.al.|[2604.25432](http://arxiv.org/abs/2604.25432)|null|
@@ -2248,6 +2270,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**Three-Step Nav: A Hierarchical Global-Local Planner for Zero-Shot Vision-and-Language Navigation**|Wanrong Zheng et.al.|[2604.26946](http://arxiv.org/abs/2604.26946)|null|
+|**2026-04-29**|**Efficient, VRAM-Constrained xLM Inference on Clients**|Aditya Ukarande et.al.|[2604.26334](http://arxiv.org/abs/2604.26334)|null|
+|**2026-04-28**|**RADIO-ViPE: Online Tightly Coupled Multi-Modal Fusion for Open-Vocabulary Semantic SLAM in Dynamic Environments**|Zaid Nasser et.al.|[2604.26067](http://arxiv.org/abs/2604.26067)|null|
 |**2026-04-28**|**SIEVES: Selective Prediction Generalizes through Visual Evidence Scoring**|Hector G. Rodriguez et.al.|[2604.25855](http://arxiv.org/abs/2604.25855)|null|
 |**2026-04-28**|**Instruction-Evidence Contrastive Dual-Stream Decoding for Grounded Vision-Language Reasoning**|Yashwant Pravinrao Bangde et.al.|[2604.25809](http://arxiv.org/abs/2604.25809)|null|
 |**2026-04-28**|**Toward Multimodal Conversational AI for Age-Related Macular Degeneration**|Ran Gu et.al.|[2604.25720](http://arxiv.org/abs/2604.25720)|null|
@@ -2753,6 +2778,32 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**Meta-learning-enhanced implicit full waveform inversion**|Huan Song et.al.|[2604.26938](http://arxiv.org/abs/2604.26938)|null|
+|**2026-04-29**|**ClawGym: A Scalable Framework for Building Effective Claw Agents**|Fei Bai et.al.|[2604.26904](http://arxiv.org/abs/2604.26904)|null|
+|**2026-04-29**|**Uncertainty-Aware Predictive Safety Filters for Probabilistic Neural Network Dynamics**|Bernd Frauenknecht et.al.|[2604.26836](http://arxiv.org/abs/2604.26836)|null|
+|**2026-04-29**|**Rule-based High-Level Coaching for Goal-Conditioned Reinforcement Learning in Search-and-Rescue UAV Missions Under Limited-Simulation Training**|Mahya Ramezani et.al.|[2604.26833](http://arxiv.org/abs/2604.26833)|null|
+|**2026-04-29**|**Random Cloud: Finding Minimal Neural Architectures Without Training**|Javier Gil Blázquez et.al.|[2604.26830](http://arxiv.org/abs/2604.26830)|null|
+|**2026-04-29**|**Factorized Latent Reasoning for LLM-based Recommendation**|Tianqi Gao et.al.|[2604.26760](http://arxiv.org/abs/2604.26760)|null|
+|**2026-04-29**|**GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents**|GLM-V Team et.al.|[2604.26752](http://arxiv.org/abs/2604.26752)|null|
+|**2026-04-29**|**FutureWorld: A Live Environment for Training Predictive Agents with Real-World Outcome Rewards**|Zhixin Han et.al.|[2604.26733](http://arxiv.org/abs/2604.26733)|null|
+|**2026-04-29**|**ATLAS: An Annotation Tool for Long-horizon Robotic Action Segmentation**|Sergej Stanovcic et.al.|[2604.26637](http://arxiv.org/abs/2604.26637)|null|
+|**2026-04-29**|**PAINT: Partial-Solution Adaptive Interpolated Training for Self-Distilled Reasoners**|Zhiquan Tan et.al.|[2604.26573](http://arxiv.org/abs/2604.26573)|null|
+|**2026-04-29**|**Learning to Route Electric Trucks Under Operational Uncertainty**|Stavros Orfanoudakis et.al.|[2604.26566](http://arxiv.org/abs/2604.26566)|null|
+|**2026-04-29**|**Neural and Tensor Networks in the Study of Quantum Annealing Processors**|Tomasz Śmierzchalski et.al.|[2604.26534](http://arxiv.org/abs/2604.26534)|null|
+|**2026-04-29**|**Lyapunov-Guided Self-Alignment: Test-Time Adaptation for Offline Safe Reinforcement Learning**|Seungyub Han et.al.|[2604.26516](http://arxiv.org/abs/2604.26516)|null|
+|**2026-04-29**|**A Provably Robust Multi-Jet Framework applied to Active Flow Control of an Airfoil in Weakly Compressible Flow**|Rohan Kaushik et.al.|[2604.26481](http://arxiv.org/abs/2604.26481)|null|
+|**2026-04-29**|**A Novel Reinforcement Learning Based Framework for Scalable MIMO Interference Alignment**|Samitha Gunarathne et.al.|[2604.26414](http://arxiv.org/abs/2604.26414)|null|
+|**2026-04-29**|**Meta-Learning and Targeted Differential Privacy to Improve the Accuracy-Privacy Trade-off in Recommendations**|Peter Müllner et.al.|[2604.26390](http://arxiv.org/abs/2604.26390)|null|
+|**2026-04-29**|**Uncertainty-Aware Reward Discounting for Mitigating Reward Hacking**|Disha Singha et.al.|[2604.26360](http://arxiv.org/abs/2604.26360)|null|
+|**2026-04-29**|**Optimizing Tracking Accuracy in Energy-Constrained Multimodal ISAC via Lyapunov-Driven Heterogeneous Mixture-of-Experts**|Wenqi Fan et.al.|[2604.26330](http://arxiv.org/abs/2604.26330)|null|
+|**2026-04-29**|**Addressing Performance Saturation for LLM RL via Precise Entropy Curve Control**|Bolian Li et.al.|[2604.26326](http://arxiv.org/abs/2604.26326)|null|
+|**2026-04-29**|**Benchmarking PyCaret AutoML Against BiLSTM for Fine-Grained Emotion Classification: A Comparative Study on 20-Class Emotion Detection**|Arya Muda Siregar et.al.|[2604.26310](http://arxiv.org/abs/2604.26310)|null|
+|**2026-04-29**|**MedSynapse-V: Bridging Visual Perception and Clinical Intuition via Latent Memory Evolution**|Chunzheng Zhu et.al.|[2604.26283](http://arxiv.org/abs/2604.26283)|null|
+|**2026-04-29**|**DORA: A Scalable Asynchronous Reinforcement Learning System for Language Model Training**|Tianhao Hu et.al.|[2604.26256](http://arxiv.org/abs/2604.26256)|null|
+|**2026-04-29**|**Comparative Analysis of AutoML and BiLSTM Models for Cyberbullying Detection on Indonesian Instagram Comments**|Raihana Adelia Putri et.al.|[2604.26229](http://arxiv.org/abs/2604.26229)|null|
+|**2026-04-28**|**AI Observability for Large Language Model Systems: A Multi-Layer Analysis of Monitoring Approaches from Confidence Calibration to Infrastructure Tracing**|Twinkll Sisodia et.al.|[2604.26152](http://arxiv.org/abs/2604.26152)|null|
+|**2026-04-28**|**Reinforcement Learning for Public Safety Power Shutoffs Under Decision-Dependent Uncertainty and Nonlinear Wildfire Ignition Models**|Prasanna Raut et.al.|[2604.26150](http://arxiv.org/abs/2604.26150)|null|
+|**2026-04-28**|**Application of Deep Reinforcement Learning to Event-Triggered Control for Networked Artificial Pancreas Systems**|Junya Ikemoto et.al.|[2604.26126](http://arxiv.org/abs/2604.26126)|null|
 |**2026-04-28**|**How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum**|Chu-Cheng Lin et.al.|[2604.25907](http://arxiv.org/abs/2604.25907)|null|
 |**2026-04-28**|**TSN-Affinity: Similarity-Driven Parameter Reuse for Continual Offline Reinforcement Learning**|Dominik Żurek et.al.|[2604.25898](http://arxiv.org/abs/2604.25898)|null|
 |**2026-04-28**|**Three Models of RLHF Annotation: Extension, Evidence, and Authority**|Steve Coyne et.al.|[2604.25895](http://arxiv.org/abs/2604.25895)|null|
@@ -5636,6 +5687,33 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**Causal Learning with Neural Assemblies**|Evangelia Kopadi et.al.|[2604.26919](http://arxiv.org/abs/2604.26919)|null|
+|**2026-04-29**|**Asynchronous Federated Unlearning with Invariance Calibration for Medical Imaging**|Zhaoyuan Cai et.al.|[2604.26809](http://arxiv.org/abs/2604.26809)|null|
+|**2026-04-29**|**Conditional diffusion denoising probabilistic model for super-resolution of atmospheric boundary layer large eddy simulation**|Omar Sallam et.al.|[2604.26776](http://arxiv.org/abs/2604.26776)|null|
+|**2026-04-29**|**TAP into the Patch Tokens: Leveraging Vision Foundation Model Features for AI-Generated Image Detection**|Ahmed Abdullah et.al.|[2604.26772](http://arxiv.org/abs/2604.26772)|null|
+|**2026-04-29**|**Domain-Adapted Small Language Models for Reliable Clinical Triage**|Manar Aljohani et.al.|[2604.26766](http://arxiv.org/abs/2604.26766)|null|
+|**2026-04-29**|**Analytically Characterized Optimal Power Control for Signal-Level-Integrated Sensing, Computing and Communication in Federated Learning**|Paul Zheng et.al.|[2604.26741](http://arxiv.org/abs/2604.26741)|null|
+|**2026-04-29**|**Atomic-Probe Governance for Skill Updates in Compositional Robot Policies**|Xue Qin et.al.|[2604.26689](http://arxiv.org/abs/2604.26689)|null|
+|**2026-04-29**|**Torsion Induced Asymmetric Luttinger Liquids**|Arseny Pantsialei et.al.|[2604.26617](http://arxiv.org/abs/2604.26617)|null|
+|**2026-04-29**|**Who Trains Matters: Federated Learning under Enrollment and Participation Selection Biases**|Gota Morishita et.al.|[2604.26604](http://arxiv.org/abs/2604.26604)|null|
+|**2026-04-29**|**Translating Under Pressure: Domain-Aware LLMs for Crisis Communication**|Antonio Castaldo et.al.|[2604.26597](http://arxiv.org/abs/2604.26597)|null|
+|**2026-04-29**|**TLPO: Token-Level Policy Optimization for Mitigating Language Confusion in Large Language Models**|Jinho Choo et.al.|[2604.26553](http://arxiv.org/abs/2604.26553)|null|
+|**2026-04-29**|**3D Generation for Embodied AI and Robotic Simulation: A Survey**|Tianwei Ye et.al.|[2604.26509](http://arxiv.org/abs/2604.26509)|null|
+|**2026-04-29**|**SafeReview: Defending LLM-based Review Systems Against Adversarial Hidden Prompts**|Yuan Xin et.al.|[2604.26506](http://arxiv.org/abs/2604.26506)|null|
+|**2026-04-29**|**Do Larger Models Really Win in Drug Discovery? A Benchmark Assessment of Model Scaling in AI-Driven Molecular Property and Activity Prediction**|Jinjiang Guo et.al.|[2604.26498](http://arxiv.org/abs/2604.26498)|null|
+|**2026-04-29**|**Differentially Private Contrastive Learning via Bounding Group-level Contribution**|Kecen Li et.al.|[2604.26467](http://arxiv.org/abs/2604.26467)|null|
+|**2026-04-29**|**Diffusion Reconstruction towards Generalizable Audio Deepfake Detection**|Bo Cheng et.al.|[2604.26465](http://arxiv.org/abs/2604.26465)|null|
+|**2026-04-29**|**Multi-Server Secure Aggregation with Arbitrary Collusion and Heterogeneous Security Constraints**|Zhou Li et.al.|[2604.26391](http://arxiv.org/abs/2604.26391)|null|
+|**2026-04-29**|**SplitFT: An Adaptive Federated Split Learning System For LLMs Fine-Tuning**|Yimeng Shan et.al.|[2604.26388](http://arxiv.org/abs/2604.26388)|null|
+|**2026-04-29**|**A spatio-temporal statistical framework for heatwave attribution under climate change**|Kamal Gasser et.al.|[2604.26359](http://arxiv.org/abs/2604.26359)|null|
+|**2026-04-29**|**SpatialFusion: Endowing Unified Image Generation with Intrinsic 3D Geometric Awareness**|Haiyi Qiu et.al.|[2604.26341](http://arxiv.org/abs/2604.26341)|null|
+|**2026-04-29**|**Federated Medical Image Classification under Class and Domain Imbalance exploiting Synthetic Sample Generation**|Martina Pavan et.al.|[2604.26324](http://arxiv.org/abs/2604.26324)|null|
+|**2026-04-29**|**A Systematic Comparison of Prompting and Multi-Agent Methods for LLM-based Stance Detection**|Genan Dai et.al.|[2604.26319](http://arxiv.org/abs/2604.26319)|null|
+|**2026-04-29**|**Cheeger--Hodge Contrastive Learning for Structurally Robust Graph Representation Learning**|Mengyang Zhao et.al.|[2604.26301](http://arxiv.org/abs/2604.26301)|null|
+|**2026-04-29**|**High-Dimensional Noise to Low-Dimensional Manifolds: A Manifold-Space Diffusion Framework for Degraded Hyperspectral Image Classification**|Boxiang Yang et.al.|[2604.26279](http://arxiv.org/abs/2604.26279)|null|
+|**2026-04-28**|**Sample Selection Using Multi-Task Autoencoders in Federated Learning with Non-IID Data**|Emre Ardıç et.al.|[2604.26116](http://arxiv.org/abs/2604.26116)|null|
+|**2026-04-28**|**Privacy-Preserving Federated Learning Framework for Distributed Chemical Process Optimization**|Teetat Pipattaratonchai et.al.|[2604.26073](http://arxiv.org/abs/2604.26073)|null|
+|**2026-04-28**|**Similarity Choice and Negative Scaling in Supervised Contrastive Learning for Deepfake Audio Detection**|Jaskirat Sudan et.al.|[2604.26057](http://arxiv.org/abs/2604.26057)|null|
 |**2026-04-28**|**Luminol-AIDetect: Fast Zero-shot Machine-Generated Text Detection based on Perplexity under Text Shuffling**|Lucio La Cava et.al.|[2604.25860](http://arxiv.org/abs/2604.25860)|null|
 |**2026-04-28**|**Model-agnostic information transfer and fusion for classification with label noise**|Zhu Guojun et.al.|[2604.25845](http://arxiv.org/abs/2604.25845)|null|
 |**2026-04-28**|**Analysis of quarkonium polarization in proton-proton (p-p) collisions at LHC using PYTHIA model**|Deekshit Kumar et.al.|[2604.25838](http://arxiv.org/abs/2604.25838)|null|
