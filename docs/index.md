@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.02
+## Updated on 2026.05.03
 ## Computer Vision and Pattern Recognition
 
 | Publish Date | Title | Authors | PDF | Code |
